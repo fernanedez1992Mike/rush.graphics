@@ -1,0 +1,29 @@
+.customize-control-widget_form div[id*='blahlab-widget'] .form .widget-anchor-id {
+  display: none;
+}
+
+[id^="customize-control-widget_blahlab-widget-10-images-grid"] span.remove {
+  display: none;
+}
+
+/* temporarily settings */
+/* metabox */
+.options.hide-disabled {
+  display: block;
+}
+
+
+
+/* temporary settings for raw input */
+.control-section .vue-widget-content-disabled {
+  display: none;
+}
+
+.control-section .widget-content .hide-disabled {
+  display: block !important;
+}
+
+/* hide blahlab sidebars */
+.widgets-holder-wrap div[id^="blahlab-home-"], .widgets-holder-wrap div[id^=blahlab] {
+  display: none;
+}

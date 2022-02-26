@@ -1,0 +1,4798 @@
+# Translation of Plugins - Premium Addons for Elementor - Stable (latest release) in Persian
+# This file is distributed under the same license as the Plugins - Premium Addons for Elementor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-02-14 12:48:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - Premium Addons for Elementor - Stable (latest release)\n"
+
+#: widgets/premium-pricing-table.php:672 widgets/premium-pricing-table.php:934
+#: widgets/premium-pricing-table.php:2139
+msgid "Ribbon"
+msgstr "روبان"
+
+#: widgets/premium-pricing-table.php:687
+msgid "Stripe"
+msgstr "راه راه"
+
+#: widgets/premium-pricing-table.php:688
+msgid "Flag"
+msgstr "پرچم"
+
+#: widgets/premium-pricing-table.php:698
+msgid "NEW"
+msgstr "جدید"
+
+#: widgets/premium-pricing-table.php:470
+msgid "Tooltip"
+msgstr "راهنما"
+
+#: widgets/premium-pricing-table.php:478
+msgid "Tooltip Text"
+msgstr "متن راهنما"
+
+#: widgets/premium-title.php:445
+msgid "Stripe Position"
+msgstr "موقعیت نوار"
+
+#: widgets/premium-person.php:1460
+msgid "Brands Default Colors"
+msgstr "رنگ‌های پیش‌فرض برندها"
+
+#: widgets/premium-pricing-table.php:364
+msgid "Feature List"
+msgstr "لیست ویژگی"
+
+#: widgets/premium-pricing-table.php:378
+msgid "Feature Title"
+msgstr "عنوان ویژگی"
+
+#: widgets/premium-person.php:496 widgets/premium-person.php:777
+msgid "Enable Social Icons"
+msgstr "فعالسازی آیکون‌های شبکه‌های اجتماعی"
+
+#: widgets/premium-person.php:1576
+msgid "Bottom Offset"
+msgstr "انحراف پایین"
+
+#: widgets/premium-person.php:1602
+msgid "Transition Duration (sec)"
+msgstr "زمان گذار (ثانیه)"
+
+#: widgets/premium-videobox.php:950
+msgid "Thumbnail Size"
+msgstr "اندازه تصویر بندانگشتی"
+
+#: widgets/premium-title.php:542
+msgid "Stripe Alignment"
+msgstr "ترازبندی نوار"
+
+#: widgets/premium-videobox.php:544
+msgid "Autoplay"
+msgstr "پخش خودکار"
+
+#: widgets/premium-vscroll.php:534
+msgid "Enable Full Section Scroll on Touch Devices"
+msgstr "فعال‌سازی اسکرول تمام بخش در دستگاه‌های لمسی"
+
+#: widgets/premium-videobox.php:828
+msgid "Suggested Videos From"
+msgstr "ویدئوهای پیشنهادی از"
+
+#: widgets/premium-videobox.php:831
+msgid "Current Channel"
+msgstr "کانال کنونی"
+
+#: widgets/premium-videobox.php:832
+msgid "Any Channel"
+msgstr "هر کانال"
+
+#: widgets/premium-vscroll.php:524
+msgid "Save to Browser History"
+msgstr "ذخیره در تاریخچه‌ی مرورگر"
+
+#: widgets/premium-vscroll.php:526
+msgid "Enabling this option will save the current section ID to the browser history"
+msgstr "فعال کردن این گزینه، شناسه بخش فعلی را در تاریخچه مرورگر ذخیره می‌کند"
+
+#: widgets/premium-videobox.php:900
+msgid "Aspect Ratio"
+msgstr "نسبت ابعاد"
+
+#: widgets/premium-videobox.php:508
+msgid "Player Controls"
+msgstr "کنترل‌های ویدئو پلیر"
+
+#: widgets/premium-videobox.php:510
+msgid "Show/hide player controls"
+msgstr "کنترل‌های ویدئو پلیر را نمایش دهید یا مخفی کنید"
+
+#: widgets/premium-videobox.php:796
+msgid "Start Time"
+msgstr "زمان شروع"
+
+#: widgets/premium-videobox.php:802
+msgid "Specify a start time (in seconds)"
+msgstr "یک زمان برای شروع مشخص کنید (بر حسب ثانیه)"
+
+#: widgets/premium-videobox.php:812
+msgid "End Time"
+msgstr "زمان پایان"
+
+#: widgets/premium-videobox.php:814
+msgid "Specify an end time (in seconds)"
+msgstr "یک زمان برای پایان مشخص کنید (بر حسب ثانیه)"
+
+#: widgets/premium-vscroll.php:402
+msgid "Shape"
+msgstr "شکل"
+
+#: widgets/premium-vscroll.php:405
+msgid "Circles"
+msgstr "دایره‌ها"
+
+#: widgets/premium-vscroll.php:406
+msgid "Lines"
+msgstr "خط‌ها"
+
+#: widgets/premium-testimonials.php:51
+msgid "Testimonial"
+msgstr "نظر‌مشتری"
+
+#: widgets/premium-person.php:587 widgets/premium-person.php:868
+msgid "Skype"
+msgstr "اسکایپ"
+
+#: widgets/premium-person.php:573 widgets/premium-person.php:854
+msgid "Instagram"
+msgstr "اینستاگرام"
+
+#: widgets/premium-progressbar.php:530
+msgid "Speed (milliseconds)"
+msgstr "سرعت (میلی‌ثانیه)"
+
+#: widgets/premium-videobox.php:525
+msgid "This will play the video muted"
+msgstr "این گزینه ویدئو را به‌صورت بی‌صدا نمایش می‌دهد"
+
+#: widgets/premium-vscroll.php:182
+msgid "Elementor Templates"
+msgstr "الگوهای المنتور"
+
+#: widgets/premium-vscroll.php:183 widgets/premium-vscroll.php:206
+#: widgets/premium-vscroll.php:231
+msgid "Section ID"
+msgstr "شناسه‌ بخش"
+
+#: widgets/premium-vscroll.php:180
+msgid "Choose which method you prefer to insert sections."
+msgstr "انتخاب کنید که کدام روش را برای درج بخش‌ها ترجیح می‌دهید."
+
+#: widgets/premium-vscroll.php:345
+msgid "Menu Items"
+msgstr "آیتم‌های منو"
+
+#: widgets/premium-pricing-table.php:1734 widgets/premium-vscroll.php:596
+msgid "Tooltips"
+msgstr "راهنما"
+
+#: widgets/premium-vscroll.php:262 widgets/premium-vscroll.php:836
+msgid "Navigation Menu"
+msgstr "منوی پیمایش"
+
+#: widgets/premium-vscroll.php:264
+msgid "This option works only on the frontend"
+msgstr "این گزینه فقط در فرانت‌اِند کار می‌کند"
+
+#: widgets/premium-vscroll.php:287
+msgid "Offset Top"
+msgstr "انحراف بالا"
+
+#: widgets/premium-vscroll.php:302
+msgid "Offset Left"
+msgstr "انحراف چپ"
+
+#: widgets/premium-vscroll.php:318
+msgid "Offset Right"
+msgstr "انحراف راست"
+
+#: widgets/premium-vscroll.php:336
+msgid "List Item"
+msgstr "لیست آیتم"
+
+#: widgets/premium-vscroll.php:430
+msgid "Dots Tooltips Text"
+msgstr "متن راهنمای نقطه‌ها"
+
+#: widgets/premium-vscroll.php:433
+msgid "Add text for each navigation dot separated by ','"
+msgstr "برای هر نقطه‌ی پیمایش یک متن جداشده با کاما انگلیسی (,) اضافه کنید"
+
+#: widgets/premium-vscroll.php:477
+msgid "Scroll Settings"
+msgstr "تنظیمات اسکرول"
+
+#: widgets/premium-vscroll.php:498
+msgid "Scroll Speed"
+msgstr "سرعت اسکرول"
+
+#: widgets/premium-vscroll.php:500
+msgid "Set scolling speed in seconds, default: 0.7"
+msgstr "سرعت اسکرول را بر حسب ثانیه تنظیم کنید، پیش‌فرض: 0.7"
+
+#: widgets/premium-vscroll.php:515
+msgid "Full Section Scroll"
+msgstr "اسکرول تمام بخش"
+
+#: widgets/premium-vscroll.php:606
+msgid "Tooltips Text Color"
+msgstr "رنگ متن راهنما"
+
+#: widgets/premium-vscroll.php:637
+msgid "Tooltips Background"
+msgstr "پس‌زمینه‌ی راهنما"
+
+#: widgets/premium-vscroll.php:732
+msgid "Dots Color"
+msgstr "رنگ نقطه‌ها"
+
+#: widgets/premium-vscroll.php:746
+msgid "Active Dot Color"
+msgstr "رنگ نقطه‌ی فعال"
+
+#: widgets/premium-vscroll.php:760
+msgid "Dots Border Color"
+msgstr "رنگ کادر نقطه‌ها"
+
+#: widgets/premium-pricing-table.php:304 widgets/premium-pricing-table.php:1220
+msgid "Slashed Price"
+msgstr "قیمت خط خورده"
+
+#: widgets/premium-modalbox.php:946
+msgid "Icon Hover Color"
+msgstr "رنگ آیکون هنگام هاور"
+
+#: widgets/premium-modalbox.php:1596
+msgid "Max Height"
+msgstr "حداکثر ارتفاع"
+
+#: widgets/premium-blog.php:701 widgets/premium-pricing-table.php:685
+msgid "Triangle"
+msgstr "مثلث"
+
+#: widgets/premium-dual-header.php:321
+msgid "X Anchor Point"
+msgstr "هدف لنگر X"
+
+#: widgets/premium-dual-header.php:350
+msgid "Y Anchor Point"
+msgstr "هدف لنگر Y"
+
+#: widgets/premium-blog.php:547
+msgid "Featured Image"
+msgstr "تصویر شاخص"
+
+#: widgets/premium-image-separator.php:156
+msgid "Separator Type"
+msgstr "نوع جداکننده"
+
+#: widgets/premium-image-separator.php:326
+msgid "Gutter (%)"
+msgstr "شیار (%)"
+
+#: widgets/premium-carousel.php:1066
+msgid "Active Ripple Color"
+msgstr "رنگ موج فعال"
+
+#: widgets/premium-carousel.php:1080
+msgid "Inactive Ripple Color"
+msgstr "رنگ موج غیرفعال"
+
+#: widgets/premium-banner.php:818 widgets/premium-dual-header.php:1065
+#: widgets/premium-image-scroll.php:718 widgets/premium-person.php:1194
+#: widgets/premium-title.php:1468
+msgid "Blend Mode"
+msgstr "حالت ترکیبی"
+
+#: widgets/premium-grid.php:1093
+msgid "Videos Play Icon"
+msgstr "آیکون play در ویدئوها"
+
+#: widgets/premium-icon-list.php:900 widgets/premium-modalbox.php:394
+#: widgets/premium-videobox.php:695 widgets/premium-vscroll.php:444
+msgid "Entrance Animation"
+msgstr "انیمیشن ورودی"
+
+#: widgets/premium-icon-list.php:915 widgets/premium-modalbox.php:407
+#: widgets/premium-videobox.php:707 widgets/premium-vscroll.php:457
+msgid "Animation Duration"
+msgstr "مدت زمان انیمیشن"
+
+#: widgets/premium-icon-list.php:919 widgets/premium-modalbox.php:411
+#: widgets/premium-videobox.php:711 widgets/premium-vscroll.php:461
+msgid "Slow"
+msgstr "آهسته"
+
+#: widgets/premium-icon-list.php:921 widgets/premium-modalbox.php:413
+#: widgets/premium-videobox.php:713 widgets/premium-vscroll.php:463
+msgid "Fast"
+msgstr "سریع"
+
+#: modules/woocommerce/widgets/woo-products.php:822
+#: widgets/premium-blog.php:1343
+msgid "Enable Pagination"
+msgstr "فعالسازی صفحه‌بندی"
+
+#: widgets/premium-countdown.php:336
+msgid "Digits Separator"
+msgstr "جداکننده ارقام"
+
+#: widgets/premium-countdown.php:337
+msgid "Enable or disable digits separator"
+msgstr "جداکننده ارقام را فعال یا غیرفعال کنید"
+
+#: widgets/premium-countdown.php:348
+msgid "Separator Text"
+msgstr "متن جداکننده"
+
+#: widgets/premium-countdown.php:863 widgets/premium-image-separator.php:572
+#: widgets/premium-testimonials.php:196
+msgid "Separator"
+msgstr "جداکننده"
+
+#: widgets/premium-grid.php:939
+msgid "Youtube Videos Thumbnail Size"
+msgstr "اندازه تصویر بندانگشتی ویدئوهای یوتیوب"
+
+#: widgets/premium-grid.php:1001
+msgid "Style 4 works only with Even / Masonry Layout"
+msgstr "استایل 4 فقط با طرح‌بندی زوج/آجرچینی کار می‌کند"
+
+#: widgets/premium-grid.php:1399
+msgid "Hover Overlay Color"
+msgstr "رنگ پوشش هاور"
+
+#: widgets/premium-grid.php:1485
+msgid "Title / Description"
+msgstr "عنوان و توضیحات"
+
+#: widgets/premium-blog.php:169
+msgid "Modern"
+msgstr "مدرن"
+
+#: widgets/premium-blog.php:579
+msgid "Overlay Effect"
+msgstr "افکت پوشش"
+
+#: widgets/premium-blog.php:2079
+msgid "Content Box"
+msgstr "جعبه محتوا"
+
+#: widgets/premium-grid.php:1058
+msgid "Links Icon"
+msgstr "آیکون لینک‌ها"
+
+#: widgets/premium-grid.php:1070
+msgid "Videos"
+msgstr "ویدئوها"
+
+#: widgets/premium-grid.php:1224
+msgid "Lightbox Icon"
+msgstr "آیکون لایت‌باکس"
+
+#: widgets/premium-grid.php:727 widgets/premium-videobox.php:478
+msgid "Remote Video URL"
+msgstr "آدرس اینترنتی ویدئو از راه دور"
+
+#: widgets/premium-grid.php:942 widgets/premium-videobox.php:953
+msgid "Maximum Resolution"
+msgstr "حداکثر وضوح"
+
+#: widgets/premium-grid.php:943 widgets/premium-videobox.php:954
+msgid "High Quality"
+msgstr "کیفیت بالا"
+
+#: widgets/premium-grid.php:944 widgets/premium-videobox.php:955
+msgid "Medium Quality"
+msgstr "کیفیت متوسط"
+
+#: widgets/premium-grid.php:945 widgets/premium-videobox.php:956
+msgid "Standard Quality"
+msgstr "کیفیت استاندارد"
+
+#: widgets/premium-grid.php:595
+msgid "Images/Videos"
+msgstr "تصاویر/ویدئوها"
+
+#: widgets/premium-grid.php:660
+msgid "Video"
+msgstr "ویدئو"
+
+#: widgets/premium-grid.php:672 widgets/premium-person.php:560
+#: widgets/premium-person.php:841
+msgid "YouTube"
+msgstr "یوتیوب"
+
+#: widgets/premium-grid.php:687
+msgid "Video URL"
+msgstr "آدرس ویدیو"
+
+#: widgets/premium-grid.php:707
+msgid "Select Video"
+msgstr "انتخاب ویدئو"
+
+#: widgets/premium-grid.php:1079
+msgid "Always Show Play Icon"
+msgstr "همیشه آیکون play را نمایش بده"
+
+#: widgets/premium-grid.php:1161
+msgid "Lightbox Style"
+msgstr "استایل لایت‌باکس"
+
+#: widgets/premium-grid.php:1165
+msgid "PrettyPhoto"
+msgstr "تصویر زیبا"
+
+#: widgets/premium-grid.php:1166
+msgid "Elementor"
+msgstr "المنتور"
+
+#: widgets/premium-grid.php:1167
+msgid "Other Lightbox Plugin"
+msgstr "افزونه لایت‌باکس دیگر"
+
+#: widgets/premium-blog.php:2836
+msgid "Carousel Dots"
+msgstr "نقطه‌های گردونه"
+
+#: widgets/premium-blog.php:2878
+msgid "Carousel Arrows"
+msgstr "فلش‌های گردونه"
+
+#: widgets/premium-grid.php:931
+msgid "Shuffle Images on Page Load"
+msgstr "در هنگام بارگیری صفحه، ترتیب تصاویر را بهم بزن"
+
+#: widgets/premium-counter.php:171
+msgid "Starting Number"
+msgstr "عدد شروع"
+
+#: widgets/premium-grid.php:540
+msgid "Shuffle Images on Filter Click"
+msgstr "در هنگام کلیک بر روی فیلتر ، ترتیب تصاویر را بهم بزن"
+
+#: includes/templates/classes/config.php:62
+msgid "Premium Templates"
+msgstr "الگوهای پریمیوم"
+
+#: includes/templates/classes/config.php:172
+msgid "Activate License"
+msgstr "فعالسازی مجوز"
+
+#: includes/templates/classes/config.php:174
+msgid "Get Pro"
+msgstr "دریافت نسخه پرو"
+
+#: includes/templates/documents/section.php:16
+#: includes/templates/types/section.php:21
+msgid "Section"
+msgstr "بخش"
+
+#: includes/templates/scripts/template-modal-error.php:12
+msgid "Template couldn't be loaded. Please activate you license key before."
+msgstr "الگو بارگیری نمی‌شود. لطفاً قبل از آن، کلید مجوز خود را فعال کنید."
+
+#: includes/templates/scripts/template-modal-header-back.php:9
+msgid "Back to Library"
+msgstr "بازگشت به کتابخانه"
+
+#: includes/templates/scripts/template-modal-keywords.php:10
+msgid "Filter by Widget / Addon"
+msgstr "فیلتر بر اساس ابزارک / افزودنی"
+
+#: includes/templates/scripts/template-modal-keywords.php:12
+msgid "All Widgets/Addons"
+msgstr "همه‌ی ابزارک‌ها/افزودنی‌ها"
+
+#: includes/templates/scripts/template-modal-loading.php:14
+msgid "Loading"
+msgstr "در حال بارگذاری"
+
+#: modules/woocommerce/widgets/woo-products.php:1195
+#: widgets/premium-blog.php:785 widgets/premium-videobox.php:1477
+msgid "Rows Spacing"
+msgstr "فاصله‌ی ردیف‌ها"
+
+#: modules/woocommerce/widgets/woo-products.php:1216
+#: widgets/premium-blog.php:808 widgets/premium-videobox.php:1504
+msgid "Columns Spacing"
+msgstr "فاصله‌ی ستون‌ها"
+
+#: widgets/premium-grid.php:1106
+msgid "This option moves the origin of the grid to the right side. Useful for RTL direction sites"
+msgstr "این گزینه مبدأ شبکه را به سمت راست منتقل می‌کند. برای سایت‌های جهت RTL مفید است"
+
+#: widgets/premium-dual-header.php:709 widgets/premium-dual-header.php:906
+msgid "Stroke Text Color"
+msgstr "رنگ متن کادر"
+
+#: widgets/premium-dual-header.php:698 widgets/premium-dual-header.php:895
+#: widgets/premium-title.php:1184 widgets/premium-title.php:1427
+msgid "Stroke"
+msgstr "کادر"
+
+#: widgets/premium-dual-header.php:724 widgets/premium-dual-header.php:921
+msgid "Stroke Fill Color"
+msgstr "رنگ کادر"
+
+#: widgets/premium-dual-header.php:739 widgets/premium-dual-header.php:936
+#: widgets/premium-title.php:1213 widgets/premium-title.php:1450
+msgid "Stroke Fill Width"
+msgstr "عرض کادر"
+
+#: modules/woocommerce/widgets/woo-products.php:1152
+#: widgets/premium-banner.php:605 widgets/premium-blog.php:1434
+#: widgets/premium-button.php:706 widgets/premium-carousel.php:579
+#: widgets/premium-countdown.php:608 widgets/premium-counter.php:489
+#: widgets/premium-dual-header.php:596 widgets/premium-fancytext.php:503
+#: widgets/premium-grid.php:1285 widgets/premium-icon-list.php:978
+#: widgets/premium-image-button.php:655 widgets/premium-image-scroll.php:588
+#: widgets/premium-image-separator.php:550 widgets/premium-lottie.php:476
+#: widgets/premium-maps.php:541 widgets/premium-modalbox.php:827
+#: widgets/premium-person.php:1085 widgets/premium-progressbar.php:567
+#: widgets/premium-testimonials.php:331 widgets/premium-videobox.php:1397
+#: widgets/premium-vscroll.php:562
+msgid "Helpful Documentations"
+msgstr "مستندات مفید"
+
+#: includes/helper-functions.php:258
+msgid "Arabic"
+msgstr "عربی"
+
+#: includes/helper-functions.php:259
+msgid "Basque"
+msgstr "باسک"
+
+#: includes/helper-functions.php:260
+msgid "Bulgarian"
+msgstr "بلغاری"
+
+#: includes/helper-functions.php:261
+msgid "Bengali"
+msgstr "بنگالی"
+
+#: includes/helper-functions.php:262
+msgid "Catalan"
+msgstr "کاتالان"
+
+#: includes/helper-functions.php:263
+msgid "Czech"
+msgstr "چکوسلاواکی"
+
+#: includes/helper-functions.php:264
+msgid "Danish"
+msgstr "دانمارکی"
+
+#: includes/helper-functions.php:265
+msgid "German"
+msgstr "آلمانی"
+
+#: includes/helper-functions.php:266
+msgid "Greek"
+msgstr "یونانی"
+
+#: includes/helper-functions.php:267
+msgid "English"
+msgstr "انگلیسی"
+
+#: includes/helper-functions.php:268
+msgid "English (australian)"
+msgstr "انگلیسی (استرالیایی)"
+
+#: includes/helper-functions.php:269
+msgid "English (great britain)"
+msgstr "انگلیسی (بریتانیایی)"
+
+#: includes/helper-functions.php:270
+msgid "Spanish"
+msgstr "اسپانیایی"
+
+#: includes/helper-functions.php:271
+msgid "Farsi"
+msgstr "فارسی"
+
+#: includes/helper-functions.php:272
+msgid "Finnish"
+msgstr "فنلاندی"
+
+#: includes/helper-functions.php:273
+msgid "Filipino"
+msgstr "فیلیپینی"
+
+#: includes/helper-functions.php:274
+msgid "French"
+msgstr "فرانسوی"
+
+#: includes/helper-functions.php:275
+msgid "Galician"
+msgstr "گالیسی"
+
+#: includes/helper-functions.php:276
+msgid "Gujarati"
+msgstr "گجراتی"
+
+#: includes/helper-functions.php:277
+msgid "Hindi"
+msgstr "هندی"
+
+#: includes/helper-functions.php:278
+msgid "Croatian"
+msgstr "کرواسی"
+
+#: includes/helper-functions.php:279
+msgid "Hungarian"
+msgstr "مجارستانی"
+
+#: includes/helper-functions.php:280
+msgid "Indonesian"
+msgstr "اندونزیایی"
+
+#: includes/helper-functions.php:281
+msgid "Italian"
+msgstr "ایتالیایی"
+
+#: includes/helper-functions.php:282
+msgid "Hebrew"
+msgstr "عبری"
+
+#: includes/helper-functions.php:283
+msgid "Japanese"
+msgstr "ژاپنی"
+
+#: includes/helper-functions.php:284
+msgid "Kannada"
+msgstr "کانادایی"
+
+#: includes/helper-functions.php:285
+msgid "Korean"
+msgstr "کره‌ای"
+
+#: includes/helper-functions.php:286
+msgid "Lithuanian"
+msgstr "لیتوانیایی"
+
+#: includes/helper-functions.php:287
+msgid "Latvian"
+msgstr "لتونی"
+
+#: includes/helper-functions.php:288
+msgid "Malayalam"
+msgstr "مالایایی"
+
+#: includes/helper-functions.php:289
+msgid "Marathi"
+msgstr "ماراتی"
+
+#: includes/helper-functions.php:290
+msgid "Dutch"
+msgstr "هلندی"
+
+#: includes/helper-functions.php:291
+msgid "Norwegian"
+msgstr "نروژی"
+
+#: includes/helper-functions.php:292
+msgid "Polish"
+msgstr "لهستانی"
+
+#: includes/helper-functions.php:293
+msgid "Portuguese"
+msgstr "پرتغالی"
+
+#: includes/helper-functions.php:294
+msgid "Portuguese (brazil)"
+msgstr "پرتغالی (برزیلی)"
+
+#: includes/helper-functions.php:295
+msgid "Portuguese (portugal)"
+msgstr "پرتغالی (پرتغال)"
+
+#: includes/helper-functions.php:296
+msgid "Romanian"
+msgstr "رومانیایی"
+
+#: includes/helper-functions.php:297
+msgid "Russian"
+msgstr "روسی"
+
+#: includes/helper-functions.php:298
+msgid "Slovak"
+msgstr "اسلواکی"
+
+#: includes/helper-functions.php:299
+msgid "Slovenian"
+msgstr "اسلوونیایی"
+
+#: includes/helper-functions.php:300
+msgid "Serbian"
+msgstr "صربستانی"
+
+#: includes/helper-functions.php:301
+msgid "Swedish"
+msgstr "سوئدی"
+
+#: includes/helper-functions.php:302
+msgid "Tagalog"
+msgstr "تاگالوگ"
+
+#: includes/helper-functions.php:303
+msgid "Tamil"
+msgstr "تامیل"
+
+#: includes/helper-functions.php:304
+msgid "Telugu"
+msgstr "تلوگو"
+
+#: includes/helper-functions.php:305
+msgid "Thai"
+msgstr "تایلندی"
+
+#: includes/helper-functions.php:306
+msgid "Turkish"
+msgstr "ترکی"
+
+#: includes/helper-functions.php:307
+msgid "Ukrainian"
+msgstr "اوکراینی"
+
+#: includes/helper-functions.php:308
+msgid "Vietnamese"
+msgstr "ویتنامی"
+
+#: includes/helper-functions.php:309
+msgid "Chinese (simplified)"
+msgstr "چینی (ساده‌شده)"
+
+#: includes/helper-functions.php:310
+msgid "Chinese (traditional)"
+msgstr "چینی (سنتی)"
+
+#: widgets/premium-blog.php:1079 widgets/premium-grid.php:437
+msgid "Filter Tabs"
+msgstr "تب‌های فیلتر"
+
+#: widgets/premium-grid.php:1191
+msgid "Lightbox Theme"
+msgstr "قالب لایت‌باکس"
+
+#: widgets/premium-grid.php:1195
+msgid "Light Rounded"
+msgstr "دایره‌ای روشن"
+
+#: widgets/premium-grid.php:1196
+msgid "Dark Rounded"
+msgstr "دایره‌ای تیره"
+
+#: widgets/premium-grid.php:1197
+msgid "Light Square"
+msgstr "مربع روشن"
+
+#: widgets/premium-grid.php:1198
+msgid "Dark Square"
+msgstr "مربع تیره"
+
+#: widgets/premium-blog.php:168
+msgid "Classic"
+msgstr "کلاسیک"
+
+#: widgets/premium-blog.php:170
+msgid "Cards"
+msgstr "کارت‌ها"
+
+#: widgets/premium-grid.php:227
+msgid "Images Fit"
+msgstr "تناسب تصاویر"
+
+#: widgets/premium-banner.php:763 widgets/premium-blog.php:1701
+#: widgets/premium-grid.php:1450 widgets/premium-image-separator.php:592
+#: widgets/premium-modalbox.php:883 widgets/premium-person.php:1175
+msgid "Hover CSS Filters"
+msgstr "فیلترهای CSS هاور"
+
+#: widgets/premium-blog.php:997
+msgid "Read More Text"
+msgstr "متن ادامه مطلب"
+
+#: widgets/premium-contactform.php:46
+msgid "Contact Form7"
+msgstr "فرم تماس 7"
+
+#: widgets/premium-banner.php:270
+msgid "Effect 1"
+msgstr "افکت 1"
+
+#: widgets/premium-banner.php:271
+msgid "Effect 2"
+msgstr "افکت 2"
+
+#: widgets/premium-banner.php:272
+msgid "Effect 3"
+msgstr "افکت 3"
+
+#: widgets/premium-banner.php:273
+msgid "Effect 4"
+msgstr "افکت 4"
+
+#: widgets/premium-banner.php:274
+msgid "Effect 5"
+msgstr "افکت 5"
+
+#: widgets/premium-banner.php:275
+msgid "Effect 6"
+msgstr "افکت 6"
+
+#: modules/premium-section-floating-effects/module.php:863
+#: modules/woocommerce/widgets/woo-products.php:342
+#: modules/woocommerce/widgets/woo-products.php:941
+#: modules/woocommerce/widgets/woo-products.php:1352
+#: widgets/premium-banner.php:319 widgets/premium-counter.php:600
+#: widgets/premium-fancytext.php:256
+msgid "Custom"
+msgstr "سفارشی"
+
+#: widgets/premium-blog.php:669
+msgid "Thumbnail Fit"
+msgstr "تصویر بندانگشتی متناسب"
+
+#: widgets/premium-blog.php:672 widgets/premium-grid.php:231
+#: widgets/premium-image-scroll.php:315 widgets/premium-image-scroll.php:488
+#: widgets/premium-image-separator.php:309
+#: widgets/premium-image-separator.php:482 widgets/premium-videobox.php:1040
+msgid "Cover"
+msgstr "پوشش"
+
+#: widgets/premium-blog.php:673 widgets/premium-grid.php:230
+#: widgets/premium-image-scroll.php:487 widgets/premium-image-separator.php:310
+#: widgets/premium-progressbar.php:666
+msgid "Fill"
+msgstr "پُر شده"
+
+#: widgets/premium-blog.php:674 widgets/premium-image-scroll.php:314
+#: widgets/premium-image-separator.php:311
+#: widgets/premium-image-separator.php:481 widgets/premium-videobox.php:1039
+msgid "Contain"
+msgstr "شامل"
+
+#: widgets/premium-modalbox.php:297
+msgid "Add a title for the modal box"
+msgstr "یک عنوان برای جعبه مودال اضافه کنید"
+
+#: includes/compatibility/widgets/carousel.php:57
+msgid "Carousel: Template"
+msgstr "گردونه: الگو"
+
+#: widgets/premium-fancytext.php:471
+msgid "Fancy Text Alignment"
+msgstr "ترازبندی متن فانتزی"
+
+#: widgets/premium-grid.php:829
+msgid "To assign for multiple categories, separate by a comma ','"
+msgstr "برای اختصاص دادن چندین دسته‌بندی، آنها را با استفاده از کاما انگلیسی (,) جدا کنید"
+
+#: widgets/premium-grid.php:306
+msgid "Set the minimum number of images before showing load more button"
+msgstr "حداقل تعداد تصاویر قبل از نمایش دکمه‌ی \"بارگذاری بیشتر\" را تنظیم کنید"
+
+#: widgets/premium-grid.php:317
+msgid "Images to Show"
+msgstr "تعداد تصاویر برای نمایش"
+
+#: widgets/premium-grid.php:319
+msgid "Set the minimum number of images to show with each click"
+msgstr "حداقل تعداد تصاویر برای نمایش با هر کلیک را تنظیم کنید"
+
+#: includes/compatibility/premium-addons-wpml.php:456
+msgid "Person: Title"
+msgstr "شخص: عنوان"
+
+#: includes/compatibility/premium-addons-wpml.php:461
+msgid "Person: Description"
+msgstr "شخص: توضیحات"
+
+#: includes/compatibility/premium-addons-wpml.php:473
+msgid "Pricing Table: Title"
+msgstr "جدول قیمت‌گذاری: عنوان"
+
+#: includes/compatibility/premium-addons-wpml.php:478
+msgid "Pricing Table: Slashed Price"
+msgstr "جدول قیمت‌گذاری: قیمت خط خورده"
+
+#: includes/compatibility/premium-addons-wpml.php:483
+msgid "Pricing Table: Currency"
+msgstr "جدول قیمت‌گذاری: واحد پول"
+
+#: includes/compatibility/premium-addons-wpml.php:488
+msgid "Pricing Table: Price Value"
+msgstr "جدول قیمت‌گذاری: مقدار قیمت"
+
+#: includes/compatibility/premium-addons-wpml.php:493
+msgid "Pricing Table: Separator"
+msgstr "جدول قیمت‌گذاری: جداکننده"
+
+#: includes/compatibility/premium-addons-wpml.php:498
+msgid "Pricing Table: Duration"
+msgstr "جدول قیمت‌گذاری: مدت زمان"
+
+#: includes/compatibility/premium-addons-wpml.php:503
+msgid "Pricing Table: Description"
+msgstr "جدول قیمت‌گذاری: توضیحات"
+
+#: includes/compatibility/premium-addons-wpml.php:508
+msgid "Pricing Table: Button Text"
+msgstr "جدول قیمت‌گذاری: متن دکمه"
+
+#: includes/compatibility/premium-addons-wpml.php:513
+msgid "Pricing Table: Button URL"
+msgstr "جدول قیمت‌گذاری: آدرس اینترنتی دکمه"
+
+#: includes/compatibility/premium-addons-wpml.php:518
+msgid "Pricing Table: Badge"
+msgstr "جدول قیمت‌گذاری: نشان"
+
+#: includes/compatibility/premium-addons-wpml.php:530
+msgid "Progress Bar: Left Label"
+msgstr "نوار پیشرفت: برچسب چپ"
+
+#: includes/compatibility/premium-addons-wpml.php:542
+msgid "Testimonial: Name"
+msgstr "نظرمشتری: نام"
+
+#: includes/compatibility/premium-addons-wpml.php:552
+msgid "Testimonial: Company"
+msgstr "نظرمشتری: شرکت"
+
+#: includes/compatibility/premium-addons-wpml.php:557
+msgid "Testimonial: Company Link"
+msgstr "نظرمشتری: لینک شرکت"
+
+#: includes/compatibility/premium-addons-wpml.php:562
+msgid "Testimonial: Content"
+msgstr "نظرمشتری: محتوا"
+
+#: includes/compatibility/premium-addons-wpml.php:573
+msgid "Title: Text"
+msgstr "عنوان: متن"
+
+#: includes/compatibility/premium-addons-wpml.php:594
+msgid "Video Box: Link"
+msgstr "جعبه ویدئو: لینک"
+
+#: includes/compatibility/premium-addons-wpml.php:599
+msgid "Video Box: Description"
+msgstr "جعبه ویدئو: توضیحات"
+
+#: includes/compatibility/premium-addons-wpml.php:610
+msgid "Vertical Scroll: Tooltips"
+msgstr "اسکرول عمودی: راهنماها"
+
+#: includes/compatibility/widgets/grid.php:63
+msgid "Grid: Image Name"
+msgstr "شبکه: نام تصویر"
+
+#: includes/compatibility/widgets/grid.php:66
+msgid "Grid: Image Description"
+msgstr "شبکه: توضیحات تصویر"
+
+#: includes/compatibility/widgets/maps.php:61
+msgid "Maps: Marker Latitude"
+msgstr "نقشه: نشانگر عرض جغرافیایی"
+
+#: includes/compatibility/widgets/maps.php:64
+msgid "Maps: Marker Longitude"
+msgstr "نقشه: نشانگر طول جغرافیایی"
+
+#: includes/compatibility/widgets/maps.php:67
+msgid "Maps: Marker Title"
+msgstr "نقشه: عنوان نشانگر"
+
+#: includes/compatibility/widgets/maps.php:70
+msgid "Maps: Marker Description"
+msgstr "نقشه: نشانگر توضیحات"
+
+#: includes/compatibility/widgets/pricing-table.php:60
+msgid "Pricing Table: Item Text"
+msgstr "جدول قیمت‌گذاری: متن آیتم"
+
+#: includes/compatibility/widgets/progress-bar.php:57
+msgid "Progress Bar: Label Text"
+msgstr "نوار پیشرفت: متن برچسب"
+
+#: includes/compatibility/widgets/vertical-scroll.php:57
+msgid "Vertical Scroll: Section ID"
+msgstr "اسکرول عمودی: شناسه بخش"
+
+#: widgets/premium-carousel.php:549
+msgid "Tablet Breakpoint"
+msgstr "نقطه‌ی شروع حالت تبلت"
+
+#: widgets/premium-carousel.php:550
+msgid "Sets the breakpoint between desktop and tablet devices. Below this breakpoint tablet layout will appear (Default: 1025px)."
+msgstr "این گزینه یک نقطه‌ی شروع برای تبدیل حالت نمایش دسکتاپ به تبلت را تنظیم می‌کند. در زیر این طرح نقطه شروع تبلت ظاهر می‌شود (پیش‌فرض: 1025 پیکسل)."
+
+#: widgets/premium-carousel.php:559
+msgid "Mobile Breakpoint"
+msgstr "نقطه‌ی شروع حالت موبایل"
+
+#: widgets/premium-carousel.php:560
+msgid "Sets the breakpoint between tablet and mobile devices. Below this breakpoint mobile layout will appear (Default: 768px)."
+msgstr "این گزینه یک نقطه‌ی شروع برای تبدیل حالت نمایش تبلت به موبایل را تنظیم می‌کند. در زیر این طرح نقطه شروع موبایل ظاهر می‌شود (پیش‌فرض: 768 پیکسل)."
+
+#: widgets/premium-grid.php:282 widgets/premium-grid.php:2171
+msgid "Load More Button"
+msgstr "دکمه بارگذاری بیشتر"
+
+#: widgets/premium-grid.php:283
+msgid "Requires number of images larger than 6"
+msgstr "به تعداد تصاویر بیشتر از 6 نیاز دارد"
+
+#: widgets/premium-grid.php:293
+msgid "Load More"
+msgstr "بارگذاری بیشتر"
+
+#: widgets/premium-blog.php:2812 widgets/premium-grid.php:2217
+msgid "Spinner Color"
+msgstr "رنگ اسپینر"
+
+#: widgets/premium-banner.php:232 widgets/premium-icon-list.php:356
+#: widgets/premium-image-scroll.php:272 widgets/premium-image-separator.php:427
+msgid "Link Title"
+msgstr "عنوان لینک"
+
+#: widgets/premium-image-scroll.php:174
+msgid "Choose the scroll image"
+msgstr "تصویر اسکرول را انتخاب کنید"
+
+#: modules/premium-section-floating-effects/module.php:841
+#: widgets/premium-dual-header.php:559 widgets/premium-image-scroll.php:470
+#: widgets/premium-title.php:779
+msgid "Direction"
+msgstr "جهت"
+
+#: widgets/premium-image-scroll.php:471
+msgid "Select Scroll Direction"
+msgstr "جهت اسکرول را انتخاب کنید"
+
+#: widgets/premium-image-scroll.php:503
+msgid "Reverse Direction"
+msgstr "جهت برعکس"
+
+#: widgets/premium-image-scroll.php:518
+msgid "Mouse Scroll"
+msgstr "اسکرول ماوس"
+
+#: widgets/premium-image-scroll.php:527 widgets/premium-lottie.php:245
+msgid "Speed"
+msgstr "سرعت"
+
+#: widgets/premium-image-scroll.php:528
+msgid "Set the scroll speed value. The value will be counted in seconds (s)"
+msgstr "میزان سرعت اسکرول را تنظیم کنید. این مقدار بر حسب ثانیه (s) محاسبه می‌شود"
+
+#: widgets/premium-image-scroll.php:577 widgets/premium-videobox.php:292
+#: widgets/premium-videobox.php:860 widgets/premium-videobox.php:874
+#: widgets/premium-videobox.php:888
+msgid "Show"
+msgstr "نمایش‌دادن"
+
+#: widgets/premium-image-scroll.php:578 widgets/premium-videobox.php:293
+#: widgets/premium-videobox.php:861 widgets/premium-videobox.php:875
+#: widgets/premium-videobox.php:889
+msgid "Hide"
+msgstr "مخفی‌کردن"
+
+#: modules/woocommerce/skins/skin-4.php:92
+#: modules/woocommerce/skins/skin-8.php:239
+#: widgets/premium-image-scroll.php:575 widgets/premium-videobox.php:936
+#: widgets/premium-videobox.php:1191
+msgid "Overlay"
+msgstr "پوشش"
+
+#: modules/woocommerce/widgets/woo-products.php:259
+#: widgets/premium-blog.php:224 widgets/premium-grid.php:178
+msgid "Layout"
+msgstr "طرح"
+
+#: widgets/premium-grid.php:191
+msgid "Metro"
+msgstr "مترو"
+
+#: widgets/premium-grid.php:639
+msgid "Works only when layout set to 'Metro'"
+msgstr "فقط زمانیکه طرح بر روی \"مترو\" باشد، کار می‌کند"
+
+#: widgets/premium-grid.php:1212
+msgid "Overlay Gallery Images"
+msgstr "پوشش تصاویر گالری"
+
+#: widgets/premium-blog.php:1191
+msgid "Enable Carousel"
+msgstr "فعالسازی گردونه"
+
+#: widgets/premium-blog.php:1213 widgets/premium-person.php:1030
+msgid "Auto Play"
+msgstr "پخش خودکار"
+
+#: modules/woocommerce/widgets/woo-products.php:428
+#: widgets/premium-blog.php:1303 widgets/premium-person.php:1057
+msgid "Arrows Position"
+msgstr "موقعیت فلش‌ها"
+
+#: modules/woocommerce/widgets/woo-products.php:859
+#: widgets/premium-blog.php:1389
+msgid "Next Page String"
+msgstr "نوشته‌ی صفحه بعد"
+
+#: modules/woocommerce/widgets/woo-products.php:846
+#: widgets/premium-blog.php:1376
+msgid "Previous Page String"
+msgstr "نوشته‌ی صفحه قبل"
+
+#: widgets/premium-carousel.php:259
+msgid "Below Slides"
+msgstr "زیر اسلایدها"
+
+#: widgets/premium-carousel.php:260
+msgid "On Slides"
+msgstr "در اسلایدها"
+
+#: modules/woocommerce/widgets/woo-products.php:479
+#: modules/woocommerce/widgets/woo-products.php:989
+#: modules/woocommerce/widgets/woo-products.php:1791
+#: widgets/premium-carousel.php:271 widgets/premium-dual-header.php:427
+#: widgets/premium-pricing-table.php:793 widgets/premium-pricing-table.php:820
+#: widgets/premium-title.php:672
+msgid "Horizontal Offset"
+msgstr "انحراف افقی"
+
+#: modules/woocommerce/widgets/woo-products.php:495
+#: modules/woocommerce/widgets/woo-products.php:1030
+#: modules/woocommerce/widgets/woo-products.php:1809
+#: widgets/premium-carousel.php:287 widgets/premium-dual-header.php:456
+#: widgets/premium-pricing-table.php:847 widgets/premium-title.php:701
+msgid "Vertical Offset"
+msgstr "انحراف عمودی"
+
+#: widgets/premium-blog.php:1200 widgets/premium-carousel.php:387
+#: widgets/premium-vscroll.php:488
+msgid "Fade"
+msgstr "ظاهر شدن"
+
+#: widgets/premium-carousel.php:389
+msgid "Enable fade transition between slides"
+msgstr "حالت ظاهرشدن و محوشدن بین اسلایدها فعال کنید"
+
+#: widgets/premium-carousel.php:399
+msgid "Zoom Effect"
+msgstr "افکت بزرگ‌نمایی"
+
+#: widgets/premium-blog.php:920
+msgid "Post Options"
+msgstr "گزینه‌های پست"
+
+#: widgets/premium-blog.php:500
+msgid "Order By"
+msgstr "ترتیب بر اساس"
+
+#: includes/pa-display-conditions/pa-controls-handler.php:96
+#: modules/woocommerce/widgets/woo-products.php:756
+#: widgets/premium-blog.php:510
+msgid "Date"
+msgstr "تاریخ"
+
+#: widgets/premium-blog.php:511
+msgid "Last Modified"
+msgstr "آخرین اصلاح"
+
+#: modules/woocommerce/widgets/woo-products.php:760
+#: widgets/premium-blog.php:512
+msgid "Random"
+msgstr "تصادفی"
+
+#: widgets/premium-blog.php:513
+msgid "Number of Comments"
+msgstr "تعداد دیدگاه‌ها"
+
+#: modules/woocommerce/widgets/woo-products.php:772
+#: widgets/premium-blog.php:522
+msgid "Order"
+msgstr "ترتیب"
+
+#: modules/woocommerce/widgets/woo-products.php:776
+#: widgets/premium-blog.php:526
+msgid "Descending"
+msgstr "نزولی"
+
+#: modules/woocommerce/widgets/woo-products.php:777
+#: widgets/premium-blog.php:527
+msgid "Ascending"
+msgstr "صعودی"
+
+#: widgets/premium-grid.php:899
+msgid "Whole Image Lightbox"
+msgstr "لایت‌باکس کامل تصویر"
+
+#: widgets/premium-grid.php:267
+msgid "12 Columns"
+msgstr "12 ستون"
+
+#: widgets/premium-blog.php:1391
+msgid "Next"
+msgstr "بعدی"
+
+#: widgets/premium-blog.php:1378
+msgid "Previous"
+msgstr "قبلی"
+
+#: widgets/premium-carousel.php:167
+msgid "How templates are selected"
+msgstr "الگوها چطور انتخاب می‌شوند"
+
+#: widgets/premium-carousel.php:170
+msgid "Select Field"
+msgstr "انتخاب فیلد"
+
+#: widgets/premium-carousel.php:171
+msgid "Repeater"
+msgstr "تکرار کننده"
+
+#: widgets/premium-grid.php:674 widgets/premium-videobox.php:157
+msgid "Self Hosted"
+msgstr "هاست خودتان"
+
+#: widgets/premium-maps.php:169
+msgid "Get User Location"
+msgstr "دریافت مکان کاربر"
+
+#: widgets/premium-maps.php:170
+msgid "Get center location from visitor's location"
+msgstr "دریافت مکان مرکزی از مکان بازدیدکننده"
+
+#: widgets/premium-grid.php:756 widgets/premium-videobox.php:523
+msgid "Mute"
+msgstr "بی‌صدا"
+
+#: widgets/premium-grid.php:888
+msgid "Whole Image Link"
+msgstr "لینک تصویر کامل"
+
+#: includes/templates/types/section.php:25 widgets/premium-vscroll.php:216
+#: widgets/premium-vscroll.php:240
+msgid "Sections"
+msgstr "بخش‌ها"
+
+#: modules/woocommerce/widgets/woo-products.php:1532
+#: widgets/premium-blog.php:1547 widgets/premium-blog.php:2687
+#: widgets/premium-grid.php:2054 widgets/premium-vscroll.php:917
+msgid "Active"
+msgstr "فعال"
+
+#: widgets/premium-carousel.php:166 widgets/premium-vscroll.php:178
+msgid "Content Type"
+msgstr "نوع محتوا"
+
+#: widgets/premium-modalbox.php:320
+msgid "Text Editor"
+msgstr "ویرایشگر متن"
+
+#: widgets/premium-modalbox.php:321 widgets/premium-vscroll.php:195
+msgid "Elementor Template"
+msgstr "الگوی المنتور"
+
+#: includes/templates/scripts/template-modal-header.php:10
+#: widgets/premium-modalbox.php:381
+msgid "Close"
+msgstr "بستن"
+
+#: widgets/premium-grid.php:448
+msgid "First Category"
+msgstr "دسته‌بندی اول"
+
+#: widgets/premium-grid.php:485
+msgid "Rotation Degrees"
+msgstr "درجه چرخش"
+
+#: widgets/premium-grid.php:487 widgets/premium-lottie.php:321
+msgid "Set rotation value in degrees"
+msgstr "مقدار چرخش را برحسب درجه تنظیم کنید"
+
+#: widgets/premium-grid.php:518
+msgid "Active Category Index"
+msgstr "فهرست دسته‌بندی فعال"
+
+#: includes/templates/classes/manager.php:179 widgets/premium-blog.php:1126
+#: widgets/premium-grid.php:460
+msgid "All"
+msgstr "همه"
+
+#: widgets/premium-grid.php:458
+msgid "First Category Label"
+msgstr "برچسب دسته‌بندی اول"
+
+#: widgets/premium-maps.php:179 widgets/premium-maps.php:282
+msgid "Latitude & Longitude Finder"
+msgstr "پیداکننده‌ی عرض و طول جغرافیایی"
+
+#: widgets/premium-maps.php:243
+msgid "Max Width"
+msgstr "حداکثر عرض"
+
+#: widgets/premium-maps.php:245
+msgid "Set the Maximum width for markers description box"
+msgstr "برای جعبه توضیحات نشانگرها حداکثر عرض را تعیین کنید"
+
+#: widgets/premium-maps.php:190 widgets/premium-maps.php:290
+msgid "Find Latitude & Longitude"
+msgstr "عرض و طول جغرافیایی را پیدا کنید"
+
+#: widgets/premium-maps.php:511
+msgid "Marker Clustering"
+msgstr "نشانگرهای نقشه"
+
+#: widgets/premium-banner.php:288
+msgid "Always Hovered"
+msgstr "همیشه در حالت هاور شده"
+
+#: widgets/premium-dual-header.php:646 widgets/premium-dual-header.php:843
+msgid "Animated Background"
+msgstr "پس‌زمینه انیمیشنی"
+
+#: widgets/premium-banner.php:349 widgets/premium-vscroll.php:389
+msgid "Middle"
+msgstr "میانه"
+
+#: widgets/premium-banner.php:351
+msgid "Full"
+msgstr "کامل"
+
+#: widgets/premium-blog.php:731
+msgid "Select a heading tag for the post title."
+msgstr "برای عنوان پست یک تگ هدینگ انتخاب کنید."
+
+#: modules/woocommerce/widgets/woo-products.php:1349
+#: widgets/premium-banner.php:305 widgets/premium-blog.php:613
+#: widgets/premium-grid.php:1045 widgets/premium-person.php:270
+#: widgets/premium-videobox.php:997
+msgid "Bright"
+msgstr "روشن"
+
+#: modules/woocommerce/widgets/woo-products.php:1350
+#: widgets/premium-banner.php:306 widgets/premium-blog.php:614
+#: widgets/premium-grid.php:1046 widgets/premium-person.php:271
+#: widgets/premium-videobox.php:998
+msgid "Sepia"
+msgstr "سوبیایی"
+
+#: modules/premium-section-floating-effects/module.php:177
+#: modules/woocommerce/widgets/woo-products.php:1351
+#: widgets/premium-blog.php:615 widgets/premium-grid.php:1047
+#: widgets/premium-person.php:272 widgets/premium-videobox.php:999
+msgid "Translate"
+msgstr "ترجمه کردن"
+
+#: widgets/premium-blog.php:967
+msgid "Excerpt Type"
+msgstr "نوع چکیده"
+
+#: modules/woocommerce/widgets/woo-products.php:263
+#: modules/woocommerce/widgets/woo-products.php:299
+#: widgets/premium-blog.php:214
+msgid "Grid"
+msgstr "شبکه"
+
+#: widgets/premium-blog.php:269
+msgid "Number of Columns"
+msgstr "تعداد ستون‌ها"
+
+#: widgets/premium-blog.php:1168
+msgid "Links in New Tab"
+msgstr "لینک‌ها در تب جدید"
+
+#: widgets/premium-blog.php:1170
+msgid "Enable links to be opened in a new tab"
+msgstr "فعالسازی لینک‌ها برای اینکه در یک تب جدید باز شوند"
+
+#: widgets/premium-carousel.php:303
+msgid "Ripple Effect"
+msgstr "افکت موجی"
+
+#: widgets/premium-carousel.php:304
+msgid "Enable a ripple effect when the active dot is hovered/clicked"
+msgstr "برای وقتی‌که بر روی نقطه‌ی فعال، هاور یا کلیک می‌شود، یک افکت موجی فعال کنید"
+
+#: widgets/premium-contactform.php:142
+msgid "Fields"
+msgstr "فیلدها"
+
+#: widgets/premium-contactform.php:157 widgets/premium-contactform.php:217
+msgid "Input Field"
+msgstr "فیلد ورودی"
+
+#: widgets/premium-contactform.php:183 widgets/premium-contactform.php:239
+msgid "Text Area"
+msgstr "ناحیه متنی"
+
+#: widgets/premium-modalbox.php:332
+msgid "Modal content is a template which you can choose from Elementor library"
+msgstr "محتوای مودال الگویی است که می‌توانید از کتابخانه المنتور انتخاب کنید"
+
+#: widgets/premium-modalbox.php:172 widgets/premium-modalbox.php:1149
+msgid "Header"
+msgstr "هدر"
+
+#: widgets/premium-modalbox.php:177
+msgid "Enable or disable modal header"
+msgstr "هدر مودال را فعال یا غیرفعال کنید"
+
+#: widgets/premium-modalbox.php:317
+msgid "Content to Show"
+msgstr "محتوا برای نمایش"
+
+#: includes/compatibility/widgets/fancy-text.php:57
+msgid "Fancy Text: String"
+msgstr "متن فانتزی: نوشته"
+
+#: widgets/premium-blog.php:730 widgets/premium-videobox.php:317
+msgid "Title HTML Tag"
+msgstr "عنوان برچسب HTML"
+
+#: widgets/premium-blog.php:1059 widgets/premium-carousel.php:464
+#: widgets/premium-image-scroll.php:463
+msgid "Advanced Settings"
+msgstr "تنظیمات پیشرفته"
+
+#: widgets/premium-blog.php:1278 widgets/premium-carousel.php:961
+#: widgets/premium-vscroll.php:358 widgets/premium-vscroll.php:583
+msgid "Navigation Dots"
+msgstr "نقطه‌های پیمایش"
+
+#: widgets/premium-blog.php:1290 widgets/premium-carousel.php:615
+msgid "Navigation Arrows"
+msgstr "فلش‌های پیمایش"
+
+#: widgets/premium-blog.php:1650
+msgid "Plus Sign Color"
+msgstr "رنگ علامت بعلاوه"
+
+#: widgets/premium-blog.php:2393
+msgid "Box"
+msgstr "جعبه"
+
+#: widgets/premium-dual-header.php:660 widgets/premium-dual-header.php:857
+#: widgets/premium-title.php:957
+msgid "Clipped"
+msgstr "بریده‌شده"
+
+#: widgets/premium-fancytext.php:743
+msgid "Cursor Text"
+msgstr "متن مکان‌نما"
+
+#: widgets/premium-grid.php:330
+msgid "Button Alignment"
+msgstr "ترازبندی دکمه"
+
+#: widgets/premium-grid.php:2309 widgets/premium-vscroll.php:878
+#: widgets/premium-vscroll.php:938
+msgid "Text Hover Color"
+msgstr "رنگ هاور متن"
+
+#: widgets/premium-image-scroll.php:191
+msgid "Image Height"
+msgstr "ارتفاع تصویر"
+
+#: modules/premium-section-floating-effects/module.php:694
+#: widgets/premium-image-scroll.php:653 widgets/premium-image-scroll.php:688
+#: widgets/premium-lottie.php:538 widgets/premium-lottie.php:584
+msgid "Opacity"
+msgstr "شفافیت"
+
+#. translators: %s: Post Title
+#: admin/includes/duplicator.php:78
+msgid "Duplicate - %s"
+msgstr "تکثیر کردن - %s"
+
+#: admin/includes/duplicator.php:79
+msgid "PA Duplicate"
+msgstr "تکثیر پریمیوم"
+
+#: admin/includes/templates/features.php:124
+msgid "Duplicator"
+msgstr "تکثیر کننده"
+
+#: admin/includes/admin-helper.php:346
+msgid "View Premium Addons for Elementor Documentation"
+msgstr "مستندات افزودنی‌های پریمیوم المنتور مشاهده کنید"
+
+#: admin/includes/admin-helper.php:346
+msgid "Docs & FAQs"
+msgstr "مستندات و سوالات متداول"
+
+#: admin/includes/admin-helper.php:347
+msgid "View Premium Addons Video Tutorials"
+msgstr "آموزش‌های ویدئویی افزودنی‌های پریمیوم مشاهده کنید"
+
+#: admin/includes/admin-helper.php:347
+msgid "Video Tutorials"
+msgstr "آموزش‌های ویدئویی"
+
+#: admin/includes/admin-helper.php:303
+#: admin/includes/templates/version-control.php:28
+msgid "Rollback to Version "
+msgstr "بازگشت به نسخه "
+
+#: admin/includes/admin-helper.php:311 assets/editor/js/editor.js:296
+msgid "Go Pro"
+msgstr "رفتن به نسخه پرو"
+
+#: admin/includes/elements.php:107 admin/includes/elements.php:640
+#: widgets/premium-grid.php:75
+msgid "Media Grid"
+msgstr "رسانه شبکه‌ای"
+
+#: admin/includes/templates/integrations.php:55
+msgid "Google Maps Localization Language:"
+msgstr "زبان بومی‌سازی نقشه‌ی گوگل:"
+
+#: admin/includes/elements.php:41 admin/includes/elements.php:574
+#: widgets/premium-maps.php:58
+msgid "Google Maps"
+msgstr "نقشه‌ی گوگل"
+
+#: admin/includes/templates/integrations.php:75
+msgid "Load Maps API JS File:"
+msgstr "بارگذاری فایل JS کلید API نقشه:"
+
+#: admin/includes/templates/integrations.php:89
+msgid "Load Markers Clustering JS File:"
+msgstr "بارگذاری فایل JS نشانگرهای نقشه:"
+
+#: admin/includes/templates/general.php:94
+msgid "Docs and Support"
+msgstr "مستندات و پشتیبانی"
+
+#: admin/includes/templates/version-control.php:32
+msgid "Warning: Please backup your database before making the rollback."
+msgstr "هشدار: لطفا قبل از انجام بازگشت به نسخه قبل، از  پایگاه‌داده خود پشتیبان تهیه کنید."
+
+#: admin/includes/templates/version-control.php:40
+msgid "Become a Beta Tester"
+msgstr "آزمایش‌کننده‌ی نسخه‌ی بتا شوید"
+
+#: admin/includes/templates/version-control.php:41
+msgid "Turn-on Beta Tester, to get notified when a new beta version of Premium Addons for Elementor. The Beta version will not install automatically. You always have the option to ignore it."
+msgstr "بخش آزمایش‌کننده‌ی نسخه‌ی بتا را روشن کنید، تا وقتیکه یک نسخه‌ی جدید بتا از افزونه‌ی‌های پریمیوم المنتور منتشر شد، یک اعلان دریافت کنید. نسخه‌ی بتا بطور اتوماتیک نصب نخواهد شد. شما همیشه گزینه‌ی برای صرف‌نظر کردن از آن دارید."
+
+#: admin/includes/templates/integrations.php:46
+msgid "Google Maps API Key:"
+msgstr "کلید API نقشه‌ی گوگل:"
+
+#: admin/includes/elements.php:365 admin/includes/elements.php:894
+#: widgets/premium-banner.php:64 widgets/premium-blog.php:172
+msgid "Banner"
+msgstr "بنر"
+
+#: admin/includes/elements.php:34 admin/includes/elements.php:567
+#: widgets/premium-blog.php:54
+msgid "Blog"
+msgstr "وبلاگ"
+
+#: admin/includes/elements.php:380 admin/includes/elements.php:908
+#: widgets/premium-image-button.php:61
+msgid "Image Button"
+msgstr "دکمه تصویر"
+
+#: admin/includes/elements.php:114 admin/includes/elements.php:647
+#: widgets/premium-image-scroll.php:61
+msgid "Image Scroll"
+msgstr "اسکرول تصویر"
+
+#: admin/includes/elements.php:307 admin/includes/elements.php:838
+msgid "Testimonials"
+msgstr "نظرات مشتریان"
+
+#: admin/includes/elements.php:121 admin/includes/elements.php:654
+#: widgets/premium-image-separator.php:60
+msgid "Image Separator"
+msgstr "جداکننده تصویر"
+
+#: admin/includes/elements.php:187 admin/includes/elements.php:716
+#: widgets/premium-vscroll.php:59
+msgid "Vertical Scroll"
+msgstr "اسکرول عمودی"
+
+#: admin/includes/elements.php:485 admin/includes/elements.php:1010
+#: widgets/premium-pricing-table.php:63 widgets/premium-pricing-table.php:258
+msgid "Pricing Table"
+msgstr "جدول قیمت‌گذاری"
+
+#: includes/compatibility/premium-addons-wpml.php:103
+msgid "Banner: Title"
+msgstr "بنر: عنوان"
+
+#: includes/compatibility/premium-addons-wpml.php:108
+msgid "Banner: Description"
+msgstr "بنر: توضیحات"
+
+#: includes/compatibility/premium-addons-wpml.php:113
+msgid "Banner: Button Text"
+msgstr "بنر: متن دکمه"
+
+#: includes/compatibility/premium-addons-wpml.php:118
+msgid "Banner: URL"
+msgstr "بنر: آدرس اینترنتی"
+
+#: includes/compatibility/premium-addons-wpml.php:123
+msgid "Banner: Button URL"
+msgstr "بنر: آدرس دکمه"
+
+#: includes/compatibility/premium-addons-wpml.php:134
+#: includes/compatibility/premium-addons-wpml.php:339
+msgid "Button: Text"
+msgstr "دکمه: متن"
+
+#: includes/compatibility/premium-addons-wpml.php:139
+#: includes/compatibility/premium-addons-wpml.php:344
+msgid "Button: URL"
+msgstr "دکمه: آدرس"
+
+#: includes/compatibility/premium-addons-wpml.php:150
+msgid "Countdown: Expiration Message"
+msgstr "شمارش معکوس: پیام انقضا"
+
+#: includes/compatibility/premium-addons-wpml.php:160
+msgid "Countdown: Day Singular"
+msgstr "شمارش معکوس: یک روز"
+
+#: includes/compatibility/premium-addons-wpml.php:165
+msgid "Countdown: Day Plural"
+msgstr "شمارش معکوس: چند روز"
+
+#: includes/compatibility/premium-addons-wpml.php:170
+msgid "Countdown: Week Singular"
+msgstr "شمارش معکوس: یک هفته"
+
+#: includes/compatibility/premium-addons-wpml.php:175
+msgid "Countdown: Week Plural"
+msgstr "شمارش معکوس: چند هفته"
+
+#: includes/compatibility/premium-addons-wpml.php:180
+msgid "Countdown: Month Singular"
+msgstr "شمارش معکوس: یک ماه"
+
+#: includes/compatibility/premium-addons-wpml.php:185
+msgid "Countdown: Month Plural"
+msgstr "شمارش معکوس: چند ماه"
+
+#: includes/compatibility/premium-addons-wpml.php:190
+msgid "Countdown: Year Singular"
+msgstr "شمارش معکوس: یک سال"
+
+#: includes/compatibility/premium-addons-wpml.php:195
+msgid "Countdown: Year Plural"
+msgstr "شمارش معکوس: چند سال"
+
+#: includes/compatibility/premium-addons-wpml.php:200
+msgid "Countdown: Hour Singular"
+msgstr "شمارش معکوس: یک ساعت"
+
+#: includes/compatibility/premium-addons-wpml.php:205
+msgid "Countdown: Hour Plural"
+msgstr "شمارش معکوس: چند ساعت"
+
+#: includes/compatibility/premium-addons-wpml.php:210
+msgid "Countdown: Minute Singular"
+msgstr "شمارش معکوس: یک دقیقه"
+
+#: includes/compatibility/premium-addons-wpml.php:215
+msgid "Countdown: Minute Plural"
+msgstr "شمارش معکوس: چند دقیقه"
+
+#: includes/compatibility/premium-addons-wpml.php:220
+msgid "Countdown: Second Singular"
+msgstr "شمارش معکوس: یک ثانیه"
+
+#: includes/compatibility/premium-addons-wpml.php:225
+msgid "Countdown: Second Plural"
+msgstr "شمارش معکوس: چند ثانیه"
+
+#: includes/compatibility/premium-addons-wpml.php:230
+msgid "Countdown: Direction URL"
+msgstr "شمارش معکوس: آدرس اینترنتی"
+
+#: includes/compatibility/premium-addons-wpml.php:241
+msgid "Counter: Title Text"
+msgstr "شمارنده: متن عنوان"
+
+#: includes/compatibility/premium-addons-wpml.php:246
+msgid "Counter: Thousands Separator"
+msgstr "شمارنده: جداکننده‌ی هزارگان"
+
+#: includes/compatibility/premium-addons-wpml.php:251
+msgid "Counter: Prefix"
+msgstr "شمارنده: پیشوند"
+
+#: includes/compatibility/premium-addons-wpml.php:256
+msgid "Counter: Suffix"
+msgstr "شمارنده: پسوند"
+
+#: includes/compatibility/premium-addons-wpml.php:282
+msgid "Advanced Heading: Heading URL"
+msgstr "هدینگ پیشرفته: آدرس اینترنتی هدینگ"
+
+#: includes/compatibility/premium-addons-wpml.php:267
+msgid "Dual Heading: First Heading"
+msgstr "هدینگ دوگانه: هدینگ اول"
+
+#: includes/compatibility/premium-addons-wpml.php:272
+msgid "Dual Heading: Second Heading"
+msgstr "هدینگ دوگانه: هدینگ دوم"
+
+#: includes/compatibility/premium-addons-wpml.php:299
+msgid "Fancy Text: Prefix"
+msgstr "متن فانتزی: پیشوند"
+
+#: includes/compatibility/premium-addons-wpml.php:304
+msgid "Fancy Text: Suffix"
+msgstr "متن فانتزی: پسوند"
+
+#: includes/compatibility/premium-addons-wpml.php:309
+msgid "Fancy Text: Cursor Text"
+msgstr "متن فانتزی: متن مکان‌نما"
+
+#: includes/compatibility/premium-addons-wpml.php:321
+msgid "Grid: Load More Button"
+msgstr "شبکه: دکمه‌ی بارگذاری بیشتر"
+
+#: includes/compatibility/premium-addons-wpml.php:355
+msgid "Image Scroll: Link Title"
+msgstr "اسکرول تصویر: عنوان لینک"
+
+#: includes/compatibility/premium-addons-wpml.php:360
+msgid "Image Scroll: URL"
+msgstr "اسکرول تصویر: آدرس اینترنتی"
+
+#: includes/compatibility/premium-addons-wpml.php:371
+msgid "Image Separator: Link Title"
+msgstr "جداکننده تصویر: عنوان لینک"
+
+#: includes/compatibility/premium-addons-wpml.php:376
+msgid "Image Separator: URL"
+msgstr "جداکننده تصویر: آدرس اینترنتی"
+
+#: includes/compatibility/premium-addons-wpml.php:398
+msgid "Maps: Center Latitude"
+msgstr "نقشه: مرکز عرض جغرافیایی"
+
+#: includes/compatibility/premium-addons-wpml.php:403
+msgid "Maps: Center Longitude"
+msgstr "نقشه: مرکز طول جغرافیایی"
+
+#: includes/compatibility/premium-addons-wpml.php:415
+msgid "Modal Box: Header Title"
+msgstr "جعبه مودال: عنوان هدر"
+
+#: includes/compatibility/premium-addons-wpml.php:425
+msgid "Modal Box: Content Text"
+msgstr "جعبه مودال: متن محتوا"
+
+#: includes/compatibility/premium-addons-wpml.php:430
+msgid "Modal Box: Close Button"
+msgstr "جعبه مودال: دکمه‌ی بستن"
+
+#: includes/compatibility/premium-addons-wpml.php:435
+msgid "Modal Box: Trigger Button"
+msgstr "جعبه مودال: دکمه گیره"
+
+#: includes/compatibility/premium-addons-wpml.php:440
+msgid "Modal Box: Trigger Text"
+msgstr "جعبه مودال: متن گیره"
+
+#: admin/includes/admin-helper.php:301
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: admin/includes/templates/features.php:28
+#: includes/templates/scripts/template-modal-header-logo.php:13
+#: widgets/premium-carousel.php:180 widgets/premium-carousel.php:217
+msgid "Templates"
+msgstr "الگوها"
+
+#: admin/includes/admin-notices.php:194
+msgid "Maybe Later"
+msgstr "شاید بعداً"
+
+#: admin/includes/pa-rollback.php:139
+msgid "Rolling Back to Version "
+msgstr "بازگشت به نسخه قبلی "
+
+#: admin/includes/admin-notices.php:154
+msgid "Premium Addons for Elementor is not working because you need to Install Elementor plugin."
+msgstr "افزودنی‌های پریمیوم المنتور کار نمی‌کند زیرا شما باید افزونه المنتور را نصب کنید."
+
+#: admin/includes/admin-notices.php:156
+msgid "Install Now"
+msgstr "هم اکنون نصب کنید"
+
+#: admin/includes/admin-notices.php:165
+msgid "Premium Addons for Elementor is not working because you need to activate Elementor plugin."
+msgstr "افزودنی‌های پریمیوم المنتور کار نمی‌کند زیرا شما باید افزونه المنتور را فعال کنید."
+
+#: admin/includes/admin-notices.php:167
+msgid "Activate Now"
+msgstr "هم اکنون فعال کنید"
+
+#: admin/includes/admin-helper.php:429
+msgid "System Info"
+msgstr "اطلاعات سیستم"
+
+#: admin/includes/admin-helper.php:415
+msgid "Version Control"
+msgstr "کنترل نسخه"
+
+#: widgets/premium-maps.php:303
+msgid "Latitude"
+msgstr "عرض جغرافیایی"
+
+#: widgets/premium-person.php:209
+msgid "Enter image width in (PX, EM, %), default is 100%"
+msgstr "عرض تصویر را بر حسب (PX, EM, %) وارد کنید، پیش‌فرض 100% است"
+
+#: widgets/premium-testimonials.php:382
+msgid "Border Width (PX)"
+msgstr "عرض کادر (پیکسل)"
+
+#: widgets/premium-blog.php:1737 widgets/premium-contactform.php:149
+#: widgets/premium-contactform.php:270 widgets/premium-dual-header.php:407
+#: widgets/premium-fancytext.php:690 widgets/premium-grid.php:616
+#: widgets/premium-modalbox.php:1372 widgets/premium-modalbox.php:1572
+#: widgets/premium-person.php:207 widgets/premium-pricing-table.php:1770
+#: widgets/premium-title.php:652
+msgid "Width"
+msgstr "عرض"
+
+#: widgets/premium-person.php:1275
+msgid "Job Title"
+msgstr "عنوان شغل"
+
+#: widgets/premium-maps.php:315
+msgid "Longitude"
+msgstr "طول جغرافیایی"
+
+#: widgets/premium-testimonials.php:243 widgets/premium-testimonials.php:493
+msgid "Company"
+msgstr "شرکت"
+
+#: widgets/premium-pricing-table.php:619
+msgid "Get Started"
+msgstr "شروع کنید"
+
+#: widgets/premium-videobox.php:182
+msgid "Video ID"
+msgstr "شناسه ویدئو"
+
+#: widgets/premium-blog.php:506 widgets/premium-videobox.php:170
+msgid "ID"
+msgstr "شناسه"
+
+#: widgets/premium-maps.php:358
+msgid "Map Pins"
+msgstr "سنجاق‌های نقشه"
+
+#: widgets/premium-progressbar.php:463
+msgid "Pin"
+msgstr "سنجاق"
+
+#: widgets/premium-maps.php:388
+msgid "Terrain"
+msgstr "زمینی"
+
+#: widgets/premium-progressbar.php:878
+msgid "Percentage Color"
+msgstr "رنگ درصد"
+
+#: widgets/premium-title.php:1020 widgets/premium-title.php:1048
+msgid "Line Color"
+msgstr "رنگ خط"
+
+#: widgets/premium-progressbar.php:852
+msgid "Labels' Color"
+msgstr "رنگ برچسب"
+
+#: widgets/premium-modalbox.php:1561
+msgid "Content Background Color"
+msgstr "رنگ پس‌زمینه محتوا"
+
+#: widgets/premium-modalbox.php:1628
+msgid "Footer Background Color"
+msgstr "رنگ پس‌زمینه فوتر"
+
+#: widgets/premium-pricing-table.php:1952
+msgid "Hover Text Color"
+msgstr "رنگ هاور متن"
+
+#: widgets/premium-title.php:1065
+msgid "Triangle Color"
+msgstr "رنگ مثلث"
+
+#: widgets/premium-progressbar.php:269 widgets/premium-progressbar.php:415
+#: widgets/premium-progressbar.php:793
+msgid "Percentage"
+msgstr "درصد"
+
+#: widgets/premium-banner.php:1127 widgets/premium-image-scroll.php:744
+#: widgets/premium-pricing-table.php:1046
+#: widgets/premium-pricing-table.php:1495
+#: widgets/premium-pricing-table.php:1660
+#: widgets/premium-pricing-table.php:1877 widgets/premium-testimonials.php:668
+#: widgets/premium-vscroll.php:788
+msgid "Container"
+msgstr "دربرگیرنده"
+
+#: widgets/premium-person.php:613 widgets/premium-person.php:894
+msgid "Dribbble"
+msgstr "دریبل"
+
+#: widgets/premium-modalbox.php:754
+msgid "When should the popup appear during page load? The value are counted in seconds"
+msgstr "در حین بارگیری صفحه، چه زمانی پاپ‌آپ باید ظاهر شود؟ مقدار بر حسب ثانیه محاسبه می‌شود"
+
+#: widgets/premium-pricing-table.php:686 widgets/premium-progressbar.php:151
+#: widgets/premium-testimonials.php:153
+msgid "Circle"
+msgstr "دایره‌ای"
+
+#: widgets/premium-modalbox.php:359 widgets/premium-modalbox.php:1204
+msgid "Upper Close Button"
+msgstr "دکمه بستن بالا"
+
+#: widgets/premium-modalbox.php:371 widgets/premium-modalbox.php:1350
+msgid "Lower Close Button"
+msgstr "دکمه بستن پایین"
+
+#: widgets/premium-videobox.php:1638
+msgid "Hover Padding"
+msgstr "حاشیه‌داخلی هاور"
+
+#: widgets/premium-maps.php:499
+msgid "Info Container Closed when Mouse Out"
+msgstr "جعبه اطلاعات هنگام کنار رفتن ماوس بسته شود"
+
+#: widgets/premium-maps.php:491
+msgid "Info Container Opened when Hovered"
+msgstr "جعبه اطلاعات هنگام هاور باز شود"
+
+#: widgets/premium-maps.php:483
+msgid "Info Container Always Opened"
+msgstr "جعبه اطلاعات همیشه باز باشد"
+
+#: admin/includes/elements.php:169 admin/includes/elements.php:694
+#: widgets/premium-videobox.php:53 widgets/premium-videobox.php:144
+#: widgets/premium-videobox.php:1430
+msgid "Video Box"
+msgstr "جعبه ویدئو"
+
+#: admin/includes/elements.php:268 admin/includes/elements.php:799
+#: widgets/premium-modalbox.php:74 widgets/premium-modalbox.php:1528
+msgid "Modal Box"
+msgstr "جعبه مودال"
+
+#: admin/includes/elements.php:97 admin/includes/elements.php:626
+#: widgets/premium-icon-list.php:868 widgets/premium-pricing-table.php:339
+#: widgets/premium-pricing-table.php:1389
+msgid "Divider"
+msgstr "جداکننده"
+
+#: widgets/premium-image-button.php:290
+msgid "Overlap Direction"
+msgstr "جهت همپوشانی"
+
+#: widgets/premium-image-separator.php:186
+msgid "Choose the separator image"
+msgstr "تصویر جداکننده را انتخاب کنید"
+
+#: widgets/premium-banner.php:342 widgets/premium-pricing-table.php:1299
+msgid "Vertical Align"
+msgstr "ترازبندی عمودی"
+
+#: widgets/premium-progressbar.php:476
+msgid "Labels Alignment"
+msgstr "ترازبندی برچسب‌ها"
+
+#: widgets/premium-maps.php:389
+msgid "Hybrid"
+msgstr "ترکیبی"
+
+#: widgets/premium-progressbar.php:895
+msgid "Percentage Typography"
+msgstr "تایپوگرافی درصد"
+
+#: widgets/premium-progressbar.php:866
+msgid "Labels' Typography"
+msgstr "تایپوگرافی برچسب"
+
+#: widgets/premium-pricing-table.php:1287
+#: widgets/premium-pricing-table.php:1365
+#: widgets/premium-pricing-table.php:1414
+#: widgets/premium-pricing-table.php:1470
+msgid "Typography"
+msgstr "تایپوگرافی"
+
+#: widgets/premium-modalbox.php:752
+msgid "Delay in Popup Display (Sec)"
+msgstr "تأخیر در نمایش پاپ‌آپ (ثانیه)"
+
+#: widgets/premium-maps.php:364
+msgid "Add an optional description to your map pin"
+msgstr "توضیحات اختیاری را به سنجاق ​​نقشه خود اضافه کنید"
+
+#: widgets/premium-person.php:520 widgets/premium-person.php:801
+msgid "Twitter"
+msgstr "توییتر"
+
+#: widgets/premium-pricing-table.php:2224
+msgid "Box Settings"
+msgstr "تنظیمات جعبه"
+
+#: widgets/premium-image-scroll.php:161 widgets/premium-image-separator.php:149
+msgid "Image Settings"
+msgstr "تنظیمات تصویر"
+
+#: widgets/premium-progressbar.php:140
+msgid "Progress Bar Settings"
+msgstr "تنظیمات نوار پیشرفت خطی"
+
+#: widgets/premium-pricing-table.php:1307
+msgid "Unset"
+msgstr "تنظیم نشده"
+
+#: widgets/premium-maps.php:475
+msgid "Scroll Wheel Zoom"
+msgstr "بزرگ‌نمایی با اسکرول"
+
+#: widgets/premium-maps.php:418
+msgid "Zoom"
+msgstr "بزرگ‌نمایی"
+
+#: widgets/premium-pricing-table.php:269
+msgid "Select HTML tag for the title"
+msgstr "برای عنوان یک تگ HTML انتخاب کنید"
+
+#: widgets/premium-maps.php:207 widgets/premium-maps.php:222
+msgid "Center latitude and longitude are required to identify your location"
+msgstr "برای شناسایی موقعیت مکانی شما، مرکز طول و عرض جغرافیایی لازم است"
+
+#: widgets/premium-progressbar.php:242
+msgid "Left & Right Labels"
+msgstr "برچسب‌های راست و چپ"
+
+#: widgets/premium-progressbar.php:403 widgets/premium-progressbar.php:425
+#: widgets/premium-progressbar.php:429
+msgid "Label"
+msgstr "برچسب"
+
+#: widgets/premium-progressbar.php:407 widgets/premium-progressbar.php:408
+msgid "label"
+msgstr "برچسب"
+
+#: widgets/premium-videobox.php:1323
+msgid "Play Video"
+msgstr "بخش ویدئو"
+
+#: widgets/premium-image-button.php:257
+msgid "Top Right to Bottom Left"
+msgstr "بالا راست به پایین چپ"
+
+#: widgets/premium-image-button.php:258
+msgid "Top Left to Bottom Right"
+msgstr "بالا چپ به پایین راست"
+
+#: widgets/premium-person.php:627 widgets/premium-person.php:908
+msgid "Behance"
+msgstr "بیهانس"
+
+#: widgets/premium-videobox.php:183
+msgid "Enter the numbers and letters after the equal sign which located in your YouTube video link or after the slash sign in your Vimeo video link. For example, z1hQgVpfTKU"
+msgstr "اعداد و حروف بعد از علامت مساوی (=) که در لینک ویدئوی یوتیوب یا بعد از علامت اسلش (/) که در لینک ویدئوی ویمیو قرار دارند را وارد کنید. برای مثال: z1hQgVpfTKU"
+
+#: widgets/premium-testimonials.php:150
+msgid "Choose image style"
+msgstr "استایل تصویر را انتخاب کنید"
+
+#: widgets/premium-testimonials.php:148
+msgid "Image Style"
+msgstr "استایل تصویر"
+
+#: widgets/premium-maps.php:522
+msgid "Map Style"
+msgstr "استایل نقشه"
+
+#: widgets/premium-image-button.php:219
+msgid "Background Slide"
+msgstr "اسلاید پس‌زمینه"
+
+#: widgets/premium-image-button.php:220
+msgid "Diagonal Slide"
+msgstr "اسلاید مورب"
+
+#: widgets/premium-modalbox.php:627
+msgid "Button Size"
+msgstr "اندازه دکمه"
+
+#: widgets/premium-icon-list.php:310 widgets/premium-image-scroll.php:226
+#: widgets/premium-image-separator.php:375
+msgid "Link/URL"
+msgstr "آدرس/لینک"
+
+#: widgets/premium-testimonials.php:293
+msgid "Add company URL"
+msgstr "آدرس اینترنتی شرکت را اضافه کنید"
+
+#: widgets/premium-person.php:666 widgets/premium-person.php:947
+msgid "Email Address"
+msgstr "آدرس ایمیل"
+
+#: widgets/premium-person.php:1397
+msgid "Social Icons"
+msgstr "آیکون‌های شبکه اجتماعی"
+
+#: widgets/premium-carousel.php:999 widgets/premium-maps.php:254
+msgid "Custom Icon"
+msgstr "آیکون سفارشی"
+
+#: widgets/premium-modalbox.php:449
+msgid "Choose where would you like the modal box appear on"
+msgstr "انتخاب کنید که می‌خواهید جعبه‌ی مودال در کجا نمایش داده شود"
+
+#: widgets/premium-videobox.php:1223 widgets/premium-videobox.php:1230
+#: widgets/premium-videobox.php:1531 widgets/premium-videobox.php:1832
+msgid "Play Icon"
+msgstr "آیکون پخش"
+
+#: widgets/premium-testimonials.php:590
+msgid "Quotation Icon"
+msgstr "آیکون نقل‌قول"
+
+#: widgets/premium-image-button.php:259
+msgid "Bottom Right to Top Left"
+msgstr "پایین راست به بالا چپ"
+
+#: widgets/premium-image-button.php:256
+msgid "Bottom Left to Top Right"
+msgstr "پایین چپ به بالا راست"
+
+#: widgets/premium-image-separator.php:329
+msgid "-50% is default. Increase to push the image outside or decrease to pull the image inside."
+msgstr "پیش‌فرض %50- است. برای هول دادن تصویر به بیرون، این مقدار را افزایش دهید یا برای کشیدن تصویر به داخل، این مقدار را کاهش دهید."
+
+#: widgets/premium-person.php:600 widgets/premium-person.php:881
+msgid "Pinterest"
+msgstr "پینترست"
+
+#: widgets/premium-image-scroll.php:514 widgets/premium-lottie.php:212
+#: widgets/premium-modalbox.php:447 widgets/premium-modalbox.php:860
+msgid "Trigger"
+msgstr "گیره"
+
+#: widgets/premium-person.php:547 widgets/premium-person.php:828
+msgid "Google+"
+msgstr "گوگل پلاس"
+
+#: widgets/premium-maps.php:451
+msgid "Zoom Controls"
+msgstr "کنترل‌های بزرگ‌نمایی"
+
+#: widgets/premium-maps.php:443
+msgid "Map Type Controls"
+msgstr "کنترل‌های نوع نقشه"
+
+#: widgets/premium-grid.php:743 widgets/premium-maps.php:376
+msgid "Controls"
+msgstr "کنترل‌ها"
+
+#: widgets/premium-maps.php:467
+msgid "Fullscreen Control"
+msgstr "کنترل تمام صفحه"
+
+#: widgets/premium-maps.php:459
+msgid "Street View Control"
+msgstr "کنترل نمایش خیابان"
+
+#: widgets/premium-icon-list.php:1525 widgets/premium-icon-list.php:1638
+#: widgets/premium-progressbar.php:517
+msgid "Solid"
+msgstr "یکپارچه"
+
+#: widgets/premium-videobox.php:1208
+msgid "Choose an image for the video box"
+msgstr "یک تصویر برای جعبه ویدئو انتخاب کنید"
+
+#: widgets/premium-testimonials.php:140
+msgid "Choose an image for the author"
+msgstr "یک تصویر برای نویسنده انتخاب کنید"
+
+#: widgets/premium-testimonials.php:263
+msgid "Select a heading tag for company name"
+msgstr "یک تگ هدینگ برای نام شرکت انتخاب کنید"
+
+#: widgets/premium-testimonials.php:176
+msgid "Select a heading tag for author name"
+msgstr "یک تگ هدینگ برای نام نویسنده انتخاب کنید"
+
+#: widgets/premium-image-scroll.php:219 widgets/premium-image-separator.php:368
+msgid "Add a custom link or select an existing page link"
+msgstr "یک لینک سفارشی اضافه کنید یا لینک یک صفحه موجود را انتخاب کنید"
+
+#: widgets/premium-videobox.php:155
+msgid "Youtube"
+msgstr "یوتیوب"
+
+#: widgets/premium-pricing-table.php:315 widgets/premium-pricing-table.php:1265
+msgid "Currency"
+msgstr "واحد پولی"
+
+#: widgets/premium-pricing-table.php:517 widgets/premium-pricing-table.php:908
+#: widgets/premium-pricing-table.php:1548
+msgid "Features"
+msgstr "ویژگی‌ها"
+
+#: widgets/premium-grid.php:673 widgets/premium-videobox.php:156
+msgid "Vimeo"
+msgstr "ویمیو"
+
+#: admin/includes/elements.php:83 admin/includes/elements.php:612
+#: widgets/premium-title.php:62
+msgid "Heading"
+msgstr "هدینگ"
+
+#: widgets/premium-image-button.php:222
+msgid "Overlap"
+msgstr "همپوشانی"
+
+#: widgets/premium-maps.php:236
+msgid "Markers"
+msgstr "نشانگرها"
+
+#: widgets/premium-progressbar.php:458
+msgid "Labels Indicator"
+msgstr "نشانگر برچسب‌ها"
+
+#: widgets/premium-progressbar.php:958
+msgid "Indicator"
+msgstr "نشانگر"
+
+#: includes/compatibility/premium-addons-wpml.php:451
+msgid "Person: Name"
+msgstr "شخص: نام"
+
+#: widgets/premium-videobox.php:151
+msgid "Video Type"
+msgstr "نوع ویدئو"
+
+#: widgets/premium-maps.php:383
+msgid "Map Type"
+msgstr "نوع نقشه"
+
+#: admin/includes/elements.php:477 admin/includes/elements.php:1002
+#: widgets/premium-progressbar.php:49 widgets/premium-progressbar.php:587
+msgid "Progress Bar"
+msgstr "نوار پیشرفت"
+
+#: widgets/premium-blog.php:507 widgets/premium-testimonials.php:127
+#: widgets/premium-testimonials.php:419
+msgid "Author"
+msgstr "نویسنده"
+
+#: widgets/premium-progressbar.php:243 widgets/premium-progressbar.php:841
+msgid "Multiple Labels"
+msgstr "چندین برچسب"
+
+#: widgets/premium-maps.php:386
+msgid "Road Map"
+msgstr "نقشه جاده‌ای"
+
+#: widgets/premium-maps.php:363
+msgid "Premium Google Maps"
+msgstr "نقشه گوگل پریمیوم"
+
+#: widgets/premium-maps.php:746
+msgid "Map"
+msgstr "نقشه"
+
+#: widgets/premium-testimonials.php:152
+msgid "Square"
+msgstr "مربع"
+
+#: widgets/premium-maps.php:204
+msgid "Center Latitude"
+msgstr "مرکز عرض جغرافیایی"
+
+#: widgets/premium-maps.php:219
+msgid "Center Longitude"
+msgstr "مرکز طول جغرافیایی"
+
+#: modules/premium-section-floating-effects/module.php:252
+#: modules/premium-section-floating-effects/module.php:400
+#: modules/premium-section-floating-effects/module.php:519
+#: modules/premium-section-floating-effects/module.php:636
+#: widgets/premium-pricing-table.php:351 widgets/premium-pricing-table.php:1445
+msgid "Duration"
+msgstr "مدت زمان"
+
+#: widgets/premium-testimonials.php:318
+msgid "Testimonial Content"
+msgstr "محتوای نظرمشتری"
+
+#: widgets/premium-progressbar.php:538
+msgid "Animated"
+msgstr "متحرک"
+
+#: widgets/premium-grid.php:291 widgets/premium-modalbox.php:465
+msgid "Button Text"
+msgstr "متن دکمه"
+
+#: widgets/premium-videobox.php:1313 widgets/premium-videobox.php:1652
+msgid "Video Text"
+msgstr "متن ویدئو"
+
+#: widgets/premium-maps.php:387
+msgid "Satellite"
+msgstr "ماهواره‌ای"
+
+#: widgets/premium-maps.php:149
+msgid "Center Location"
+msgstr "مکان مرکز"
+
+#: widgets/premium-testimonials.php:632
+msgid "Top Icon Position"
+msgstr "موقعیت آیکون بالا"
+
+#: widgets/premium-testimonials.php:649
+msgid "Bottom Icon Position"
+msgstr "موقعیت آیکون پایین"
+
+#: widgets/premium-progressbar.php:258
+msgid "My Skill"
+msgstr "مهارت من"
+
+#: widgets/premium-testimonials.php:154
+msgid "Rounded"
+msgstr "لبه‌ی گِرد"
+
+#: widgets/premium-pricing-table.php:539
+msgid "List Item #3"
+msgstr "لیست آیتم 3"
+
+#: widgets/premium-pricing-table.php:532
+msgid "List Item #2"
+msgstr "لیست آیتم 2"
+
+#: widgets/premium-pricing-table.php:525
+msgid "List Item #1"
+msgstr "لیست آیتم 1"
+
+#: widgets/premium-person.php:534 widgets/premium-person.php:815
+msgid "LinkedIn"
+msgstr "لینکدین"
+
+#: widgets/premium-progressbar.php:447
+msgid "Enable percentage for labels"
+msgstr "فعال‌سازی درصد برای برچسب‌ها"
+
+#: widgets/premium-progressbar.php:444
+msgid "Enable Percentage"
+msgstr "فعال‌سازی درصد"
+
+#: widgets/premium-testimonials.php:321
+msgid "Donec id elit non mi porta gravida at eget metus. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit. Donec id elit non mi porta gravida at eget metus."
+msgstr "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد."
+
+#: modules/woocommerce/skins/skin-1.php:541
+#: modules/woocommerce/skins/skin-2.php:124
+#: modules/woocommerce/skins/skin-3.php:115
+#: modules/woocommerce/skins/skin-4.php:145
+#: modules/woocommerce/skins/skin-5.php:669
+#: modules/woocommerce/skins/skin-6.php:136
+#: modules/woocommerce/skins/skin-7.php:142
+#: modules/woocommerce/skins/skin-8.php:142
+#: modules/woocommerce/skins/skin-9.php:140
+#: modules/woocommerce/skins/skin-10.php:140
+#: modules/woocommerce/skins/skin-11.php:142
+#: modules/woocommerce/skins/skin-base.php:696
+#: modules/woocommerce/skins/skin-base.php:728
+#: modules/woocommerce/widgets/woo-products.php:758
+#: widgets/premium-pricing-table.php:293 widgets/premium-pricing-table.php:327
+#: widgets/premium-pricing-table.php:899 widgets/premium-pricing-table.php:1209
+#: widgets/premium-pricing-table.php:1340
+msgid "Price"
+msgstr "قیمت"
+
+#: widgets/premium-pricing-table.php:1648
+msgid "Vertical Spacing"
+msgstr "فاصله عمودی"
+
+#: modules/woocommerce/widgets/woo-products.php:1071
+#: widgets/premium-blog.php:2211 widgets/premium-blog.php:2468
+#: widgets/premium-person.php:377 widgets/premium-pricing-table.php:1634
+#: widgets/premium-progressbar.php:187 widgets/premium-testimonials.php:224
+msgid "Spacing"
+msgstr "فاصله"
+
+#: widgets/premium-grid.php:1199 widgets/premium-person.php:506
+#: widgets/premium-person.php:787
+msgid "Facebook"
+msgstr "فیسبوک"
+
+#: widgets/premium-blog.php:691 widgets/premium-progressbar.php:464
+#: widgets/premium-progressbar.php:912
+msgid "Arrow"
+msgstr "فلش"
+
+#. Author of the plugin
+msgid "Leap13"
+msgstr "Leap13"
+
+#: widgets/premium-maps.php:529
+msgid "JSON Code"
+msgstr "JSON Code"
+
+#. Plugin URI of the plugin
+msgid "https://premiumaddons.com"
+msgstr "https://premiumaddons.com"
+
+#: widgets/premium-title.php:217
+msgid "Font Awesome Icon"
+msgstr "Font Awesome Icon"
+
+#: widgets/premium-videobox.php:171 widgets/premium-videobox.php:195
+msgid "Embed URL"
+msgstr "Embed URL"
+
+#: widgets/premium-progressbar.php:272
+msgid "50%"
+msgstr "50%"
+
+#: widgets/premium-grid.php:990 widgets/premium-title.php:178
+msgid "Style 4"
+msgstr "استایل 4"
+
+#: widgets/premium-progressbar.php:518
+msgid "Striped"
+msgstr "راه راه"
+
+#: widgets/premium-title.php:179
+msgid "Style 5"
+msgstr "استایل 5"
+
+#: widgets/premium-title.php:180
+msgid "Style 6"
+msgstr "استایل 6"
+
+#: widgets/premium-title.php:181
+msgid "Style 7"
+msgstr "استایل 7"
+
+#: widgets/premium-title.php:470
+msgid "Stripe Width (PX)"
+msgstr "عرض نوار (پیکسل)"
+
+#: widgets/premium-title.php:490
+msgid "Stripe Height (PX)"
+msgstr "ارتفاع نوار (پیکسل)"
+
+#: widgets/premium-title.php:510
+msgid "Stripe Top Spacing (PX)"
+msgstr "فاصله بالای نوار (پیکسل)"
+
+#: widgets/premium-title.php:526
+msgid "Stripe Bottom Spacing (PX)"
+msgstr "فاصله پایین نوار (پیکسل)"
+
+#: widgets/premium-title.php:1082
+msgid "Stripe Color"
+msgstr "رنگ نوار"
+
+#: widgets/premium-videobox.php:196
+msgid "Enter your YouTube/Vimeo video link. For example, https://www.youtube.com/embed/z1hQgVpfTKU"
+msgstr "لینک ویدئوی یوتیوب/ویمیو خود را وارد کنید. برای مثال: https://www.youtube.com/embed/z1hQgVpfTKU"
+
+#. Author URI of the plugin
+msgid "https://leap13.com/"
+msgstr "https://leap13.com/"
+
+#: widgets/premium-fancytext.php:189
+msgid "Awesome"
+msgstr "عالی"
+
+#: widgets/premium-title.php:162
+msgid "Premium Title"
+msgstr "عنوان پریمیوم"
+
+#: modules/woocommerce/skins/skin-1.php:538
+#: modules/woocommerce/skins/skin-2.php:121
+#: modules/woocommerce/skins/skin-3.php:112
+#: modules/woocommerce/skins/skin-4.php:142
+#: modules/woocommerce/skins/skin-5.php:666
+#: modules/woocommerce/skins/skin-6.php:109
+#: modules/woocommerce/skins/skin-7.php:115
+#: modules/woocommerce/skins/skin-8.php:115
+#: modules/woocommerce/skins/skin-9.php:113
+#: modules/woocommerce/skins/skin-10.php:113
+#: modules/woocommerce/skins/skin-11.php:115
+#: modules/woocommerce/skins/skin-base.php:450
+#: modules/woocommerce/widgets/woo-products.php:755
+#: widgets/premium-banner.php:402 widgets/premium-banner.php:844
+#: widgets/premium-blog.php:508 widgets/premium-blog.php:1829
+#: widgets/premium-counter.php:148 widgets/premium-grid.php:801
+#: widgets/premium-grid.php:1493 widgets/premium-icon-list.php:170
+#: widgets/premium-icon-list.php:1300 widgets/premium-maps.php:326
+#: widgets/premium-maps.php:572 widgets/premium-modalbox.php:294
+#: widgets/premium-person.php:475 widgets/premium-person.php:756
+#: widgets/premium-pricing-table.php:247 widgets/premium-pricing-table.php:890
+#: widgets/premium-pricing-table.php:1124 widgets/premium-progressbar.php:255
+#: widgets/premium-progressbar.php:748 widgets/premium-title.php:153
+#: widgets/premium-title.php:160 widgets/premium-title.php:875
+msgid "Title"
+msgstr "عنوان"
+
+#: widgets/premium-carousel.php:235 widgets/premium-fancytext.php:663
+#: widgets/premium-image-button.php:295 widgets/premium-image-scroll.php:421
+#: widgets/premium-image-scroll.php:475 widgets/premium-videobox.php:1146
+msgid "Vertical"
+msgstr "عمودی"
+
+#: admin/includes/admin-helper.php:387
+#: modules/woocommerce/widgets/woo-products.php:234
+#: modules/woocommerce/widgets/woo-products.php:1184
+#: widgets/premium-banner.php:625 widgets/premium-blog.php:158
+#: widgets/premium-grid.php:1320
+msgid "General"
+msgstr "عمومی"
+
+#: widgets/premium-fancytext.php:395
+msgid "Cursor Mark"
+msgstr "علامت مکان‌نما"
+
+#: widgets/premium-grid.php:186
+msgid "Grid Layout"
+msgstr "طرح شبکه‌ای"
+
+#: widgets/premium-fancytext.php:183
+msgid "Designer"
+msgstr "طراح"
+
+#: widgets/premium-blog.php:953
+msgid "Excerpt Length"
+msgstr "طول چکیده"
+
+#: widgets/premium-blog.php:1345
+msgid "Pagination is the process of dividing the posts into discrete pages"
+msgstr "صفحه‌بندی، فرآیند تقسیم پست‌ها در صفحات مجزا می‌باشد"
+
+#: includes/class-premium-template-tags.php:1116
+#: modules/woocommerce/widgets/woo-products.php:811
+#: modules/woocommerce/widgets/woo-products.php:1392
+#: widgets/premium-blog.php:1332 widgets/premium-blog.php:2494
+msgid "Pagination"
+msgstr "صفحه‌بندی"
+
+#: widgets/premium-grid.php:965
+msgid "Image Gap"
+msgstr "شکاف تصویر"
+
+#: admin/includes/elements.php:358 admin/includes/elements.php:887
+#: widgets/premium-countdown.php:51 widgets/premium-countdown.php:152
+msgid "Countdown"
+msgstr "شمارش معکوس"
+
+#: admin/includes/elements.php:513 admin/includes/elements.php:1034
+#: widgets/premium-counter.php:49 widgets/premium-counter.php:141
+msgid "Counter"
+msgstr "شمارنده"
+
+#: widgets/premium-banner.php:644
+msgid "Image Opacity"
+msgstr "شفافیت تصویر"
+
+#: widgets/premium-banner.php:665
+msgid "Hover Opacity"
+msgstr "شفافیت هاور"
+
+#: widgets/premium-banner.php:217 widgets/premium-banner.php:483
+#: widgets/premium-banner.php:516 widgets/premium-button.php:172
+#: widgets/premium-button.php:199 widgets/premium-dual-header.php:234
+#: widgets/premium-dual-header.php:266 widgets/premium-grid.php:841
+#: widgets/premium-grid.php:869 widgets/premium-icon-list.php:314
+#: widgets/premium-icon-list.php:342 widgets/premium-image-button.php:173
+#: widgets/premium-image-button.php:200 widgets/premium-image-scroll.php:230
+#: widgets/premium-image-scroll.php:258 widgets/premium-image-separator.php:379
+#: widgets/premium-image-separator.php:392 widgets/premium-lottie.php:380
+#: widgets/premium-lottie.php:412 widgets/premium-pricing-table.php:633
+#: widgets/premium-pricing-table.php:656 widgets/premium-title.php:585
+#: widgets/premium-title.php:617
+msgid "Existing Page"
+msgstr "صفحه‌ی موجود"
+
+#: widgets/premium-fancytext.php:335
+msgid "Set a speed for backspace effect in milliseconds."
+msgstr "سرعت حذف متن را بر حسب میلی‌ثانیه تنظیم کنید."
+
+#: widgets/premium-fancytext.php:283
+msgid "Set typing effect speed in milliseconds."
+msgstr "سرعت تایپ را بر حسب میلی‌ثانیه تنظیم کنید."
+
+#: widgets/premium-fancytext.php:332
+msgid "Back Speed"
+msgstr "سرعت برگشت"
+
+#: widgets/premium-fancytext.php:293 widgets/premium-fancytext.php:409
+#: widgets/premium-lottie.php:200
+msgid "Animation Speed"
+msgstr "سرعت انیمیشن"
+
+#: widgets/premium-blog.php:1238 widgets/premium-carousel.php:432
+#: widgets/premium-person.php:1043
+msgid "Autoplay Speed means at which time the next slide should come. Set a value in milliseconds (ms)"
+msgstr "سرعت پخش خودکار به این معنی است که در چه زمانی اسلاید بعدی باید ظاهر شود. یک مقدار را برحسب میلی‌ثانیه (ms) تنظیم کنید."
+
+#: modules/woocommerce/widgets/woo-products.php:592
+#: widgets/premium-blog.php:1237 widgets/premium-carousel.php:431
+#: widgets/premium-person.php:1042
+msgid "Autoplay Speed"
+msgstr "سرعت پخش خودکار"
+
+#: widgets/premium-carousel.php:411
+msgid "Transition Speed"
+msgstr "سرعت گذار"
+
+#: widgets/premium-grid.php:254
+msgid "Columns"
+msgstr "ستون‌ها"
+
+#: widgets/premium-countdown.php:546
+msgid "Hour (Singular)"
+msgstr "ساعت (یک ساعت)"
+
+#: widgets/premium-countdown.php:556
+msgid "Hours (Plural)"
+msgstr "ساعت (چند ساعت)"
+
+#: widgets/premium-countdown.php:216 widgets/premium-countdown.php:259
+#: widgets/premium-countdown.php:314
+msgid "Hours"
+msgstr "ساعت"
+
+#: widgets/premium-counter.php:597
+msgid "Simple"
+msgstr "ساده"
+
+#: widgets/premium-button.php:886 widgets/premium-button.php:1123
+#: widgets/premium-image-button.php:840 widgets/premium-image-button.php:1106
+msgid "Button Shadow"
+msgstr "سایه دکمه"
+
+#: widgets/premium-button.php:863 widgets/premium-button.php:1084
+#: widgets/premium-button.php:1098 widgets/premium-image-button.php:817
+#: widgets/premium-image-button.php:1067 widgets/premium-image-button.php:1081
+#: widgets/premium-image-separator.php:718 widgets/premium-title.php:1368
+msgid "Icon Shadow"
+msgstr "سایه آیکون"
+
+#: widgets/premium-button.php:877 widgets/premium-button.php:1111
+#: widgets/premium-fancytext.php:581 widgets/premium-image-button.php:831
+#: widgets/premium-image-button.php:1094 widgets/premium-videobox.php:2080
+msgid "Text Shadow"
+msgstr "سایه متن"
+
+#: widgets/premium-countdown.php:526
+msgid "Year (Singular)"
+msgstr "سال (یک سال)"
+
+#: widgets/premium-countdown.php:536
+msgid "Years (Plural)"
+msgstr "سال (چند سال)"
+
+#: widgets/premium-countdown.php:310
+msgid "Years"
+msgstr "سال"
+
+#: widgets/premium-blog.php:227 widgets/premium-grid.php:189
+msgid "Even"
+msgstr "زوج"
+
+#: widgets/premium-carousel.php:379
+msgid "Restart the slider automatically as it passes the last slide"
+msgstr "زمانی که آخرین اسلاید نمایش داده شد، اسلایدها بطور اتوماتیک مجددا شروع شوند"
+
+#: widgets/premium-countdown.php:296
+msgid "User Local Time"
+msgstr "زمان محلی کاربر"
+
+#: widgets/premium-fancytext.php:422
+msgid "Pause Time (Milliseconds)"
+msgstr "زمان مکث (میلی‌ثانیه)"
+
+#: widgets/premium-fancytext.php:169
+msgid "Fancy String"
+msgstr "رشته فانتزی"
+
+#: widgets/premium-banner.php:893 widgets/premium-banner.php:949
+#: widgets/premium-banner.php:1092 widgets/premium-dual-header.php:788
+#: widgets/premium-dual-header.php:985 widgets/premium-grid.php:1430
+#: widgets/premium-grid.php:1590 widgets/premium-grid.php:1741
+#: widgets/premium-grid.php:1832 widgets/premium-maps.php:774
+#: widgets/premium-modalbox.php:1052 widgets/premium-modalbox.php:1131
+#: widgets/premium-pricing-table.php:2015
+#: widgets/premium-pricing-table.php:2093
+#: widgets/premium-pricing-table.php:2297
+#: widgets/premium-pricing-table.php:2402 widgets/premium-title.php:1099
+#: widgets/premium-videobox.php:1459 widgets/premium-videobox.php:1735
+#: widgets/premium-vscroll.php:821 widgets/premium-vscroll.php:906
+#: widgets/premium-vscroll.php:966
+msgid "Shadow"
+msgstr "سایه"
+
+#: widgets/premium-button.php:240 widgets/premium-button.php:283
+#: widgets/premium-image-button.php:239 widgets/premium-image-button.php:278
+msgid "Right to Left"
+msgstr "راست به چپ"
+
+#: modules/woocommerce/skins/skin-1.php:183
+#: modules/woocommerce/skins/skin-2.php:170
+#: modules/woocommerce/skins/skin-3.php:165
+#: modules/woocommerce/skins/skin-4.php:195
+#: modules/woocommerce/skins/skin-5.php:162
+#: modules/woocommerce/skins/skin-6.php:174
+#: modules/woocommerce/skins/skin-8.php:172
+#: modules/woocommerce/skins/skin-11.php:180
+#: modules/woocommerce/widgets/woo-products.php:884
+#: widgets/premium-banner.php:544 widgets/premium-blog.php:844
+#: widgets/premium-blog.php:1149 widgets/premium-blog.php:1414
+#: widgets/premium-button.php:665 widgets/premium-countdown.php:373
+#: widgets/premium-counter.php:253 widgets/premium-counter.php:384
+#: widgets/premium-counter.php:439 widgets/premium-counter.php:469
+#: widgets/premium-dual-header.php:294 widgets/premium-dual-header.php:334
+#: widgets/premium-dual-header.php:497 widgets/premium-fancytext.php:224
+#: widgets/premium-fancytext.php:483 widgets/premium-grid.php:342
+#: widgets/premium-grid.php:566 widgets/premium-grid.php:1127
+#: widgets/premium-icon-list.php:750 widgets/premium-icon-list.php:796
+#: widgets/premium-icon-list.php:847 widgets/premium-image-button.php:614
+#: widgets/premium-image-separator.php:351 widgets/premium-lottie.php:352
+#: widgets/premium-maps.php:643 widgets/premium-maps.php:730
+#: widgets/premium-modalbox.php:777 widgets/premium-person.php:247
+#: widgets/premium-person.php:294 widgets/premium-pricing-table.php:562
+#: widgets/premium-pricing-table.php:779 widgets/premium-pricing-table.php:1757
+#: widgets/premium-progressbar.php:488 widgets/premium-title.php:327
+#: widgets/premium-title.php:382 widgets/premium-title.php:412
+#: widgets/premium-title.php:554 widgets/premium-videobox.php:2032
+#: widgets/premium-vscroll.php:275 widgets/premium-vscroll.php:373
+msgid "Right"
+msgstr "راست"
+
+#: widgets/premium-countdown.php:466
+msgid "Day (Singular)"
+msgstr "روز (یک روز)"
+
+#: widgets/premium-countdown.php:476
+msgid "Day (Plural)"
+msgstr "روز (چند روز)"
+
+#: includes/pa-display-conditions/pa-controls-handler.php:95
+#: widgets/premium-countdown.php:313 widgets/premium-videobox.php:274
+msgid "Day"
+msgstr "روز"
+
+#: widgets/premium-button.php:683 widgets/premium-image-button.php:632
+msgid "onclick Event"
+msgstr "رویداد به ازای کلیک"
+
+#: widgets/premium-contactform.php:498
+msgid "Placeholder Color"
+msgstr "رنگ جایبان"
+
+#: widgets/premium-button.php:782 widgets/premium-button.php:945
+#: widgets/premium-button.php:965 widgets/premium-image-button.php:731
+#: widgets/premium-image-button.php:911 widgets/premium-image-button.php:931
+#: widgets/premium-image-scroll.php:616 widgets/premium-modalbox.php:928
+#: widgets/premium-pricing-table.php:491
+msgid "Icon Color"
+msgstr "رنگ آیکون"
+
+#: widgets/premium-counter.php:997
+msgid "Suffix Color"
+msgstr "رنگ پسوند"
+
+#: widgets/premium-banner.php:1034 widgets/premium-blog.php:1948
+#: widgets/premium-icon-list.php:1040 widgets/premium-image-separator.php:656
+#: widgets/premium-person.php:1469
+msgid "Hover Background Color"
+msgstr "رنگ پس‌زمینه هنگام هاور"
+
+#: widgets/premium-counter.php:971
+msgid "Prefix Color"
+msgstr "رنگ پیشوند"
+
+#: modules/woocommerce/skins/skin-base.php:602 widgets/premium-blog.php:1664
+#: widgets/premium-blog.php:2800 widgets/premium-image-button.php:950
+#: widgets/premium-image-button.php:967 widgets/premium-image-button.php:1003
+#: widgets/premium-image-scroll.php:630
+msgid "Overlay Color"
+msgstr "رنگ پوشش"
+
+#: widgets/premium-contactform.php:379
+msgid "Focus Border Color"
+msgstr "رنگ کادر در حالت کلیک شده"
+
+#: widgets/premium-contactform.php:399
+msgid "Focus Line Color"
+msgstr "رنگ کادر در حالت کلیک شده"
+
+#: widgets/premium-blog.php:1675 widgets/premium-contactform.php:636
+#: widgets/premium-pricing-table.php:1820 widgets/premium-progressbar.php:649
+#: widgets/premium-testimonials.php:403
+msgid "Border Color"
+msgstr "رنگ کادر"
+
+#: modules/premium-section-floating-effects/module.php:708
+#: modules/woocommerce/skins/skin-7.php:247
+#: modules/woocommerce/skins/skin-base.php:116
+#: modules/woocommerce/skins/skin-base.php:305
+#: modules/woocommerce/skins/skin-base.php:613
+#: modules/woocommerce/widgets/woo-products.php:1448
+#: modules/woocommerce/widgets/woo-products.php:1499
+#: modules/woocommerce/widgets/woo-products.php:1550
+#: modules/woocommerce/widgets/woo-products.php:1654
+#: modules/woocommerce/widgets/woo-products.php:1857
+#: widgets/premium-banner.php:633 widgets/premium-banner.php:1023
+#: widgets/premium-blog.php:1510 widgets/premium-blog.php:1568
+#: widgets/premium-blog.php:1937 widgets/premium-blog.php:2130
+#: widgets/premium-blog.php:2243 widgets/premium-blog.php:2294
+#: widgets/premium-blog.php:2401 widgets/premium-blog.php:2537
+#: widgets/premium-blog.php:2623 widgets/premium-blog.php:2709
+#: widgets/premium-blog.php:2916 widgets/premium-button.php:802
+#: widgets/premium-button.php:984 widgets/premium-carousel.php:869
+#: widgets/premium-carousel.php:924 widgets/premium-contactform.php:559
+#: widgets/premium-contactform.php:625 widgets/premium-countdown.php:662
+#: widgets/premium-countdown.php:790 widgets/premium-countdown.php:945
+#: widgets/premium-counter.php:609 widgets/premium-counter.php:806
+#: widgets/premium-counter.php:906 widgets/premium-fancytext.php:559
+#: widgets/premium-fancytext.php:780 widgets/premium-fancytext.php:826
+#: widgets/premium-grid.php:1707 widgets/premium-grid.php:1798
+#: widgets/premium-grid.php:1916 widgets/premium-grid.php:1994
+#: widgets/premium-grid.php:2075 widgets/premium-grid.php:2409
+#: widgets/premium-icon-list.php:1029 widgets/premium-image-separator.php:639
+#: widgets/premium-lottie.php:527 widgets/premium-lottie.php:573
+#: widgets/premium-modalbox.php:990 widgets/premium-modalbox.php:1087
+#: widgets/premium-modalbox.php:1183 widgets/premium-modalbox.php:1248
+#: widgets/premium-modalbox.php:1300 widgets/premium-modalbox.php:1417
+#: widgets/premium-modalbox.php:1475 widgets/premium-person.php:1449
+#: widgets/premium-person.php:1564 widgets/premium-person.php:1685
+#: widgets/premium-pricing-table.php:991 widgets/premium-pricing-table.php:1809
+#: widgets/premium-pricing-table.php:2175
+#: widgets/premium-pricing-table.php:2193 widgets/premium-progressbar.php:1048
+#: widgets/premium-title.php:984 widgets/premium-title.php:1002
+#: widgets/premium-videobox.php:1709 widgets/premium-videobox.php:1919
+#: widgets/premium-videobox.php:1990 widgets/premium-videobox.php:2069
+#: widgets/premium-vscroll.php:795 widgets/premium-vscroll.php:892
+#: widgets/premium-vscroll.php:952
+msgid "Background Color"
+msgstr "رنگ پس‌زمینه"
+
+#: modules/woocommerce/skins/skin-base.php:472 widgets/premium-banner.php:998
+#: widgets/premium-blog.php:1862 widgets/premium-blog.php:1926
+#: widgets/premium-blog.php:2380 widgets/premium-icon-list.php:1185
+#: widgets/premium-icon-list.php:1343 widgets/premium-image-separator.php:621
+#: widgets/premium-modalbox.php:911 widgets/premium-person.php:1435
+#: widgets/premium-person.php:1659 widgets/premium-videobox.php:1556
+#: widgets/premium-videobox.php:1684
+msgid "Hover Color"
+msgstr "رنگ هاور"
+
+#: widgets/premium-contactform.php:473
+msgid "Input Text Color"
+msgstr "رنگ متن ورودی"
+
+#: widgets/premium-blog.php:2098 widgets/premium-button.php:768
+#: widgets/premium-button.php:928 widgets/premium-contactform.php:548
+#: widgets/premium-contactform.php:614 widgets/premium-dual-header.php:669
+#: widgets/premium-dual-header.php:866 widgets/premium-grid.php:1902
+#: widgets/premium-grid.php:1983 widgets/premium-grid.php:2061
+#: widgets/premium-grid.php:2202 widgets/premium-icon-list.php:390
+#: widgets/premium-icon-list.php:1408 widgets/premium-image-button.php:717
+#: widgets/premium-image-button.php:894 widgets/premium-modalbox.php:1536
+#: widgets/premium-pricing-table.php:506 widgets/premium-pricing-table.php:2150
+#: widgets/premium-videobox.php:1670 widgets/premium-videobox.php:1959
+#: widgets/premium-vscroll.php:864 widgets/premium-vscroll.php:924
+msgid "Text Color"
+msgstr "رنگ متن"
+
+#: modules/woocommerce/widgets/woo-products.php:1730
+#: widgets/premium-blog.php:2862 widgets/premium-carousel.php:1051
+msgid "Active Color"
+msgstr "رنگ لینک فعال"
+
+#: widgets/premium-contactform.php:439
+msgid "Default Font Color"
+msgstr "رنگ فونت پیش‌فرض"
+
+#: widgets/premium-countdown.php:628
+msgid "Digits"
+msgstr "رقم‌ها"
+
+#: widgets/premium-blog.php:1890 widgets/premium-blog.php:1979
+#: widgets/premium-grid.php:430 widgets/premium-grid.php:499
+msgid "Categories"
+msgstr "دسته‌بندی‌ها"
+
+#: modules/woocommerce/skins/skin-1.php:539
+#: modules/woocommerce/skins/skin-2.php:122
+#: modules/woocommerce/skins/skin-3.php:113
+#: modules/woocommerce/skins/skin-4.php:143
+#: modules/woocommerce/skins/skin-5.php:667
+#: modules/woocommerce/skins/skin-6.php:118
+#: modules/woocommerce/skins/skin-7.php:124
+#: modules/woocommerce/skins/skin-8.php:124
+#: modules/woocommerce/skins/skin-9.php:122
+#: modules/woocommerce/skins/skin-10.php:122
+#: modules/woocommerce/skins/skin-11.php:124
+#: modules/woocommerce/skins/skin-base.php:529 widgets/premium-grid.php:476
+#: widgets/premium-grid.php:827
+msgid "Category"
+msgstr "دسته‌بندی"
+
+#: widgets/premium-fancytext.php:251
+msgid "Typing"
+msgstr "درحال تایپ"
+
+#: modules/premium-section-floating-effects/module.php:765
+#: modules/woocommerce/widgets/woo-products.php:1348
+#: widgets/premium-banner.php:303 widgets/premium-blog.php:611
+#: widgets/premium-grid.php:1043 widgets/premium-person.php:268
+#: widgets/premium-videobox.php:995
+msgid "Grayscale"
+msgstr "درجه‌خاکستری"
+
+#: modules/woocommerce/skins/skin-1.php:264
+#: modules/woocommerce/skins/skin-1.php:370
+#: modules/woocommerce/skins/skin-1.php:427
+#: modules/woocommerce/skins/skin-1.php:604
+#: modules/woocommerce/skins/skin-1.php:661
+#: modules/woocommerce/skins/skin-2.php:247
+#: modules/woocommerce/skins/skin-2.php:345
+#: modules/woocommerce/skins/skin-2.php:402
+#: modules/woocommerce/skins/skin-2.php:558
+#: modules/woocommerce/skins/skin-2.php:615
+#: modules/woocommerce/skins/skin-3.php:242
+#: modules/woocommerce/skins/skin-3.php:340
+#: modules/woocommerce/skins/skin-3.php:397
+#: modules/woocommerce/skins/skin-3.php:548
+#: modules/woocommerce/skins/skin-3.php:605
+#: modules/woocommerce/skins/skin-4.php:247
+#: modules/woocommerce/skins/skin-4.php:351
+#: modules/woocommerce/skins/skin-4.php:408
+#: modules/woocommerce/skins/skin-4.php:568
+#: modules/woocommerce/skins/skin-4.php:625
+#: modules/woocommerce/skins/skin-5.php:239
+#: modules/woocommerce/skins/skin-5.php:337
+#: modules/woocommerce/skins/skin-5.php:394
+#: modules/woocommerce/skins/skin-5.php:545
+#: modules/woocommerce/skins/skin-5.php:602
+#: modules/woocommerce/skins/skin-6.php:250
+#: modules/woocommerce/skins/skin-6.php:348
+#: modules/woocommerce/skins/skin-6.php:405
+#: modules/woocommerce/skins/skin-6.php:548
+#: modules/woocommerce/skins/skin-6.php:605
+#: modules/woocommerce/skins/skin-7.php:218
+#: modules/woocommerce/skins/skin-7.php:388
+#: modules/woocommerce/skins/skin-7.php:445
+#: modules/woocommerce/skins/skin-7.php:586
+#: modules/woocommerce/skins/skin-7.php:643
+#: modules/woocommerce/skins/skin-8.php:338
+#: modules/woocommerce/skins/skin-8.php:398
+#: modules/woocommerce/skins/skin-8.php:548
+#: modules/woocommerce/skins/skin-8.php:608
+#: modules/woocommerce/skins/skin-9.php:272
+#: modules/woocommerce/skins/skin-9.php:329
+#: modules/woocommerce/skins/skin-9.php:475
+#: modules/woocommerce/skins/skin-9.php:542
+#: modules/woocommerce/skins/skin-10.php:260
+#: modules/woocommerce/skins/skin-10.php:320
+#: modules/woocommerce/skins/skin-10.php:466
+#: modules/woocommerce/skins/skin-10.php:536
+#: modules/woocommerce/skins/skin-11.php:397
+#: modules/woocommerce/skins/skin-11.php:497
+#: modules/woocommerce/skins/skin-11.php:554
+#: modules/woocommerce/skins/skin-11.php:704
+#: modules/woocommerce/skins/skin-11.php:761
+#: modules/woocommerce/skins/skin-base.php:105
+#: modules/woocommerce/skins/skin-base.php:294
+#: modules/woocommerce/skins/skin-base.php:458
+#: modules/woocommerce/skins/skin-base.php:537
+#: modules/woocommerce/widgets/woo-products.php:1437
+#: modules/woocommerce/widgets/woo-products.php:1488
+#: modules/woocommerce/widgets/woo-products.php:1539
+#: modules/woocommerce/widgets/woo-products.php:1622
+#: modules/woocommerce/widgets/woo-products.php:1712
+#: modules/woocommerce/widgets/woo-products.php:1846
+#: widgets/premium-banner.php:852 widgets/premium-banner.php:924
+#: widgets/premium-banner.php:984 widgets/premium-blog.php:1496
+#: widgets/premium-blog.php:1554 widgets/premium-blog.php:1722
+#: widgets/premium-blog.php:1848 widgets/premium-blog.php:1915
+#: widgets/premium-blog.php:2232 widgets/premium-blog.php:2283
+#: widgets/premium-blog.php:2366 widgets/premium-blog.php:2523
+#: widgets/premium-blog.php:2609 widgets/premium-blog.php:2695
+#: widgets/premium-blog.php:2848 widgets/premium-blog.php:2890
+#: widgets/premium-carousel.php:854 widgets/premium-carousel.php:909
+#: widgets/premium-carousel.php:1036 widgets/premium-countdown.php:636
+#: widgets/premium-countdown.php:765 widgets/premium-countdown.php:892
+#: widgets/premium-countdown.php:931 widgets/premium-counter.php:520
+#: widgets/premium-counter.php:880 widgets/premium-dual-header.php:1032
+#: widgets/premium-fancytext.php:533 widgets/premium-fancytext.php:622
+#: widgets/premium-fancytext.php:755 widgets/premium-fancytext.php:801
+#: widgets/premium-fancytext.php:851 widgets/premium-grid.php:1501
+#: widgets/premium-grid.php:1535 widgets/premium-grid.php:1692
+#: widgets/premium-grid.php:1783 widgets/premium-icon-list.php:1169
+#: widgets/premium-icon-list.php:1328 widgets/premium-icon-list.php:1599
+#: widgets/premium-icon-list.php:1713 widgets/premium-image-scroll.php:393
+#: widgets/premium-image-separator.php:603 widgets/premium-maps.php:580
+#: widgets/premium-maps.php:669 widgets/premium-modalbox.php:894
+#: widgets/premium-modalbox.php:1160 widgets/premium-modalbox.php:1237
+#: widgets/premium-modalbox.php:1289 widgets/premium-modalbox.php:1403
+#: widgets/premium-modalbox.php:1461 widgets/premium-person.php:1228
+#: widgets/premium-person.php:1283 widgets/premium-person.php:1350
+#: widgets/premium-person.php:1421 widgets/premium-person.php:1645
+#: widgets/premium-pricing-table.php:956 widgets/premium-pricing-table.php:1135
+#: widgets/premium-pricing-table.php:1228
+#: widgets/premium-pricing-table.php:1273
+#: widgets/premium-pricing-table.php:1349
+#: widgets/premium-pricing-table.php:1398
+#: widgets/premium-pricing-table.php:1454
+#: widgets/premium-pricing-table.php:1567
+#: widgets/premium-pricing-table.php:1601
+#: widgets/premium-pricing-table.php:1787
+#: widgets/premium-pricing-table.php:1852
+#: widgets/premium-pricing-table.php:1938 widgets/premium-progressbar.php:756
+#: widgets/premium-progressbar.php:802 widgets/premium-progressbar.php:924
+#: widgets/premium-progressbar.php:970 widgets/premium-progressbar.php:1030
+#: widgets/premium-testimonials.php:501 widgets/premium-testimonials.php:544
+#: widgets/premium-testimonials.php:598 widgets/premium-title.php:883
+#: widgets/premium-title.php:1246 widgets/premium-title.php:1394
+#: widgets/premium-videobox.php:1118 widgets/premium-videobox.php:1542
+#: widgets/premium-videobox.php:1905 widgets/premium-videobox.php:2055
+msgid "Color"
+msgstr "رنگ"
+
+#: widgets/premium-button.php:222
+msgid "In & Out"
+msgstr "داخل و خارج"
+
+#: admin/includes/elements.php:372 admin/includes/elements.php:901
+#: widgets/premium-banner.php:454 widgets/premium-banner.php:972
+#: widgets/premium-blog.php:2191 widgets/premium-button.php:60
+#: widgets/premium-button.php:150 widgets/premium-button.php:740
+#: widgets/premium-contactform.php:263 widgets/premium-contactform.php:513
+#: widgets/premium-image-button.php:151 widgets/premium-image-button.php:689
+#: widgets/premium-modalbox.php:451 widgets/premium-pricing-table.php:608
+#: widgets/premium-pricing-table.php:925 widgets/premium-pricing-table.php:1927
+msgid "Button"
+msgstr "دکمه"
+
+#: widgets/premium-countdown.php:566
+msgid "Minute (Singular)"
+msgstr "دقیقه (یک دقیقه)"
+
+#: widgets/premium-countdown.php:576
+msgid "Minutes (Plural)"
+msgstr "دقیقه (چند دقیقه)"
+
+#: widgets/premium-countdown.php:232 widgets/premium-countdown.php:275
+#: widgets/premium-countdown.php:315
+msgid "Minutes"
+msgstr "دقیقه"
+
+#: widgets/premium-countdown.php:162 widgets/premium-dual-header.php:206
+#: widgets/premium-icon-list.php:722 widgets/premium-testimonials.php:210
+msgid "Inline"
+msgstr "خطی"
+
+#: widgets/premium-carousel.php:482
+msgid "Enable slide moving with touch"
+msgstr "حرکت اسلاید با لمس را فعال کنید"
+
+#: widgets/premium-carousel.php:481
+msgid "Touch Move"
+msgstr "حرکت لمسی"
+
+#: widgets/premium-banner.php:590 widgets/premium-grid.php:1270
+msgid "Maximum Size"
+msgstr "حداکثر اندازه"
+
+#: widgets/premium-banner.php:328
+msgid "Min Height"
+msgstr "حداقل ارتفاع"
+
+#: widgets/premium-banner.php:577 widgets/premium-grid.php:1257
+msgid "Minimum Size"
+msgstr "حداقل اندازه"
+
+#: modules/woocommerce/skins/skin-1.php:230
+#: modules/woocommerce/skins/skin-1.php:346
+#: modules/woocommerce/skins/skin-1.php:583
+#: modules/woocommerce/skins/skin-2.php:215
+#: modules/woocommerce/skins/skin-2.php:324
+#: modules/woocommerce/skins/skin-2.php:537
+#: modules/woocommerce/skins/skin-3.php:210
+#: modules/woocommerce/skins/skin-3.php:319
+#: modules/woocommerce/skins/skin-3.php:527
+#: modules/woocommerce/skins/skin-4.php:327
+#: modules/woocommerce/skins/skin-4.php:547
+#: modules/woocommerce/skins/skin-5.php:207
+#: modules/woocommerce/skins/skin-5.php:316
+#: modules/woocommerce/skins/skin-5.php:524
+#: modules/woocommerce/skins/skin-6.php:218
+#: modules/woocommerce/skins/skin-6.php:327
+#: modules/woocommerce/skins/skin-6.php:527
+#: modules/woocommerce/skins/skin-7.php:279
+#: modules/woocommerce/skins/skin-7.php:322
+#: modules/woocommerce/skins/skin-7.php:367
+#: modules/woocommerce/skins/skin-7.php:565
+#: modules/woocommerce/skins/skin-8.php:216
+#: modules/woocommerce/skins/skin-8.php:317
+#: modules/woocommerce/skins/skin-8.php:527
+#: modules/woocommerce/skins/skin-9.php:194
+#: modules/woocommerce/skins/skin-9.php:251
+#: modules/woocommerce/skins/skin-9.php:454
+#: modules/woocommerce/skins/skin-10.php:194
+#: modules/woocommerce/skins/skin-10.php:239
+#: modules/woocommerce/skins/skin-10.php:445
+#: modules/woocommerce/skins/skin-11.php:224
+#: modules/woocommerce/skins/skin-11.php:273
+#: modules/woocommerce/skins/skin-11.php:476
+#: modules/woocommerce/skins/skin-11.php:683
+#: modules/woocommerce/skins/skin-base.php:206
+#: modules/woocommerce/skins/skin-base.php:221
+#: modules/woocommerce/skins/skin-base.php:396
+#: modules/woocommerce/skins/skin-base.php:411
+#: modules/woocommerce/skins/skin-base.php:624
+#: modules/woocommerce/widgets/woo-products.php:1405
+#: modules/woocommerce/widgets/woo-products.php:1686
+#: modules/woocommerce/widgets/woo-products.php:1883
+#: widgets/premium-banner.php:1113 widgets/premium-blog.php:1627
+#: widgets/premium-blog.php:2010 widgets/premium-blog.php:2177
+#: widgets/premium-blog.php:2329 widgets/premium-blog.php:2480
+#: widgets/premium-blog.php:2788 widgets/premium-blog.php:2942
+#: widgets/premium-button.php:907 widgets/premium-button.php:1144
+#: widgets/premium-contactform.php:335 widgets/premium-contactform.php:532
+#: widgets/premium-countdown.php:846 widgets/premium-countdown.php:995
+#: widgets/premium-counter.php:858 widgets/premium-counter.php:949
+#: widgets/premium-dual-header.php:810 widgets/premium-dual-header.php:1007
+#: widgets/premium-grid.php:1377 widgets/premium-grid.php:1471
+#: widgets/premium-grid.php:1619 widgets/premium-grid.php:1762
+#: widgets/premium-grid.php:1853 widgets/premium-grid.php:2157
+#: widgets/premium-grid.php:2288 widgets/premium-grid.php:2380
+#: widgets/premium-icon-list.php:1107 widgets/premium-icon-list.php:1286
+#: widgets/premium-icon-list.php:1491 widgets/premium-image-button.php:861
+#: widgets/premium-image-button.php:1127
+#: widgets/premium-image-separator.php:729 widgets/premium-lottie.php:662
+#: widgets/premium-maps.php:618 widgets/premium-maps.php:706
+#: widgets/premium-maps.php:795 widgets/premium-modalbox.php:1037
+#: widgets/premium-modalbox.php:1336 widgets/premium-modalbox.php:1514
+#: widgets/premium-modalbox.php:1679 widgets/premium-person.php:1261
+#: widgets/premium-person.php:1328 widgets/premium-person.php:1383
+#: widgets/premium-person.php:1542 widgets/premium-person.php:1620
+#: widgets/premium-person.php:1725 widgets/premium-pricing-table.php:1005
+#: widgets/premium-pricing-table.php:1103
+#: widgets/premium-pricing-table.php:1188
+#: widgets/premium-pricing-table.php:1534
+#: widgets/premium-pricing-table.php:1720
+#: widgets/premium-pricing-table.php:1913
+#: widgets/premium-pricing-table.php:2036
+#: widgets/premium-pricing-table.php:2114
+#: widgets/premium-pricing-table.php:2318
+#: widgets/premium-pricing-table.php:2423 widgets/premium-progressbar.php:1082
+#: widgets/premium-testimonials.php:740 widgets/premium-title.php:1172
+#: widgets/premium-title.php:1356 widgets/premium-videobox.php:1619
+#: widgets/premium-videobox.php:1723 widgets/premium-videobox.php:1859
+#: widgets/premium-videobox.php:2118 widgets/premium-vscroll.php:708
+#: widgets/premium-vscroll.php:1010
+msgid "Padding"
+msgstr "حاشیه‌داخلی"
+
+#: widgets/premium-carousel.php:491 widgets/premium-grid.php:1105
+msgid "RTL Mode"
+msgstr "حالت راستچین"
+
+#: widgets/premium-carousel.php:531
+msgid "Center mode enables a centered view with partial next/previous slides. Animations and all visible scroll type doesn't work with this mode"
+msgstr "حالت مرکز ، یک نمایش مرکزی با اسلایدهای جزئی قبلی/بعدی را فعال می‌کند. انیمیشن‌ها و اسکرول‌های قابل مشاهده با این حالت کار نمی‌کنند"
+
+#: widgets/premium-blog.php:1252 widgets/premium-carousel.php:530
+msgid "Center Mode"
+msgstr "حالت مرکز"
+
+#: modules/woocommerce/skins/skin-1.php:297
+#: modules/woocommerce/skins/skin-2.php:280
+#: modules/woocommerce/skins/skin-3.php:275
+#: modules/woocommerce/skins/skin-4.php:280
+#: modules/woocommerce/skins/skin-5.php:272
+#: modules/woocommerce/skins/skin-6.php:283
+#: modules/woocommerce/skins/skin-11.php:285
+#: modules/woocommerce/skins/skin-11.php:430
+#: modules/woocommerce/skins/skin-base.php:237
+#: modules/woocommerce/skins/skin-base.php:427
+#: modules/woocommerce/skins/skin-base.php:505
+#: modules/woocommerce/skins/skin-base.php:570
+#: modules/woocommerce/skins/skin-base.php:712 widgets/premium-banner.php:902
+#: widgets/premium-banner.php:958 widgets/premium-banner.php:1101
+#: widgets/premium-blog.php:1615 widgets/premium-blog.php:1998
+#: widgets/premium-blog.php:2165 widgets/premium-blog.php:2775
+#: widgets/premium-button.php:895 widgets/premium-button.php:1132
+#: widgets/premium-contactform.php:367 widgets/premium-countdown.php:906
+#: widgets/premium-countdown.php:1007 widgets/premium-counter.php:731
+#: widgets/premium-counter.php:846 widgets/premium-counter.php:937
+#: widgets/premium-dual-header.php:797 widgets/premium-dual-header.php:994
+#: widgets/premium-grid.php:1365 widgets/premium-grid.php:1459
+#: widgets/premium-grid.php:1607 widgets/premium-grid.php:1750
+#: widgets/premium-grid.php:1841 widgets/premium-grid.php:2145
+#: widgets/premium-grid.php:2276 widgets/premium-grid.php:2368
+#: widgets/premium-icon-list.php:1095 widgets/premium-icon-list.php:1273
+#: widgets/premium-icon-list.php:1366 widgets/premium-icon-list.php:1473
+#: widgets/premium-image-button.php:849 widgets/premium-image-button.php:1115
+#: widgets/premium-maps.php:605 widgets/premium-maps.php:694
+#: widgets/premium-maps.php:783 widgets/premium-modalbox.php:1667
+#: widgets/premium-person.php:1316 widgets/premium-person.php:1530
+#: widgets/premium-pricing-table.php:1083
+#: widgets/premium-pricing-table.php:1169
+#: widgets/premium-pricing-table.php:1253
+#: widgets/premium-pricing-table.php:1327
+#: widgets/premium-pricing-table.php:1377
+#: widgets/premium-pricing-table.php:1426
+#: widgets/premium-pricing-table.php:1482
+#: widgets/premium-pricing-table.php:1514
+#: widgets/premium-pricing-table.php:1700
+#: widgets/premium-pricing-table.php:1894
+#: widgets/premium-pricing-table.php:2024
+#: widgets/premium-pricing-table.php:2102
+#: widgets/premium-pricing-table.php:2306
+#: widgets/premium-pricing-table.php:2411 widgets/premium-progressbar.php:720
+#: widgets/premium-progressbar.php:781 widgets/premium-progressbar.php:827
+#: widgets/premium-testimonials.php:569 widgets/premium-title.php:1160
+#: widgets/premium-title.php:1344 widgets/premium-videobox.php:2130
+#: widgets/premium-vscroll.php:693 widgets/premium-vscroll.php:998
+msgid "Margin"
+msgstr "حاشیه‌خارجی"
+
+#: modules/woocommerce/widgets/woo-products.php:582
+#: widgets/premium-carousel.php:377
+msgid "Infinite Loop"
+msgstr "حلقه بینهایت"
+
+#: modules/premium-section-floating-effects/module.php:858
+#: widgets/premium-button.php:393 widgets/premium-button.php:472
+#: widgets/premium-counter.php:352 widgets/premium-fancytext.php:371
+#: widgets/premium-grid.php:768 widgets/premium-icon-list.php:272
+#: widgets/premium-image-button.php:386 widgets/premium-image-button.php:465
+#: widgets/premium-image-separator.php:216 widgets/premium-lottie.php:181
+#: widgets/premium-modalbox.php:249 widgets/premium-modalbox.php:690
+#: widgets/premium-pricing-table.php:206 widgets/premium-pricing-table.php:431
+#: widgets/premium-progressbar.php:343 widgets/premium-title.php:265
+#: widgets/premium-videobox.php:592
+msgid "Loop"
+msgstr "حلقه"
+
+#: widgets/premium-counter.php:191
+msgid "Thousands Separator"
+msgstr "جداکننده هزارگان"
+
+#: widgets/premium-button.php:234 widgets/premium-button.php:276
+#: widgets/premium-image-button.php:233 widgets/premium-image-button.php:252
+#: widgets/premium-image-button.php:271
+msgid "Slide Direction"
+msgstr "جهت اسلاید"
+
+#: widgets/premium-countdown.php:586
+msgid "Second (Singular)"
+msgstr "ثانیه (یک ثانیه)"
+
+#: widgets/premium-countdown.php:596
+msgid "Seconds (Plural)"
+msgstr "ثانیه (چند ثانیه)"
+
+#: widgets/premium-countdown.php:316
+msgid "Second"
+msgstr "ثانیه"
+
+#: widgets/premium-countdown.php:438
+msgid "Redirect To"
+msgstr "تغییر مسیر به"
+
+#: widgets/premium-blog.php:297
+msgid "Posts Per Page"
+msgstr "تعداد نوشته‌های موجود در هر صفحه"
+
+#: widgets/premium-grid.php:910
+msgid "Images"
+msgstr "تصاویر"
+
+#: widgets/premium-icon-list.php:226 widgets/premium-modalbox.php:189
+#: widgets/premium-progressbar.php:288
+msgid "Custom Image"
+msgstr "تصویر دلخواه"
+
+#: modules/woocommerce/skins/skin-1.php:107
+#: modules/woocommerce/skins/skin-2.php:107
+#: modules/woocommerce/skins/skin-3.php:98
+#: modules/woocommerce/skins/skin-4.php:128
+#: modules/woocommerce/skins/skin-5.php:102
+#: modules/woocommerce/skins/skin-6.php:100
+#: modules/woocommerce/skins/skin-7.php:106
+#: modules/woocommerce/skins/skin-8.php:106
+#: modules/woocommerce/skins/skin-9.php:104
+#: modules/woocommerce/skins/skin-10.php:104
+#: modules/woocommerce/skins/skin-11.php:106
+#: modules/woocommerce/widgets/woo-products.php:1329
+#: widgets/premium-banner.php:154 widgets/premium-blog.php:1641
+#: widgets/premium-counter.php:292 widgets/premium-grid.php:1391
+#: widgets/premium-icon-list.php:197 widgets/premium-image-scroll.php:168
+#: widgets/premium-image-scroll.php:608 widgets/premium-image-separator.php:160
+#: widgets/premium-image-separator.php:185 widgets/premium-modalbox.php:452
+#: widgets/premium-modalbox.php:646 widgets/premium-person.php:450
+#: widgets/premium-person.php:732 widgets/premium-person.php:1115
+#: widgets/premium-pricing-table.php:167 widgets/premium-pricing-table.php:392
+#: widgets/premium-testimonials.php:134 widgets/premium-testimonials.php:352
+#: widgets/premium-title.php:204 widgets/premium-videobox.php:1207
+msgid "Image"
+msgstr "تصویر"
+
+#: widgets/premium-countdown.php:459
+msgid "Strings Translation"
+msgstr "ترجمه‌ی نوشته‌ها"
+
+#: widgets/premium-blog.php:864 widgets/premium-counter.php:649
+#: widgets/premium-fancytext.php:711
+msgid "Vertical Alignment"
+msgstr "ترازبندی عمودی"
+
+#: widgets/premium-grid.php:1115 widgets/premium-person.php:282
+msgid "Content Alignment"
+msgstr "ترازبندی محتوا"
+
+#: modules/woocommerce/skins/skin-1.php:171
+#: modules/woocommerce/skins/skin-2.php:158
+#: modules/woocommerce/skins/skin-3.php:153
+#: modules/woocommerce/skins/skin-4.php:183
+#: modules/woocommerce/skins/skin-5.php:150
+#: modules/woocommerce/skins/skin-6.php:162
+#: modules/woocommerce/skins/skin-8.php:160
+#: modules/woocommerce/skins/skin-11.php:168
+#: modules/woocommerce/widgets/woo-products.php:872
+#: widgets/premium-banner.php:532 widgets/premium-blog.php:832
+#: widgets/premium-blog.php:1137 widgets/premium-blog.php:1402
+#: widgets/premium-button.php:653 widgets/premium-countdown.php:361
+#: widgets/premium-counter.php:241 widgets/premium-dual-header.php:282
+#: widgets/premium-dual-header.php:485 widgets/premium-fancytext.php:212
+#: widgets/premium-grid.php:554 widgets/premium-icon-list.php:737
+#: widgets/premium-image-button.php:602 widgets/premium-image-separator.php:339
+#: widgets/premium-lottie.php:340 widgets/premium-maps.php:631
+#: widgets/premium-maps.php:718 widgets/premium-modalbox.php:765
+#: widgets/premium-person.php:235 widgets/premium-pricing-table.php:550
+#: widgets/premium-pricing-table.php:1745 widgets/premium-title.php:370
+#: widgets/premium-title.php:400 widgets/premium-videobox.php:2020
+msgid "Alignment"
+msgstr "ترازبندی"
+
+#: widgets/premium-banner.php:244
+msgid "New Tab"
+msgstr "تب جدید"
+
+#: widgets/premium-countdown.php:185
+msgid "Due Date"
+msgstr "تاریخ تحویل"
+
+#: modules/premium-section-floating-effects/module.php:735
+#: widgets/premium-banner.php:304 widgets/premium-blog.php:612
+#: widgets/premium-fancytext.php:632 widgets/premium-grid.php:1044
+#: widgets/premium-icon-list.php:952 widgets/premium-image-scroll.php:440
+#: widgets/premium-person.php:269 widgets/premium-videobox.php:996
+#: widgets/premium-videobox.php:1165
+msgid "Blur"
+msgstr "تار"
+
+#: widgets/premium-contactform.php:432
+msgid "Default Typography"
+msgstr "تایپوگرافی پیش‌فرض"
+
+#: widgets/premium-contactform.php:465
+msgid "Input Typography"
+msgstr "تایپوگرافی ورودی"
+
+#: widgets/premium-fancytext.php:345
+msgid "Start Delay"
+msgstr "تأخیر شروع"
+
+#: widgets/premium-fancytext.php:358
+msgid "Back Delay"
+msgstr "تأخیر برگشت"
+
+#: widgets/premium-banner.php:414 widgets/premium-dual-header.php:183
+#: widgets/premium-pricing-table.php:268 widgets/premium-testimonials.php:174
+#: widgets/premium-testimonials.php:261 widgets/premium-title.php:348
+msgid "HTML Tag"
+msgstr "تگ HTML"
+
+#: admin/includes/elements.php:90 admin/includes/elements.php:619
+#: widgets/premium-dual-header.php:60 widgets/premium-dual-header.php:151
+msgid "Dual Heading"
+msgstr "تیتر دوگانه"
+
+#: modules/woocommerce/skins/skin-1.php:256
+#: modules/woocommerce/skins/skin-2.php:239
+#: modules/woocommerce/skins/skin-3.php:234
+#: modules/woocommerce/skins/skin-4.php:239
+#: modules/woocommerce/skins/skin-5.php:231
+#: modules/woocommerce/skins/skin-6.php:242
+#: modules/woocommerce/skins/skin-11.php:386 widgets/premium-banner.php:435
+#: widgets/premium-banner.php:443 widgets/premium-banner.php:916
+#: widgets/premium-counter.php:158 widgets/premium-grid.php:814
+#: widgets/premium-grid.php:1526 widgets/premium-maps.php:336
+#: widgets/premium-maps.php:661 widgets/premium-person.php:486
+#: widgets/premium-person.php:767 widgets/premium-person.php:1342
+#: widgets/premium-pricing-table.php:586 widgets/premium-pricing-table.php:596
+#: widgets/premium-pricing-table.php:917 widgets/premium-pricing-table.php:1833
+#: widgets/premium-videobox.php:1301
+msgid "Description"
+msgstr "توضیحات"
+
+#: widgets/premium-fancytext.php:186 widgets/premium-person.php:478
+#: widgets/premium-person.php:759
+msgid "Developer"
+msgstr "توسعه‌دهنده"
+
+#: widgets/premium-banner.php:592 widgets/premium-grid.php:1272
+msgid "Note: maximum size for extra small screens is 767px."
+msgstr "توجه: حداکثر اندازه برای صفحه‌نمایش‌های خیلی کوچک 767 پیکسل است."
+
+#: widgets/premium-banner.php:579 widgets/premium-grid.php:1259
+msgid "Note: minimum size for extra small screens is 1px."
+msgstr "توجه: حداقل اندازه برای صفحه‌نمایش‌های خیلی کوچک 1 پیکسل است."
+
+#: modules/woocommerce/widgets/woo-products.php:571
+#: widgets/premium-carousel.php:521 widgets/premium-fancytext.php:448
+msgid "Pause on Hover"
+msgstr "توقف هنگام هاور"
+
+#: widgets/premium-fancytext.php:241
+msgid "Additional Settings"
+msgstr "تنظیمات اضافی"
+
+#: widgets/premium-carousel.php:513
+msgid "Adaptive height setting gives each slide a fixed height to avoid huge white space gaps"
+msgstr "تنظیم ارتفاع تطبیقی ​​به هر اسلاید یک ارتفاع ثابت می‌دهد تا از شکاف‌های بزرگ فضای سفید جلوگیری کند"
+
+#: widgets/premium-banner.php:203
+msgid "Set custom Link"
+msgstr "تنظیم لینک سفارشی"
+
+#: widgets/premium-button.php:504 widgets/premium-icon-list.php:771
+#: widgets/premium-image-button.php:497 widgets/premium-modalbox.php:514
+#: widgets/premium-title.php:296
+msgid "After"
+msgstr "بعد"
+
+#: modules/woocommerce/widgets/woo-products.php:1345
+#: widgets/premium-banner.php:300 widgets/premium-blog.php:608
+#: widgets/premium-grid.php:1040 widgets/premium-person.php:265
+#: widgets/premium-videobox.php:992
+msgid "Zoom In"
+msgstr "بزرگ‌نمایی"
+
+#: widgets/premium-button.php:642 widgets/premium-image-button.php:591
+#: widgets/premium-modalbox.php:632
+msgid "Large"
+msgstr "بزرگ"
+
+#: widgets/premium-blog.php:605 widgets/premium-grid.php:1037
+#: widgets/premium-videobox.php:989
+msgid "Choose a hover effect for the image"
+msgstr "برای تصویر یک افکت هاور انتخاب کنید"
+
+#: widgets/premium-banner.php:880
+msgid "Choose a background color for the title"
+msgstr "برای این عنوان یک رنگ پس‌زمینه انتخاب کنید"
+
+#: widgets/premium-counter.php:224
+msgid "Enter suffix for counter value"
+msgstr "برای مقدار شمارنده یک پسوند وارد کنید"
+
+#: widgets/premium-counter.php:214
+msgid "Enter prefix for counter value"
+msgstr "برای مقدار شمارنده یک پیشوند وارد کنید"
+
+#: widgets/premium-dual-header.php:657 widgets/premium-dual-header.php:854
+msgid "Choose ‘Normal’ style to put a background behind the text. Choose ‘Clipped’ style so the background will be clipped on the text."
+msgstr "برای قرار دادن یک پس‌زمینه در پشت متن، استایل \"نرمال\" را انتخاب کنید. برای بریده شدن پس‌زمینه بر روی متن، استایل \"بریده‌شده\" را انتخاب کنید."
+
+#: widgets/premium-blog.php:2344
+msgid "Tags"
+msgstr "برچسب‌ها"
+
+#: widgets/premium-contactform.php:423 widgets/premium-progressbar.php:238
+#: widgets/premium-progressbar.php:737
+msgid "Labels"
+msgstr "برچسب‌ها"
+
+#: admin/includes/admin-helper.php:263 admin/includes/admin-helper.php:846
+#: admin/includes/templates/version-control.php:22
+msgid "Rollback to Previous Version"
+msgstr "بازگشت به نسخه قبلی"
+
+#: widgets/premium-banner.php:161 widgets/premium-counter.php:322
+#: widgets/premium-grid.php:604 widgets/premium-modalbox.php:217
+#: widgets/premium-progressbar.php:313 widgets/premium-title.php:235
+msgid "Upload Image"
+msgstr "بارگذاری تصویر"
+
+#: widgets/premium-button.php:238 widgets/premium-button.php:281
+#: widgets/premium-image-button.php:237 widgets/premium-image-button.php:276
+msgid "Top to Bottom"
+msgstr "بالا به پایین"
+
+#: modules/woocommerce/skins/skin-8.php:260 widgets/premium-banner.php:348
+#: widgets/premium-blog.php:868 widgets/premium-counter.php:383
+#: widgets/premium-dual-header.php:355 widgets/premium-fancytext.php:715
+#: widgets/premium-icon-list.php:770 widgets/premium-icon-list.php:817
+#: widgets/premium-lottie.php:277 widgets/premium-pricing-table.php:1303
+#: widgets/premium-title.php:297 widgets/premium-title.php:448
+#: widgets/premium-videobox.php:346 widgets/premium-vscroll.php:388
+msgid "Top"
+msgstr "بالا"
+
+#: widgets/premium-banner.php:403
+msgid "Give a title to this banner"
+msgstr "به این بنر یک عنوان بدهید"
+
+#: widgets/premium-banner.php:446
+msgid "Premium Banner gives you a wide range of styles and options that you will definitely fall in love with"
+msgstr "بنر پریمیوم به شما یک دامنه‌ی وسیعی از استایل‌ها و گزینه‌ها را می‌دهد، که قطعا عاشقش خواهید شد"
+
+#: widgets/premium-banner.php:406
+msgid "Premium Banner"
+msgstr "بنر پریمیوم"
+
+#: widgets/premium-button.php:643 widgets/premium-countdown.php:163
+#: widgets/premium-dual-header.php:207 widgets/premium-icon-list.php:723
+#: widgets/premium-image-button.php:592 widgets/premium-modalbox.php:633
+#: widgets/premium-testimonials.php:211
+msgid "Block"
+msgstr "بلوک"
+
+#: modules/woocommerce/widgets/woo-products.php:710
+#: widgets/premium-blog.php:469 widgets/premium-blog.php:492
+msgid "Yes"
+msgstr "بله"
+
+#: widgets/premium-dual-header.php:654 widgets/premium-dual-header.php:851
+#: widgets/premium-title.php:952
+msgid "Background Style"
+msgstr "استایل پس‌زمینه"
+
+#: widgets/premium-grid.php:989 widgets/premium-person.php:166
+#: widgets/premium-title.php:177
+msgid "Style 3"
+msgstr "استایل 3"
+
+#: widgets/premium-grid.php:988 widgets/premium-person.php:165
+#: widgets/premium-title.php:176
+msgid "Style 2"
+msgstr "استایل 2"
+
+#: modules/woocommerce/widgets/woo-products.php:339
+#: widgets/premium-grid.php:987 widgets/premium-person.php:164
+#: widgets/premium-title.php:175
+msgid "Style 1"
+msgstr "استایل 1"
+
+#: modules/premium-section-floating-effects/module.php:681
+#: widgets/premium-button.php:295 widgets/premium-countdown.php:159
+#: widgets/premium-counter.php:593 widgets/premium-icon-list.php:1635
+#: widgets/premium-person.php:160 widgets/premium-progressbar.php:513
+#: widgets/premium-title.php:171
+msgid "Style"
+msgstr "استایل"
+
+#: widgets/premium-carousel.php:341
+msgid "Desktop Slides"
+msgstr "اسلایدهای دسکتاپ"
+
+#: widgets/premium-carousel.php:350
+msgid "Tabs Slides"
+msgstr "اسلایدهای تب‌ها"
+
+#: widgets/premium-carousel.php:359
+msgid "Mobile Slides"
+msgstr "اسلایدهای موبایل"
+
+#: widgets/premium-carousel.php:422
+msgid "Slide will start automatically"
+msgstr "اسلاید بطور خودکار شروع خواهد شد"
+
+#: widgets/premium-fancytext.php:252
+msgid "Slide Up"
+msgstr "اسلاید بالا"
+
+#: widgets/premium-button.php:218
+msgid "Slide"
+msgstr "اسلاید"
+
+#: widgets/premium-counter.php:289
+msgid "Use a font awesome icon or upload a custom image"
+msgstr "از یک آیکون font awesome استفاده کنید، یا یک تصویر دلخواه بارگذاری کنید"
+
+#: widgets/premium-carousel.php:512
+msgid "Adaptive Height"
+msgstr "ارتفاع تطبیقی"
+
+#: widgets/premium-banner.php:315 widgets/premium-blog.php:646
+#: widgets/premium-blog.php:1759 widgets/premium-contactform.php:209
+#: widgets/premium-contactform.php:292 widgets/premium-fancytext.php:865
+#: widgets/premium-grid.php:200 widgets/premium-grid.php:384
+#: widgets/premium-grid.php:638 widgets/premium-grid.php:1014
+#: widgets/premium-image-separator.php:281 widgets/premium-maps.php:398
+#: widgets/premium-progressbar.php:595 widgets/premium-progressbar.php:1002
+msgid "Height"
+msgstr "ارتفاع"
+
+#: widgets/premium-counter.php:202
+msgid "Digits After Decimal Point"
+msgstr "ارقام بعد از ممیز اعشار"
+
+#: widgets/premium-carousel.php:472
+msgid "Allow the slides to be dragged by mouse click"
+msgstr "اجازه دهید که اسلایدها با ماوس قابل کشیده شدن باشند"
+
+#: includes/helper-functions.php:209 includes/helper-functions.php:219
+#: widgets/premium-dual-header.php:162
+msgid "Premium"
+msgstr "ابزارک"
+
+#: widgets/premium-counter.php:595
+msgid "We are giving you three quick preset if you are in a hurry. Otherwise, create your own with various options"
+msgstr "اگر عجله دارید، ما سه گزینه‌ی پیش‌فرض سریع به شما می‌دهیم. در غیر این صورت، گزینه‌های مختلف خود را ایجاد کنید"
+
+#: widgets/premium-carousel.php:492
+msgid "Turn on RTL mode if your language starts from right to left"
+msgstr "اگر زبان شما از راست به چپ شروع می‌شود حالت راستچین را روشن کنید"
+
+#: widgets/premium-fancytext.php:450
+msgid "If you enabled this option, the slide will be paused when mouseover."
+msgstr "اگر این گزینه را فعال کنید، هنگام حرکت ماوس، اسلایدها متوقف می‌شوند."
+
+#: widgets/premium-fancytext.php:348
+msgid "If you set it on 5000 milliseconds, the first word/string will appear after 5 seconds."
+msgstr "اگر آن را روی 5000 میلی‌ثانیه تنظیم کنید، اولین کلمه/رشته بعد از 5 ثانیه ظاهر می‌شود."
+
+#: widgets/premium-fancytext.php:361
+msgid "If you set it on 5000 milliseconds, the word/string will remain visible for 5 seconds before backspace effect."
+msgstr "اگر آن را روی 5000 میلی‌ثانیه تنظیم کنید، قبل از اینکه کلمه کلمه/رشته حذف شود، به مدت 5 ثانیه قابل مشاهده خواهد ماند."
+
+#: widgets/premium-banner.php:570
+msgid "If the description text is not suiting well on specific screen sizes, you may enable this option which will hide the description text."
+msgstr "اگر متن توضیحات برای اندازه‌های خاصی از صفحه‌نمایش مناسب نیست، ممکن است بخواهید این گزینه را فعال کنید که متن توضیحات را پنهان می‌کند."
+
+#: widgets/premium-grid.php:1250
+msgid "If the content text is not suiting well on specific screen sizes, you may enable this option which will hide the description text."
+msgstr "اگر متن محتوای در اندازه‌های صفحه‌نمایش مناسب نیست، ممکن است بخواهید این گزینه را فعال کنید که متن توضیحات را پنهان خواهد کرد."
+
+#: widgets/premium-countdown.php:299
+msgid "This will set the current time of the option that you will choose."
+msgstr "این تنظیمات، زمان فعلی گزینه‌ای را که شما انتخاب کرده‌اید، تنظیم خواهد کرد."
+
+#: admin/includes/templates/version-control.php:48
+msgid "Check this box to get updates for beta versions"
+msgstr "این گزینه را تیک بزنید تا آپدیت‌های نسخه‌های بتا را دریافت کنید"
+
+#: widgets/premium-fancytext.php:158
+msgid "This is"
+msgstr "این"
+
+#: widgets/premium-button.php:517 widgets/premium-button.php:533
+#: widgets/premium-image-button.php:510 widgets/premium-image-button.php:526
+#: widgets/premium-image-scroll.php:551 widgets/premium-modalbox.php:276
+#: widgets/premium-modalbox.php:527 widgets/premium-progressbar.php:370
+msgid "Icon Size"
+msgstr "اندازه آیکون"
+
+#: widgets/premium-countdown.php:688
+msgid "Background Size"
+msgstr "اندازه پس‌زمینه"
+
+#: widgets/premium-counter.php:626
+msgid "Background size"
+msgstr "اندازه پس‌زمینه"
+
+#: modules/woocommerce/skins/skin-7.php:232
+#: modules/woocommerce/skins/skin-7.php:547
+#: modules/woocommerce/skins/skin-8.php:305
+#: modules/woocommerce/skins/skin-8.php:509
+#: modules/woocommerce/skins/skin-11.php:255
+#: modules/woocommerce/skins/skin-11.php:665
+#: modules/woocommerce/skins/skin-base.php:84
+#: modules/woocommerce/skins/skin-base.php:273
+#: modules/woocommerce/widgets/woo-products.php:1639
+#: modules/woocommerce/widgets/woo-products.php:1773
+#: widgets/premium-blog.php:2904 widgets/premium-button.php:636
+#: widgets/premium-carousel.php:801 widgets/premium-carousel.php:1024
+#: widgets/premium-countdown.php:875 widgets/premium-counter.php:538
+#: widgets/premium-counter.php:567 widgets/premium-grid.php:1663
+#: widgets/premium-icon-list.php:429 widgets/premium-icon-list.php:1137
+#: widgets/premium-image-button.php:585 widgets/premium-lottie.php:291
+#: widgets/premium-maps.php:263 widgets/premium-modalbox.php:727
+#: widgets/premium-modalbox.php:1216 widgets/premium-person.php:1408
+#: widgets/premium-person.php:1673 widgets/premium-pricing-table.php:708
+#: widgets/premium-pricing-table.php:729 widgets/premium-pricing-table.php:750
+#: widgets/premium-pricing-table.php:974 widgets/premium-pricing-table.php:1616
+#: widgets/premium-progressbar.php:214 widgets/premium-progressbar.php:941
+#: widgets/premium-progressbar.php:987 widgets/premium-testimonials.php:360
+#: widgets/premium-testimonials.php:610 widgets/premium-title.php:1265
+#: widgets/premium-videobox.php:1570 widgets/premium-videobox.php:1844
+#: widgets/premium-videobox.php:1931
+msgid "Size"
+msgstr "اندازه"
+
+#: includes/helper-functions.php:185 includes/helper-functions.php:195
+#: widgets/premium-button.php:160 widgets/premium-image-button.php:161
+#: widgets/premium-modalbox.php:466 widgets/premium-modalbox.php:666
+msgid "Premium Addons"
+msgstr "افزودنی‌های پریمیوم"
+
+#: widgets/premium-dual-header.php:174
+msgid "Addons"
+msgstr "افزودنی‌ها"
+
+#: widgets/premium-banner.php:296 widgets/premium-blog.php:603
+#: widgets/premium-button.php:213 widgets/premium-grid.php:1035
+#: widgets/premium-icon-list.php:948 widgets/premium-image-button.php:214
+#: widgets/premium-person.php:261 widgets/premium-videobox.php:987
+msgid "Hover Effect"
+msgstr "افکت هاور"
+
+#: widgets/premium-carousel.php:471
+msgid "Draggable Effect"
+msgstr "افکت قابل جابجایی"
+
+#: widgets/premium-banner.php:266 widgets/premium-fancytext.php:248
+msgid "Effect"
+msgstr "افِکت"
+
+#: widgets/premium-carousel.php:234 widgets/premium-fancytext.php:644
+#: widgets/premium-image-button.php:294 widgets/premium-image-scroll.php:402
+#: widgets/premium-image-scroll.php:474 widgets/premium-videobox.php:1127
+msgid "Horizontal"
+msgstr "افقی"
+
+#: widgets/premium-banner.php:482 widgets/premium-button.php:171
+#: widgets/premium-dual-header.php:233 widgets/premium-grid.php:840
+#: widgets/premium-icon-list.php:313 widgets/premium-icon-list.php:327
+#: widgets/premium-image-button.php:172 widgets/premium-image-scroll.php:229
+#: widgets/premium-image-scroll.php:243 widgets/premium-image-separator.php:378
+#: widgets/premium-image-separator.php:407 widgets/premium-lottie.php:379
+#: widgets/premium-pricing-table.php:632 widgets/premium-title.php:584
+#: widgets/premium-videobox.php:460
+msgid "URL"
+msgstr "آدرس"
+
+#: widgets/premium-blog.php:228 widgets/premium-grid.php:190
+msgid "Masonry"
+msgstr "آجرچینی"
+
+#: widgets/premium-grid.php:1633
+msgid "Icons"
+msgstr "آیکون‌ها"
+
+#: modules/woocommerce/skins/skin-1.php:406
+#: modules/woocommerce/skins/skin-1.php:463
+#: modules/woocommerce/skins/skin-1.php:640
+#: modules/woocommerce/skins/skin-1.php:697
+#: modules/woocommerce/skins/skin-2.php:381
+#: modules/woocommerce/skins/skin-2.php:438
+#: modules/woocommerce/skins/skin-2.php:594
+#: modules/woocommerce/skins/skin-2.php:651
+#: modules/woocommerce/skins/skin-3.php:376
+#: modules/woocommerce/skins/skin-3.php:433
+#: modules/woocommerce/skins/skin-3.php:584
+#: modules/woocommerce/skins/skin-3.php:641
+#: modules/woocommerce/skins/skin-4.php:387
+#: modules/woocommerce/skins/skin-4.php:444
+#: modules/woocommerce/skins/skin-4.php:604
+#: modules/woocommerce/skins/skin-4.php:661
+#: modules/woocommerce/skins/skin-5.php:373
+#: modules/woocommerce/skins/skin-5.php:430
+#: modules/woocommerce/skins/skin-5.php:581
+#: modules/woocommerce/skins/skin-5.php:638
+#: modules/woocommerce/skins/skin-6.php:384
+#: modules/woocommerce/skins/skin-6.php:441
+#: modules/woocommerce/skins/skin-6.php:584
+#: modules/woocommerce/skins/skin-6.php:641
+#: modules/woocommerce/skins/skin-7.php:264
+#: modules/woocommerce/skins/skin-7.php:424
+#: modules/woocommerce/skins/skin-7.php:481
+#: modules/woocommerce/skins/skin-7.php:622
+#: modules/woocommerce/skins/skin-7.php:679
+#: modules/woocommerce/skins/skin-8.php:377
+#: modules/woocommerce/skins/skin-8.php:434
+#: modules/woocommerce/skins/skin-8.php:587
+#: modules/woocommerce/skins/skin-8.php:644
+#: modules/woocommerce/skins/skin-9.php:308
+#: modules/woocommerce/skins/skin-9.php:365
+#: modules/woocommerce/skins/skin-9.php:521
+#: modules/woocommerce/skins/skin-9.php:578
+#: modules/woocommerce/skins/skin-10.php:299
+#: modules/woocommerce/skins/skin-10.php:356
+#: modules/woocommerce/skins/skin-10.php:515
+#: modules/woocommerce/skins/skin-10.php:575
+#: modules/woocommerce/skins/skin-11.php:322
+#: modules/woocommerce/skins/skin-11.php:359
+#: modules/woocommerce/skins/skin-11.php:533
+#: modules/woocommerce/skins/skin-11.php:590
+#: modules/woocommerce/skins/skin-11.php:740
+#: modules/woocommerce/skins/skin-11.php:797
+#: modules/woocommerce/skins/skin-base.php:191
+#: modules/woocommerce/skins/skin-base.php:381
+#: modules/woocommerce/skins/skin-base.php:644
+#: modules/woocommerce/widgets/woo-products.php:1262
+#: modules/woocommerce/widgets/woo-products.php:1299
+#: modules/woocommerce/widgets/woo-products.php:1467
+#: modules/woocommerce/widgets/woo-products.php:1518
+#: modules/woocommerce/widgets/woo-products.php:1569
+#: modules/woocommerce/widgets/woo-products.php:1671
+#: modules/woocommerce/widgets/woo-products.php:1871
+#: widgets/premium-banner.php:779 widgets/premium-banner.php:803
+#: widgets/premium-banner.php:1053 widgets/premium-banner.php:1077
+#: widgets/premium-banner.php:1143 widgets/premium-blog.php:1532
+#: widgets/premium-blog.php:1590 widgets/premium-blog.php:1967
+#: widgets/premium-blog.php:2262 widgets/premium-blog.php:2313
+#: widgets/premium-blog.php:2421 widgets/premium-blog.php:2445
+#: widgets/premium-blog.php:2560 widgets/premium-blog.php:2584
+#: widgets/premium-blog.php:2646 widgets/premium-blog.php:2670
+#: widgets/premium-blog.php:2732 widgets/premium-blog.php:2756
+#: widgets/premium-blog.php:2930 widgets/premium-button.php:824
+#: widgets/premium-button.php:848 widgets/premium-button.php:1045
+#: widgets/premium-button.php:1069 widgets/premium-carousel.php:888
+#: widgets/premium-carousel.php:943 widgets/premium-contactform.php:355
+#: widgets/premium-contactform.php:581 widgets/premium-countdown.php:715
+#: widgets/premium-countdown.php:740 widgets/premium-countdown.php:975
+#: widgets/premium-counter.php:683 widgets/premium-counter.php:715
+#: widgets/premium-counter.php:826 widgets/premium-counter.php:925
+#: widgets/premium-dual-header.php:776 widgets/premium-dual-header.php:973
+#: widgets/premium-grid.php:1345 widgets/premium-grid.php:1418
+#: widgets/premium-grid.php:1578 widgets/premium-grid.php:1729
+#: widgets/premium-grid.php:1820 widgets/premium-grid.php:1935
+#: widgets/premium-grid.php:1959 widgets/premium-grid.php:2013
+#: widgets/premium-grid.php:2037 widgets/premium-grid.php:2094
+#: widgets/premium-grid.php:2118 widgets/premium-grid.php:2256
+#: widgets/premium-grid.php:2348 widgets/premium-icon-list.php:1077
+#: widgets/premium-icon-list.php:1261 widgets/premium-image-button.php:778
+#: widgets/premium-image-button.php:802 widgets/premium-image-button.php:1028
+#: widgets/premium-image-button.php:1052 widgets/premium-image-scroll.php:769
+#: widgets/premium-image-scroll.php:793 widgets/premium-image-scroll.php:833
+#: widgets/premium-image-scroll.php:857 widgets/premium-image-separator.php:673
+#: widgets/premium-image-separator.php:701 widgets/premium-lottie.php:623
+#: widgets/premium-lottie.php:647 widgets/premium-maps.php:762
+#: widgets/premium-modalbox.php:1018 widgets/premium-modalbox.php:1116
+#: widgets/premium-modalbox.php:1267 widgets/premium-modalbox.php:1319
+#: widgets/premium-modalbox.php:1439 widgets/premium-modalbox.php:1497
+#: widgets/premium-modalbox.php:1647 widgets/premium-person.php:1123
+#: widgets/premium-person.php:1150 widgets/premium-person.php:1491
+#: widgets/premium-person.php:1515 widgets/premium-person.php:1713
+#: widgets/premium-pricing-table.php:1029
+#: widgets/premium-pricing-table.php:1071
+#: widgets/premium-pricing-table.php:1687
+#: widgets/premium-pricing-table.php:2003
+#: widgets/premium-pricing-table.php:2081
+#: widgets/premium-pricing-table.php:2258
+#: widgets/premium-pricing-table.php:2282
+#: widgets/premium-pricing-table.php:2363
+#: widgets/premium-pricing-table.php:2387 widgets/premium-progressbar.php:613
+#: widgets/premium-progressbar.php:1070 widgets/premium-testimonials.php:693
+#: widgets/premium-testimonials.php:717 widgets/premium-title.php:1305
+#: widgets/premium-title.php:1329 widgets/premium-videobox.php:1447
+#: widgets/premium-videobox.php:1603 widgets/premium-videobox.php:2106
+#: widgets/premium-vscroll.php:667 widgets/premium-vscroll.php:774
+#: widgets/premium-vscroll.php:809 widgets/premium-vscroll.php:986
+msgid "Border Radius"
+msgstr "انحنای کادر"
+
+#: widgets/premium-counter.php:305 widgets/premium-image-separator.php:170
+#: widgets/premium-pricing-table.php:176 widgets/premium-progressbar.php:301
+msgid "Select an Icon"
+msgstr "انتخاب آیکون"
+
+#: widgets/premium-carousel.php:444 widgets/premium-counter.php:398
+#: widgets/premium-fancytext.php:267
+msgid "Animations"
+msgstr "انیمیشن‌ها"
+
+#: widgets/premium-contactform.php:390
+msgid "Focus Border Animation"
+msgstr "انیمیشن کادر در حالت کلیک شده"
+
+#: widgets/premium-countdown.php:390
+msgid "Expire"
+msgstr "انقضا"
+
+#. Plugin Name of the plugin
+#: admin/includes/admin-notices.php:190
+msgid "Premium Addons for Elementor"
+msgstr "افزودنی‌های پریمیوم المنتور"
+
+#: widgets/premium-carousel.php:739
+msgid "Right Icon"
+msgstr "آیکون راست"
+
+#: widgets/premium-carousel.php:651
+msgid "Top Icon"
+msgstr "آیکون بالا"
+
+#: widgets/premium-button.php:221 widgets/premium-image-button.php:221
+msgid "Icon Slide"
+msgstr "آیکون اسلایدی"
+
+#: widgets/premium-carousel.php:770
+msgid "Bottom Icon"
+msgstr "آیکون پایین"
+
+#: widgets/premium-carousel.php:682
+msgid "Left Icon"
+msgstr "آیکون چپ"
+
+#: widgets/premium-button.php:328 widgets/premium-button.php:343
+#: widgets/premium-button.php:358 widgets/premium-button.php:425
+#: widgets/premium-button.php:439 widgets/premium-carousel.php:972
+#: widgets/premium-counter.php:278 widgets/premium-counter.php:291
+#: widgets/premium-counter.php:509 widgets/premium-icon-list.php:196
+#: widgets/premium-icon-list.php:210 widgets/premium-image-button.php:321
+#: widgets/premium-image-button.php:336 widgets/premium-image-button.php:351
+#: widgets/premium-image-button.php:418 widgets/premium-image-button.php:432
+#: widgets/premium-image-scroll.php:543 widgets/premium-image-separator.php:159
+#: widgets/premium-modalbox.php:188 widgets/premium-modalbox.php:479
+#: widgets/premium-modalbox.php:491 widgets/premium-pricing-table.php:152
+#: widgets/premium-pricing-table.php:165 widgets/premium-pricing-table.php:390
+#: widgets/premium-pricing-table.php:401 widgets/premium-pricing-table.php:882
+#: widgets/premium-pricing-table.php:945 widgets/premium-pricing-table.php:1592
+#: widgets/premium-progressbar.php:287 widgets/premium-progressbar.php:1019
+#: widgets/premium-title.php:192 widgets/premium-title.php:203
+#: widgets/premium-title.php:1235
+msgid "Icon"
+msgstr "آیکون"
+
+#: widgets/premium-fancytext.php:200
+msgid "Suffix"
+msgstr "پسوند"
+
+#: widgets/premium-counter.php:598
+msgid "Circle Background"
+msgstr "پس‌زمینه دایره"
+
+#: widgets/premium-counter.php:599
+msgid "Square Background"
+msgstr "پس‌زمینه مربع"
+
+#: widgets/premium-contactform.php:324
+msgid "Input Field Background"
+msgstr "پس‌زمینه فیلد ورودی"
+
+#: widgets/premium-banner.php:877 widgets/premium-icon-list.php:404
+#: widgets/premium-icon-list.php:535 widgets/premium-icon-list.php:630
+#: widgets/premium-icon-list.php:1210 widgets/premium-icon-list.php:1423
+msgid "Background"
+msgstr "پس‌زمینه"
+
+#: widgets/premium-carousel.php:421
+msgid "Autoplay Slides‏"
+msgstr "پخش خودکار اسلایدها"
+
+#: widgets/premium-button.php:239 widgets/premium-button.php:280
+#: widgets/premium-image-button.php:238 widgets/premium-image-button.php:275
+msgid "Bottom to Top"
+msgstr "پایین به بالا"
+
+#: modules/woocommerce/skins/skin-8.php:268 widgets/premium-banner.php:350
+#: widgets/premium-blog.php:876 widgets/premium-dual-header.php:363
+#: widgets/premium-fancytext.php:723 widgets/premium-icon-list.php:825
+#: widgets/premium-lottie.php:276 widgets/premium-pricing-table.php:1311
+#: widgets/premium-title.php:449 widgets/premium-videobox.php:347
+#: widgets/premium-vscroll.php:390
+msgid "Bottom"
+msgstr "پایین"
+
+#: widgets/premium-counter.php:963 widgets/premium-fancytext.php:793
+msgid "Prefix & Suffix"
+msgstr "پیشوند و پسوند"
+
+#: widgets/premium-fancytext.php:155
+msgid "Prefix"
+msgstr "پیشوند"
+
+#: widgets/premium-countdown.php:295
+msgid "WordPress Default"
+msgstr "پیش‌فرض وردپرس"
+
+#: admin/includes/templates/integrations.php:59
+#: modules/woocommerce/widgets/woo-products.php:940
+#: widgets/premium-banner.php:318 widgets/premium-countdown.php:402
+#: widgets/premium-grid.php:1194 widgets/premium-vscroll.php:487
+msgid "Default"
+msgstr "پیش‌فرض"
+
+#: widgets/premium-countdown.php:403
+msgid "Message"
+msgstr "پیام"
+
+#: widgets/premium-vscroll.php:255
+msgid "Navigation"
+msgstr "پیمایش"
+
+#: widgets/premium-blog.php:165 widgets/premium-grid.php:983
+msgid "Skin"
+msgstr "پوسته"
+
+#: modules/woocommerce/widgets/woo-products.php:316
+#: widgets/premium-blog.php:275 widgets/premium-grid.php:264
+#: widgets/premium-person.php:356 widgets/premium-videobox.php:408
+msgid "4 Columns"
+msgstr "۴ ستون"
+
+#: widgets/premium-banner.php:255
+msgid "Nofollow Option"
+msgstr "گزینه‌ی نوفالو"
+
+#: admin/includes/elements.php:26 admin/includes/elements.php:559
+#: modules/woocommerce/widgets/woo-products.php:265
+#: modules/woocommerce/widgets/woo-products.php:1599
+#: widgets/premium-blog.php:1180 widgets/premium-carousel.php:57
+#: widgets/premium-carousel.php:159 widgets/premium-person.php:1021
+#: widgets/premium-person.php:1634
+msgid "Carousel"
+msgstr "گردونه"
+
+#: widgets/premium-blog.php:586
+msgid "Bordered"
+msgstr "کادر دار"
+
+#: modules/woocommerce/widgets/woo-products.php:1346
+#: widgets/premium-banner.php:301 widgets/premium-blog.php:609
+#: widgets/premium-fancytext.php:253 widgets/premium-grid.php:1041
+#: widgets/premium-person.php:266 widgets/premium-videobox.php:993
+msgid "Zoom Out"
+msgstr "کوچک‌نمایی"
+
+#: widgets/premium-button.php:640 widgets/premium-image-button.php:589
+#: widgets/premium-modalbox.php:630
+msgid "Small"
+msgstr "کوچک"
+
+#: widgets/premium-banner.php:568 widgets/premium-grid.php:1248
+msgid "Responsive Controls"
+msgstr "کنترل‌های واکنشگرایی"
+
+#: widgets/premium-banner.php:384 widgets/premium-carousel.php:453
+msgid "Extra Class"
+msgstr "کلاس اضافی"
+
+#: widgets/premium-fancytext.php:425
+msgid "How long should the word/string stay visible? Set a value in milliseconds."
+msgstr "کلمه/رشته باید تا چه مدت قابل مشاهده باشد؟ مقدار را بر حسب میلی‌ثانیه تنظیم کنید."
+
+#: widgets/premium-carousel.php:333
+msgid "One at a time"
+msgstr "یکی یکی"
+
+#: widgets/premium-fancytext.php:412
+msgid "Set a duration value in milliseconds for slide up effect."
+msgstr "یک زمان بر حسب میلی‌ثانیه برای مدت زمان نمایش اسلایدها تنظیم کنید."
+
+#: widgets/premium-banner.php:162
+msgid "Select an image for the Banner"
+msgstr "یک تصویر برای بنر انتخاب کنید"
+
+#: widgets/premium-grid.php:985
+msgid "Choose a layout style for the gallery"
+msgstr "یک استایل چیدمان برای گالری انتخاب کنید"
+
+#: widgets/premium-blog.php:581
+msgid "Choose an overlay color effect"
+msgstr "یک افکت پوشش رنگ انتخاب کنید"
+
+#: widgets/premium-carousel.php:231
+msgid "Set a navigation type"
+msgstr "یک یک نوع پیمایش تنظیم کنید"
+
+#: widgets/premium-carousel.php:412
+msgid "Set a navigation speed value. The value will be counted in milliseconds (ms)"
+msgstr "یک مقدار سرعت پیمایش تنظیم کنید. این مقدار برحسب میلی‌ثانیه (ms) محاسبه می‌شود"
+
+#: widgets/premium-countdown.php:308
+msgid "Select the time units that you want to display in countdown timer."
+msgstr "واحدهای زمانی را که می‌خواهید در تایمر شمارش معکوس نمایش داده شوند را انتخاب کنید."
+
+#: widgets/premium-countdown.php:306
+msgid "Time Units"
+msgstr "واحدهای زمان"
+
+#: widgets/premium-countdown.php:757
+msgid "Units"
+msgstr "واحدها"
+
+#: widgets/premium-banner.php:561 widgets/premium-grid.php:1241
+msgid "Responsive"
+msgstr "واکنشگرا"
+
+#: widgets/premium-dual-header.php:171 widgets/premium-dual-header.php:824
+msgid "Second Heading"
+msgstr "هدینگ دوم"
+
+#: widgets/premium-dual-header.php:159 widgets/premium-dual-header.php:627
+msgid "First Heading"
+msgstr "هدینگ اول"
+
+#: modules/woocommerce/skins/skin-1.php:420
+#: modules/woocommerce/skins/skin-1.php:654
+#: modules/woocommerce/skins/skin-2.php:395
+#: modules/woocommerce/skins/skin-2.php:608
+#: modules/woocommerce/skins/skin-3.php:390
+#: modules/woocommerce/skins/skin-3.php:598
+#: modules/woocommerce/skins/skin-4.php:401
+#: modules/woocommerce/skins/skin-4.php:618
+#: modules/woocommerce/skins/skin-5.php:387
+#: modules/woocommerce/skins/skin-5.php:595
+#: modules/woocommerce/skins/skin-6.php:398
+#: modules/woocommerce/skins/skin-6.php:598
+#: modules/woocommerce/skins/skin-7.php:438
+#: modules/woocommerce/skins/skin-7.php:636
+#: modules/woocommerce/skins/skin-8.php:391
+#: modules/woocommerce/skins/skin-8.php:601
+#: modules/woocommerce/skins/skin-9.php:322
+#: modules/woocommerce/skins/skin-9.php:535
+#: modules/woocommerce/skins/skin-10.php:313
+#: modules/woocommerce/skins/skin-10.php:529
+#: modules/woocommerce/skins/skin-11.php:336
+#: modules/woocommerce/skins/skin-11.php:547
+#: modules/woocommerce/skins/skin-11.php:754
+#: modules/woocommerce/widgets/woo-products.php:1276
+#: modules/woocommerce/widgets/woo-products.php:1481
+#: widgets/premium-blog.php:2276 widgets/premium-blog.php:2601
+#: widgets/premium-button.php:921 widgets/premium-carousel.php:902
+#: widgets/premium-contactform.php:607 widgets/premium-grid.php:1776
+#: widgets/premium-grid.php:1976 widgets/premium-grid.php:2302
+#: widgets/premium-icon-list.php:551 widgets/premium-image-button.php:875
+#: widgets/premium-image-scroll.php:517 widgets/premium-image-scroll.php:681
+#: widgets/premium-image-scroll.php:818 widgets/premium-lottie.php:217
+#: widgets/premium-lottie.php:566 widgets/premium-modalbox.php:1077
+#: widgets/premium-modalbox.php:1282 widgets/premium-modalbox.php:1454
+#: widgets/premium-pricing-table.php:2057
+#: widgets/premium-pricing-table.php:2339
+msgid "Hover"
+msgstr "هاور"
+
+#: modules/woocommerce/widgets/woo-products.php:738
+#: modules/woocommerce/widgets/woo-products.php:1343
+#: widgets/premium-banner.php:299 widgets/premium-blog.php:505
+#: widgets/premium-blog.php:583 widgets/premium-blog.php:607
+#: widgets/premium-blog.php:690 widgets/premium-button.php:217
+#: widgets/premium-grid.php:1039 widgets/premium-icon-list.php:951
+#: widgets/premium-image-button.php:218 widgets/premium-lottie.php:215
+#: widgets/premium-modalbox.php:187 widgets/premium-person.php:264
+#: widgets/premium-progressbar.php:462 widgets/premium-videobox.php:991
+msgid "None"
+msgstr "هیچ"
+
+#: widgets/premium-fancytext.php:438
+msgid "How many items should be visible at a time?"
+msgstr "همزمان چند آیتم باید قابل مشاهده باشند؟"
+
+#: widgets/premium-carousel.php:332
+msgid "All visible"
+msgstr "همه قابل مشاهده"
+
+#: widgets/premium-countdown.php:486
+msgid "Week (Singular)"
+msgstr "هفته (یک هفته)"
+
+#: widgets/premium-countdown.php:496
+msgid "Weeks (Plural)"
+msgstr "هفته (چند هفته)"
+
+#: widgets/premium-countdown.php:312 widgets/premium-videobox.php:275
+msgid "Week"
+msgstr "هفته"
+
+#: widgets/premium-counter.php:151
+msgid "Enter title for stats counter block"
+msgstr "نام بلوک شمارنده ارقام را وارد کنید"
+
+#: widgets/premium-carousel.php:455
+msgid "Add extra class name that will be applied to the carousel, and you can use this class for your customizations."
+msgstr "نام کلاس اضافی که قرار است روی گردونه اعمال شود را وارد کنید، و همچنین شما می‌توانید این کلاس را برای سفارشی‌سازی‌های خود استفاده کنید."
+
+#: widgets/premium-blog.php:509 widgets/premium-person.php:463
+#: widgets/premium-person.php:744 widgets/premium-person.php:1220
+#: widgets/premium-testimonials.php:163 widgets/premium-testimonials.php:250
+msgid "Name"
+msgstr "نام"
+
+#: widgets/premium-button.php:241 widgets/premium-button.php:282
+#: widgets/premium-image-button.php:240 widgets/premium-image-button.php:277
+msgid "Left to Right"
+msgstr "چپ به راست"
+
+#: modules/woocommerce/skins/skin-1.php:175
+#: modules/woocommerce/skins/skin-2.php:162
+#: modules/woocommerce/skins/skin-3.php:157
+#: modules/woocommerce/skins/skin-4.php:187
+#: modules/woocommerce/skins/skin-5.php:154
+#: modules/woocommerce/skins/skin-6.php:166
+#: modules/woocommerce/skins/skin-8.php:164
+#: modules/woocommerce/skins/skin-11.php:172
+#: modules/woocommerce/widgets/woo-products.php:876
+#: widgets/premium-banner.php:536 widgets/premium-blog.php:836
+#: widgets/premium-blog.php:1141 widgets/premium-blog.php:1406
+#: widgets/premium-button.php:657 widgets/premium-countdown.php:365
+#: widgets/premium-counter.php:245 widgets/premium-counter.php:385
+#: widgets/premium-counter.php:431 widgets/premium-counter.php:461
+#: widgets/premium-dual-header.php:286 widgets/premium-dual-header.php:326
+#: widgets/premium-dual-header.php:489 widgets/premium-fancytext.php:216
+#: widgets/premium-fancytext.php:475 widgets/premium-grid.php:334
+#: widgets/premium-grid.php:558 widgets/premium-grid.php:1119
+#: widgets/premium-icon-list.php:742 widgets/premium-icon-list.php:788
+#: widgets/premium-icon-list.php:851 widgets/premium-image-button.php:606
+#: widgets/premium-image-separator.php:343 widgets/premium-lottie.php:344
+#: widgets/premium-maps.php:635 widgets/premium-maps.php:722
+#: widgets/premium-modalbox.php:769 widgets/premium-person.php:239
+#: widgets/premium-person.php:286 widgets/premium-pricing-table.php:554
+#: widgets/premium-pricing-table.php:775 widgets/premium-pricing-table.php:1749
+#: widgets/premium-progressbar.php:480 widgets/premium-title.php:319
+#: widgets/premium-title.php:374 widgets/premium-title.php:404
+#: widgets/premium-title.php:546 widgets/premium-videobox.php:2024
+#: widgets/premium-vscroll.php:274 widgets/premium-vscroll.php:372
+msgid "Left"
+msgstr "چپ"
+
+#: modules/woocommerce/skins/skin-1.php:542
+#: modules/woocommerce/skins/skin-2.php:125
+#: modules/woocommerce/skins/skin-3.php:116
+#: modules/woocommerce/skins/skin-4.php:146
+#: modules/woocommerce/skins/skin-5.php:670
+#: modules/woocommerce/skins/skin-6.php:145
+msgid "Excerpt"
+msgstr "چکیده"
+
+#: widgets/premium-fancytext.php:280
+msgid "Type Speed"
+msgstr "نوع سرعت"
+
+#: widgets/premium-countdown.php:397
+msgid "Expire Type"
+msgstr "نوع انقضا"
+
+#: widgets/premium-button.php:340 widgets/premium-button.php:422
+#: widgets/premium-counter.php:287 widgets/premium-image-button.php:333
+#: widgets/premium-image-button.php:415 widgets/premium-modalbox.php:184
+#: widgets/premium-pricing-table.php:162 widgets/premium-pricing-table.php:387
+#: widgets/premium-progressbar.php:284 widgets/premium-title.php:200
+msgid "Icon Type"
+msgstr "نوع آیکون"
+
+#: widgets/premium-banner.php:479 widgets/premium-button.php:168
+#: widgets/premium-dual-header.php:230 widgets/premium-grid.php:837
+#: widgets/premium-image-button.php:169 widgets/premium-lottie.php:376
+#: widgets/premium-pricing-table.php:629 widgets/premium-title.php:581
+msgid "Link Type"
+msgstr "نوع لینک"
+
+#: modules/pa-display-conditions/module.php:176
+#: modules/woocommerce/widgets/woo-products.php:830
+#: modules/woocommerce/widgets/woo-products.php:937
+#: widgets/premium-carousel.php:230 widgets/premium-countdown.php:172
+#: widgets/premium-grid.php:669 widgets/premium-pricing-table.php:682
+#: widgets/premium-progressbar.php:147
+msgid "Type"
+msgstr "نوع"
+
+#: widgets/premium-fancytext.php:204
+msgid "Text after Fancy text"
+msgstr "نوشته‌ی بعد از متن فانتزی است"
+
+#: widgets/premium-fancytext.php:159
+msgid "Text before Fancy text"
+msgstr "نوشته‌ی قبل از متن فانتزی است"
+
+#: widgets/premium-counter.php:233
+msgid "How long should it take to complete the digit?"
+msgstr "چه مدت باید طول بکشد، تا ارقام تکمیل شوند؟"
+
+#: widgets/premium-fancytext.php:435
+msgid "Show Items"
+msgstr "نمایش آیتم‌ها"
+
+#: modules/woocommerce/skins/skin-1.php:100
+#: modules/woocommerce/skins/skin-2.php:100
+#: modules/woocommerce/skins/skin-3.php:91
+#: modules/woocommerce/skins/skin-4.php:121
+#: modules/woocommerce/skins/skin-5.php:95
+#: modules/woocommerce/skins/skin-6.php:93
+#: modules/woocommerce/skins/skin-7.php:99
+#: modules/woocommerce/skins/skin-8.php:99
+#: modules/woocommerce/skins/skin-9.php:97
+#: modules/woocommerce/skins/skin-10.php:97
+#: modules/woocommerce/skins/skin-11.php:99 widgets/premium-blog.php:723
+#: widgets/premium-counter.php:271 widgets/premium-grid.php:957
+#: widgets/premium-icon-list.php:685 widgets/premium-pricing-table.php:875
+msgid "Display Options"
+msgstr "نمایش گزینه‌ها"
+
+#: widgets/premium-blog.php:1050
+msgid "Display or hide post tags"
+msgstr "نمایش یا مخفی‌کردن برچسب‌های پست"
+
+#: widgets/premium-fancytext.php:383
+msgid "Show Cursor"
+msgstr "نمایش مکان‌نما"
+
+#: widgets/premium-carousel.php:327
+msgid "Appearance"
+msgstr "نمایش"
+
+#: widgets/premium-dual-header.php:203
+msgid "Display"
+msgstr "نمایش"
+
+#: widgets/premium-carousel.php:245
+msgid "Enable or disable navigation dots"
+msgstr "نقطه‌های پیمایش را فعال یا غیرفعال کنید"
+
+#: modules/woocommerce/widgets/woo-products.php:1701
+#: widgets/premium-blog.php:970 widgets/premium-carousel.php:244
+#: widgets/premium-progressbar.php:152 widgets/premium-vscroll.php:725
+msgid "Dots"
+msgstr "نقطه‌ها"
+
+#: modules/premium-section-floating-effects/module.php:845
+#: modules/woocommerce/skins/skin-1.php:363
+#: modules/woocommerce/skins/skin-1.php:597
+#: modules/woocommerce/skins/skin-2.php:338
+#: modules/woocommerce/skins/skin-2.php:551
+#: modules/woocommerce/skins/skin-3.php:333
+#: modules/woocommerce/skins/skin-3.php:541
+#: modules/woocommerce/skins/skin-4.php:344
+#: modules/woocommerce/skins/skin-4.php:561
+#: modules/woocommerce/skins/skin-5.php:330
+#: modules/woocommerce/skins/skin-5.php:538
+#: modules/woocommerce/skins/skin-6.php:341
+#: modules/woocommerce/skins/skin-6.php:541
+#: modules/woocommerce/skins/skin-7.php:381
+#: modules/woocommerce/skins/skin-7.php:579
+#: modules/woocommerce/skins/skin-8.php:331
+#: modules/woocommerce/skins/skin-8.php:541
+#: modules/woocommerce/skins/skin-9.php:265
+#: modules/woocommerce/skins/skin-9.php:468
+#: modules/woocommerce/skins/skin-10.php:253
+#: modules/woocommerce/skins/skin-10.php:459
+#: modules/woocommerce/skins/skin-11.php:299
+#: modules/woocommerce/skins/skin-11.php:490
+#: modules/woocommerce/skins/skin-11.php:697
+#: modules/woocommerce/widgets/woo-products.php:1239
+#: modules/woocommerce/widgets/woo-products.php:1430
+#: widgets/premium-banner.php:821 widgets/premium-blog.php:1489
+#: widgets/premium-blog.php:2224 widgets/premium-blog.php:2515
+#: widgets/premium-button.php:761 widgets/premium-carousel.php:847
+#: widgets/premium-contactform.php:543 widgets/premium-dual-header.php:659
+#: widgets/premium-dual-header.php:856 widgets/premium-dual-header.php:1068
+#: widgets/premium-grid.php:1685 widgets/premium-grid.php:1895
+#: widgets/premium-grid.php:2195 widgets/premium-icon-list.php:459
+#: widgets/premium-icon-list.php:920 widgets/premium-image-button.php:710
+#: widgets/premium-image-scroll.php:646 widgets/premium-image-scroll.php:721
+#: widgets/premium-image-scroll.php:754 widgets/premium-lottie.php:520
+#: widgets/premium-modalbox.php:412 widgets/premium-modalbox.php:980
+#: widgets/premium-modalbox.php:1230 widgets/premium-modalbox.php:1396
+#: widgets/premium-person.php:1197 widgets/premium-pricing-table.php:1979
+#: widgets/premium-pricing-table.php:2234 widgets/premium-title.php:956
+#: widgets/premium-title.php:1471 widgets/premium-videobox.php:712
+#: widgets/premium-vscroll.php:462 widgets/premium-vscroll.php:857
+msgid "Normal"
+msgstr "معمولی"
+
+#: widgets/premium-blog.php:587
+msgid "Squares"
+msgstr "مربع"
+
+#: widgets/premium-carousel.php:181
+msgid "Slider content is a template which you can choose from Elementor library. Each template will be a slider content"
+msgstr "محتوای اسلایدر یک الگو است که شما می‌توانید از کتابخانه المنتور انتخاب کنید. هر الگو یک محتوای اسلاید خواهد بود"
+
+#: widgets/premium-banner.php:395 widgets/premium-carousel.php:197
+#: widgets/premium-modalbox.php:165 widgets/premium-modalbox.php:309
+#: widgets/premium-modalbox.php:331 widgets/premium-person.php:1556
+#: widgets/premium-testimonials.php:311 widgets/premium-testimonials.php:536
+#: widgets/premium-vscroll.php:162
+msgid "Content"
+msgstr "محتوا"
+
+#: modules/woocommerce/skins/skin-1.php:179
+#: modules/woocommerce/skins/skin-2.php:166
+#: modules/woocommerce/skins/skin-3.php:161
+#: modules/woocommerce/skins/skin-4.php:191
+#: modules/woocommerce/skins/skin-5.php:158
+#: modules/woocommerce/skins/skin-6.php:170
+#: modules/woocommerce/skins/skin-8.php:168
+#: modules/woocommerce/skins/skin-8.php:264
+#: modules/woocommerce/skins/skin-11.php:176
+#: modules/woocommerce/widgets/woo-products.php:880
+#: widgets/premium-banner.php:540 widgets/premium-blog.php:840
+#: widgets/premium-blog.php:872 widgets/premium-blog.php:1145
+#: widgets/premium-blog.php:1410 widgets/premium-button.php:661
+#: widgets/premium-countdown.php:369 widgets/premium-counter.php:249
+#: widgets/premium-counter.php:435 widgets/premium-counter.php:465
+#: widgets/premium-dual-header.php:290 widgets/premium-dual-header.php:330
+#: widgets/premium-dual-header.php:359 widgets/premium-dual-header.php:493
+#: widgets/premium-fancytext.php:220 widgets/premium-fancytext.php:479
+#: widgets/premium-fancytext.php:719 widgets/premium-grid.php:338
+#: widgets/premium-grid.php:562 widgets/premium-grid.php:1123
+#: widgets/premium-icon-list.php:746 widgets/premium-icon-list.php:792
+#: widgets/premium-icon-list.php:821 widgets/premium-image-button.php:610
+#: widgets/premium-image-separator.php:347 widgets/premium-lottie.php:348
+#: widgets/premium-maps.php:639 widgets/premium-maps.php:726
+#: widgets/premium-modalbox.php:773 widgets/premium-person.php:243
+#: widgets/premium-person.php:290 widgets/premium-pricing-table.php:558
+#: widgets/premium-pricing-table.php:1753 widgets/premium-progressbar.php:484
+#: widgets/premium-title.php:323 widgets/premium-title.php:378
+#: widgets/premium-title.php:408 widgets/premium-title.php:550
+#: widgets/premium-videobox.php:2028
+msgid "Center"
+msgstr "مرکز"
+
+#: widgets/premium-button.php:692 widgets/premium-image-button.php:641
+msgid "Example: myFunction();"
+msgstr "مثال: myFunction();"
+
+#: widgets/premium-blog.php:1028
+msgid "Categories Meta"
+msgstr "متای دسته‌بدی‌ها"
+
+#: widgets/premium-blog.php:1038
+msgid "Comments Meta"
+msgstr "متای دیدگاه‌ها"
+
+#: widgets/premium-blog.php:1019
+msgid "Date Meta"
+msgstr "متای تاریخ"
+
+#: widgets/premium-blog.php:1048
+msgid "Tags Meta"
+msgstr "متای برچسب‌ها"
+
+#: widgets/premium-blog.php:1010
+msgid "Author Meta"
+msgstr "متای نویسنده"
+
+#: widgets/premium-button.php:641 widgets/premium-image-button.php:590
+#: widgets/premium-modalbox.php:631
+msgid "Medium"
+msgstr "متوسط"
+
+#: widgets/premium-countdown.php:425
+msgid "On expiry Text"
+msgstr "متن انقضا"
+
+#: admin/includes/elements.php:76 admin/includes/elements.php:605
+#: widgets/premium-fancytext.php:47 widgets/premium-fancytext.php:148
+#: widgets/premium-fancytext.php:179 widgets/premium-fancytext.php:525
+msgid "Fancy Text"
+msgstr "متن فانتزی"
+
+#: modules/pa-display-conditions/module.php:81 widgets/premium-banner.php:465
+#: widgets/premium-button.php:157 widgets/premium-dual-header.php:391
+#: widgets/premium-fancytext.php:203 widgets/premium-icon-list.php:199
+#: widgets/premium-icon-list.php:242 widgets/premium-image-button.php:158
+#: widgets/premium-modalbox.php:380 widgets/premium-modalbox.php:453
+#: widgets/premium-modalbox.php:662 widgets/premium-pricing-table.php:257
+#: widgets/premium-pricing-table.php:376 widgets/premium-pricing-table.php:618
+#: widgets/premium-pricing-table.php:697 widgets/premium-pricing-table.php:1559
+#: widgets/premium-pricing-table.php:1844 widgets/premium-title.php:640
+#: widgets/premium-videobox.php:769 widgets/premium-videobox.php:1321
+msgid "Text"
+msgstr "متن"
+
+#: widgets/premium-countdown.php:506
+msgid "Month (Singular)"
+msgstr "ماه (یک ماه)"
+
+#: widgets/premium-countdown.php:516
+msgid "Months (Plural)"
+msgstr "ماه (چند ماه)"
+
+#: widgets/premium-countdown.php:311 widgets/premium-videobox.php:276
+msgid "Month"
+msgstr "ماه"
+
+#: widgets/premium-carousel.php:522
+msgid "Pause the slider when mouse hover"
+msgstr "مکث کردن اسلایدر هنگامی که ماوس روی آن هاور می‌شود"
+
+#: widgets/premium-blog.php:1265 widgets/premium-carousel.php:540
+msgid "Set a spacing value in pixels (px)"
+msgstr "میزان فاصله را بر حسب پیکسل (px) تنظیم کنید"
+
+#: widgets/premium-blog.php:585
+msgid "Diagonal"
+msgstr "مورب"
+
+#: widgets/premium-button.php:499 widgets/premium-counter.php:379
+#: widgets/premium-image-button.php:492 widgets/premium-modalbox.php:509
+#: widgets/premium-title.php:292
+msgid "Icon Position"
+msgstr "موقعیت آیکون"
+
+#: widgets/premium-counter.php:381
+msgid "Choose a position for your icon"
+msgstr "موقعیت مکانی آیکون خود را انتخاب کنید"
+
+#: widgets/premium-carousel.php:825
+msgid "Position (PX)"
+msgstr "موقعیت (پیکسل)"
+
+#: modules/woocommerce/skins/skin-9.php:442
+#: modules/woocommerce/skins/skin-10.php:433 widgets/premium-carousel.php:255
+#: widgets/premium-grid.php:411 widgets/premium-grid.php:1641
+#: widgets/premium-pricing-table.php:770 widgets/premium-videobox.php:657
+#: widgets/premium-vscroll.php:271
+msgid "Position"
+msgstr "موقعیت"
+
+#: widgets/premium-countdown.php:292
+msgid "Time Zone"
+msgstr "منطقه زمانی"
+
+#: widgets/premium-counter.php:211
+msgid "Value Prefix"
+msgstr "مقدار پیشوند"
+
+#: includes/pa-display-conditions/conditions/acf-boolean.php:50
+#: includes/pa-display-conditions/conditions/acf-choice.php:50
+#: includes/pa-display-conditions/conditions/acf-text.php:50
+#: includes/pa-display-conditions/conditions/browser.php:34
+#: includes/pa-display-conditions/conditions/date-range.php:34
+#: includes/pa-display-conditions/conditions/date.php:34
+#: includes/pa-display-conditions/conditions/day.php:34
+#: includes/pa-display-conditions/conditions/device.php:34
+#: includes/pa-display-conditions/conditions/ip-location.php:45
+#: includes/pa-display-conditions/conditions/lang.php:34
+#: includes/pa-display-conditions/conditions/login-status.php:34
+#: includes/pa-display-conditions/conditions/operating-system.php:34
+#: includes/pa-display-conditions/conditions/page.php:36
+#: includes/pa-display-conditions/conditions/post-type.php:36
+#: includes/pa-display-conditions/conditions/post.php:36
+#: includes/pa-display-conditions/conditions/url-referer.php:34
+#: includes/pa-display-conditions/conditions/user-role.php:35
+#: includes/pa-display-conditions/conditions/woo-cat-page.php:34
+#: includes/pa-display-conditions/conditions/woo-category.php:34
+#: includes/pa-display-conditions/conditions/woo-product-cat.php:34
+#: widgets/premium-counter.php:872 widgets/premium-progressbar.php:503
+msgid "Value"
+msgstr "مقدار"
+
+#: modules/premium-section-floating-effects/module.php:444
+#: modules/woocommerce/widgets/woo-products.php:1347
+#: widgets/premium-banner.php:302 widgets/premium-blog.php:610
+#: widgets/premium-grid.php:1042 widgets/premium-person.php:267
+#: widgets/premium-videobox.php:994
+msgid "Scale"
+msgstr "مقیاس"
+
+#: admin/includes/admin-helper.php:267
+msgid "Cancel"
+msgstr "لغو"
+
+#: widgets/premium-grid.php:1144 widgets/premium-grid.php:1151
+#: widgets/premium-grid.php:2398
+msgid "Lightbox"
+msgstr "لایت‌باکس"
+
+#: widgets/premium-banner.php:192
+msgid "Custom Link"
+msgstr "لینک سفارشی"
+
+#: widgets/premium-dual-header.php:223
+msgid "Enable or disable link"
+msgstr "لینک را فعال یا غیرفعال کنید"
+
+#: widgets/premium-countdown.php:404
+msgid "Redirection Link"
+msgstr "لینک تغییر مسیر"
+
+#: widgets/premium-banner.php:184 widgets/premium-banner.php:497
+#: widgets/premium-blog.php:971 widgets/premium-button.php:182
+#: widgets/premium-dual-header.php:221 widgets/premium-dual-header.php:247
+#: widgets/premium-grid.php:854 widgets/premium-icon-list.php:301
+#: widgets/premium-image-button.php:183 widgets/premium-image-scroll.php:217
+#: widgets/premium-image-separator.php:366 widgets/premium-lottie.php:368
+#: widgets/premium-lottie.php:393 widgets/premium-pricing-table.php:643
+#: widgets/premium-testimonials.php:283 widgets/premium-testimonials.php:292
+#: widgets/premium-title.php:573 widgets/premium-title.php:598
+#: widgets/premium-videobox.php:166 widgets/premium-videobox.php:363
+msgid "Link"
+msgstr "لینک"
+
+#: widgets/premium-button.php:503 widgets/premium-icon-list.php:769
+#: widgets/premium-image-button.php:496 widgets/premium-modalbox.php:513
+#: widgets/premium-title.php:295
+msgid "Before"
+msgstr "قبل"
+
+#: widgets/premium-blog.php:584
+msgid "Framed"
+msgstr "قاب‌بندی‌شده"
+
+#: widgets/premium-button.php:330 widgets/premium-image-button.php:323
+#: widgets/premium-modalbox.php:484
+msgid "Enable or disable button icon"
+msgstr "فعال یا غیرفعال کردن آیکون دکمه"
+
+#: widgets/premium-countdown.php:191
+msgid "Date format is (yyyy/mm/dd). Time format is (hh:mm:ss). Example: 2020-01-01 09:30."
+msgstr "فرمت تاریخ به‌صورت (yyyy/mm/dd) می‌باشد.فرمت زمان به‌صورت (hh:mm:ss) می‌باشد. مثال: 2020-01-01 09:30."
+
+#: widgets/premium-contactform.php:130
+msgid "Select Your Contact Form"
+msgstr "فرم تماس خود را انتخاب کنید"
+
+#: widgets/premium-contactform.php:123
+msgid "Contact Form"
+msgstr "فرم تماس"
+
+#: widgets/premium-contactform.php:316
+msgid "Form"
+msgstr "فرم"
+
+#: widgets/premium-blog.php:1264 widgets/premium-carousel.php:539
+msgid "Slides' Spacing"
+msgstr "فاصله‌ی اسلایدها"
+
+#: widgets/premium-countdown.php:801
+msgid "Spacing in Between"
+msgstr "فاصله بین آیتم‌ها"
+
+#: widgets/premium-button.php:552 widgets/premium-button.php:572
+#: widgets/premium-button.php:592 widgets/premium-button.php:614
+#: widgets/premium-image-button.php:545 widgets/premium-image-button.php:565
+#: widgets/premium-modalbox.php:544 widgets/premium-modalbox.php:564
+#: widgets/premium-modalbox.php:586 widgets/premium-modalbox.php:606
+msgid "Icon Spacing"
+msgstr "فاصله آیکون"
+
+#: widgets/premium-blog.php:1465 widgets/premium-grid.php:1871
+msgid "Filter"
+msgstr "فیلتر"
+
+#: widgets/premium-carousel.php:317
+msgid "Enable or disable navigation arrows"
+msgstr "فلش‌های پیمایش را فعال یا غیرفعال کنید"
+
+#: modules/woocommerce/widgets/woo-products.php:1611
+#: widgets/premium-carousel.php:316
+msgid "Arrows"
+msgstr "فلش‌ها"
+
+#: widgets/premium-button.php:264
+msgid "Tilted Right"
+msgstr "Tilted Right"
+
+#: widgets/premium-button.php:263
+msgid "Tilted Left"
+msgstr "Tilted Left"
+
+#: widgets/premium-button.php:260
+msgid "Shutter out Vertical"
+msgstr "Shutter out Vertical"
+
+#: widgets/premium-button.php:259
+msgid "Shutter out Horizontal"
+msgstr "Shutter out Horizontal"
+
+#: widgets/premium-button.php:258
+msgid "Shutter in Vertical"
+msgstr "Shutter in Vertical"
+
+#: widgets/premium-button.php:257
+msgid "Shutter in Horizontal"
+msgstr "Shutter in Horizontal"
+
+#: widgets/premium-button.php:253
+msgid "Shutter Direction"
+msgstr "Shutter Direction"
+
+#: widgets/premium-button.php:219
+msgid "Shutter"
+msgstr "Shutter"
+
+#: widgets/premium-button.php:261
+msgid "Scaled Shutter Vertical"
+msgstr "Scaled Shutter Vertical"
+
+#: widgets/premium-button.php:262
+msgid "Scaled Shutter Horizontal"
+msgstr "Scaled Shutter Horizontal"
+
+#: widgets/premium-button.php:302
+msgid "Rectangle Out"
+msgstr "Rectangle Out"
+
+#: widgets/premium-button.php:301
+msgid "Rectangle In"
+msgstr "Rectangle In"
+
+#: widgets/premium-button.php:300
+msgid "Radial Out"
+msgstr "Radial Out"
+
+#: widgets/premium-button.php:299
+msgid "Radial In"
+msgstr "Radial In"
+
+#: widgets/premium-button.php:220
+msgid "Icon Fade"
+msgstr "Icon Fade"
+
+#: modules/woocommerce/widgets/woo-products.php:318
+#: widgets/premium-blog.php:277 widgets/premium-grid.php:266
+#: widgets/premium-person.php:358 widgets/premium-videobox.php:410
+msgid "6 Columns"
+msgstr "6 ستون"
+
+#: modules/woocommerce/widgets/woo-products.php:317
+#: widgets/premium-blog.php:276 widgets/premium-grid.php:265
+#: widgets/premium-person.php:357 widgets/premium-videobox.php:409
+msgid "5 Columns"
+msgstr "5 ستون"
+
+#: modules/woocommerce/widgets/woo-products.php:315
+#: widgets/premium-blog.php:274 widgets/premium-grid.php:263
+#: widgets/premium-person.php:355 widgets/premium-videobox.php:407
+msgid "3 Columns"
+msgstr "3 ستون"
+
+#: modules/woocommerce/widgets/woo-products.php:314
+#: widgets/premium-blog.php:273 widgets/premium-grid.php:262
+#: widgets/premium-person.php:354 widgets/premium-videobox.php:406
+msgid "2 Columns"
+msgstr "2 ستون"
+
+#: modules/woocommerce/widgets/woo-products.php:313
+#: widgets/premium-blog.php:272 widgets/premium-grid.php:261
+#: widgets/premium-person.php:353 widgets/premium-videobox.php:405
+msgid "1 Column"
+msgstr "1 ستون"
+
+#: widgets/premium-blog.php:1030
+msgid "Display or hide categories meta"
+msgstr "نمایش یا مخفی‌کردن متای دسته‌بندی‌ها"
+
+#: widgets/premium-blog.php:1039
+msgid "Display or hide comments meta"
+msgstr "نمایش یا مخفی‌کردن متای دیدگاه‌ها"
+
+#: widgets/premium-counter.php:194
+msgid "Separator converts 125000 into 125,000"
+msgstr "جداکننده عدد 125000 را به 125,000 تبدیل می‌کند"

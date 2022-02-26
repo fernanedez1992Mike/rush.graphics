@@ -1,0 +1,474 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Pixer Necessary Addons For Elementor\n"
+"POT-Creation-Date: 2020-03-27 17:02+0600\n"
+"PO-Revision-Date: 2020-03-27 17:00+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: pixer-slider.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#. translators: 1: Plugin name 2: Elementor
+#: pixer-slider.php:132
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: pixer-slider.php:133 pixer-slider.php:156 pixer-slider.php:180
+msgid "Pixer Slider For Elementor"
+msgstr ""
+
+#: pixer-slider.php:134 pixer-slider.php:157
+msgid "Elementor"
+msgstr ""
+
+#. translators: 1: Plugin name 2: Elementor 3: Required Elementor version
+#. translators: 1: Plugin name 2: PHP 3: Required PHP version
+#: pixer-slider.php:155 pixer-slider.php:179
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: pixer-slider.php:181
+msgid "PHP"
+msgstr ""
+
+#: plugin.php:53
+msgid "Pixer Necessary Addons"
+msgstr ""
+
+#: widgets/widget-client.php:16
+msgid "Client list One"
+msgstr ""
+
+#: widgets/widget-client.php:30
+msgid "Brand Area"
+msgstr ""
+
+#: widgets/widget-client.php:38
+msgid "Brand Items"
+msgstr ""
+
+#: widgets/widget-client.php:42
+msgid "Brand #1"
+msgstr ""
+
+#: widgets/widget-client.php:43
+msgid "I am item content. Click edit button to change this text."
+msgstr ""
+
+#: widgets/widget-client.php:49 widgets/widget-contentwithimage.php:78
+msgid "Image"
+msgstr ""
+
+#: widgets/widget-client.php:63
+msgid "Layout"
+msgstr ""
+
+#: widgets/widget-client.php:70
+msgid "Alignment"
+msgstr ""
+
+#: widgets/widget-client.php:74
+msgid "Left"
+msgstr ""
+
+#: widgets/widget-client.php:78
+msgid "Center"
+msgstr ""
+
+#: widgets/widget-client.php:82
+msgid "Right"
+msgstr ""
+
+#: widgets/widget-client.php:86
+msgid "Justified"
+msgstr ""
+
+#: widgets/widget-client.php:99
+msgid "Show Image"
+msgstr ""
+
+#: widgets/widget-contentwithimage.php:16
+msgid "Content with Image"
+msgstr ""
+
+#: widgets/widget-contentwithimage.php:33
+msgid "Content With Image"
+msgstr ""
+
+#: widgets/widget-contentwithimage.php:35
+#: widgets/widget-contentwithvideo.php:35
+msgid "Featured Tranding of the week"
+msgstr ""
+
+#: widgets/widget-contentwithimage.php:42
+#: widgets/widget-contentwithvideo.php:42
+msgid "Sub Title"
+msgstr ""
+
+#: widgets/widget-contentwithimage.php:44
+msgid "Market strategy"
+msgstr ""
+
+#: widgets/widget-contentwithimage.php:51
+#: widgets/widget-contentwithvideo.php:51 widgets/widget-hero.php:50
+#: widgets/widget-hero2.php:50 widgets/widget-hero3.php:39
+#: widgets/widget-newsletter.php:38
+msgid "Title"
+msgstr ""
+
+#: widgets/widget-contentwithimage.php:53
+msgid "Build your Digital Marketplace for Sell Downloads"
+msgstr ""
+
+#: widgets/widget-contentwithimage.php:60
+#: widgets/widget-contentwithvideo.php:60 widgets/widget-hero.php:59
+#: widgets/widget-hero2.php:59
+msgid "Description"
+msgstr ""
+
+#: widgets/widget-contentwithimage.php:62
+#: widgets/widget-contentwithvideo.php:62
+msgid ""
+"Online marketplace is type of e-commerce site where product or service "
+"information provided by multiple third parties where transactions are "
+"processed operator."
+msgstr ""
+
+#: widgets/widget-contentwithimage.php:69
+#: widgets/widget-contentwithvideo.php:69
+msgid "Video quote"
+msgstr ""
+
+#: widgets/widget-contentwithimage.php:71
+#: widgets/widget-contentwithvideo.php:71
+msgid "“Primary type multichannel ecommerce and can way streamline”"
+msgstr ""
+
+#: widgets/widget-contentwithvideo.php:16
+msgid "Content with Video"
+msgstr ""
+
+#: widgets/widget-contentwithvideo.php:33
+msgid "Video"
+msgstr ""
+
+#: widgets/widget-contentwithvideo.php:44
+msgid "pricing strategy"
+msgstr ""
+
+#: widgets/widget-contentwithvideo.php:53
+msgid "Build Digital Market place Sell Downloads"
+msgstr ""
+
+#: widgets/widget-contentwithvideo.php:78
+#: widgets/widget-contentwithvideo.php:88
+msgid "Video Background"
+msgstr ""
+
+#: widgets/widget-features.php:16
+msgid "Features One"
+msgstr ""
+
+#: widgets/widget-features.php:31
+msgid "Features"
+msgstr ""
+
+#: widgets/widget-features.php:39
+msgid "Service Style"
+msgstr ""
+
+#: widgets/widget-features.php:43
+msgid "Center Icon"
+msgstr ""
+
+#: widgets/widget-features.php:44
+msgid "Left Icon"
+msgstr ""
+
+#: widgets/widget-features.php:53
+msgid "Feature Icon"
+msgstr ""
+
+#: widgets/widget-features.php:64
+msgid "Feature Title"
+msgstr ""
+
+#: widgets/widget-features.php:72
+msgid "Feature Text"
+msgstr ""
+
+#: widgets/widget-hero.php:16
+msgid "Banner One"
+msgstr ""
+
+#: widgets/widget-hero.php:31 widgets/widget-hero2.php:31
+msgid "Banner"
+msgstr ""
+
+#: widgets/widget-hero.php:39 widgets/widget-hero2.php:39
+msgid "Banner image"
+msgstr ""
+
+#: widgets/widget-hero.php:52 widgets/widget-hero2.php:52
+msgid "Thinking Software High Quality"
+msgstr ""
+
+#: widgets/widget-hero.php:61 widgets/widget-hero2.php:61
+msgid ""
+"Lorem ipsum dolor sit amet consectetur adipiscing elit proin leo leo ornare "
+"nec vulputate tempus velit nam id purus tellus"
+msgstr ""
+
+#: widgets/widget-hero.php:67 widgets/widget-hero2.php:67
+#: widgets/widget-newsletter.php:46
+msgid "Text"
+msgstr ""
+
+#: widgets/widget-hero.php:69 widgets/widget-hero2.php:69
+msgid "get started"
+msgstr ""
+
+#: widgets/widget-hero.php:75 widgets/widget-hero2.php:75
+msgid "URL"
+msgstr ""
+
+#: widgets/widget-hero2.php:16
+msgid "Banner Two"
+msgstr ""
+
+#: widgets/widget-hero3.php:16
+msgid "Hero Three"
+msgstr ""
+
+#: widgets/widget-hero3.php:31
+msgid "Control"
+msgstr ""
+
+#: widgets/widget-hero3.php:41
+msgid "WILL SMITH"
+msgstr ""
+
+#: widgets/widget-hero3.php:48
+msgid "Title Color"
+msgstr ""
+
+#: widgets/widget-hero3.php:64
+msgid "About Text"
+msgstr ""
+
+#: widgets/widget-hero3.php:66
+msgid ""
+"I'm Will Smith, professional web developer with long time experience in this "
+"field​."
+msgstr ""
+
+#: widgets/widget-hero3.php:74
+msgid "About Text Color"
+msgstr ""
+
+#: widgets/widget-hero3.php:90
+msgid "Button"
+msgstr ""
+
+#: widgets/widget-hero3.php:92
+msgid "See Portfolios"
+msgstr ""
+
+#: widgets/widget-hero3.php:99
+msgid "Button Color"
+msgstr ""
+
+#: widgets/widget-hero3.php:115
+msgid "Button Hover Color"
+msgstr ""
+
+#: widgets/widget-hero3.php:132
+msgid "Link"
+msgstr ""
+
+#: widgets/widget-hero3.php:134
+msgid "https://your-link.com"
+msgstr ""
+
+#: widgets/widget-hero3.php:159
+msgid "Hello!"
+msgstr ""
+
+#: widgets/widget-hero3.php:160
+msgid "I am"
+msgstr ""
+
+#: widgets/widget-newsletter.php:16
+msgid "NewsLetter One"
+msgstr ""
+
+#: widgets/widget-newsletter.php:31
+msgid "Newsletter"
+msgstr ""
+
+#: widgets/widget-newsletter.php:40
+msgid "Get reguler updates"
+msgstr ""
+
+#: widgets/widget-newsletter.php:48
+msgid ""
+"Contrary to popular belief, Lorem Ipsum is not simply random text. It has "
+"roots in a piece of classical Latin literature from 45 BC, making it over"
+msgstr ""
+
+#: widgets/widget-newsletter.php:54
+msgid "Mailchimp Shortcode"
+msgstr ""
+
+#: widgets/widget-newsletter.php:56
+msgid "[mc4wp_form id=\"123\"]"
+msgstr ""
+
+#: widgets/widget-pricing.php:16
+msgid "Pricing One"
+msgstr ""
+
+#: widgets/widget-pricing.php:31
+msgid "Pricing"
+msgstr ""
+
+#: widgets/widget-pricing.php:39
+msgid "title"
+msgstr ""
+
+#: widgets/widget-pricing.php:48
+msgid "Price"
+msgstr ""
+
+#: widgets/widget-pricing.php:57
+msgid "Package"
+msgstr ""
+
+#: widgets/widget-pricing.php:61
+msgid "Daily"
+msgstr ""
+
+#: widgets/widget-pricing.php:62
+msgid "Weekly"
+msgstr ""
+
+#: widgets/widget-pricing.php:63
+msgid "Monthly"
+msgstr ""
+
+#: widgets/widget-pricing.php:64
+msgid "Yealry"
+msgstr ""
+
+#: widgets/widget-pricing.php:65
+msgid "None"
+msgstr ""
+
+#: widgets/widget-pricing.php:75
+msgid "Feature"
+msgstr ""
+
+#: widgets/widget-pricing.php:77 widgets/widget-pricing.php:113
+msgid "10 Free Domain Names"
+msgstr ""
+
+#: widgets/widget-pricing.php:84
+msgid "Cross"
+msgstr ""
+
+#: widgets/widget-pricing.php:86
+msgid "On"
+msgstr ""
+
+#: widgets/widget-pricing.php:87
+msgid "Off"
+msgstr ""
+
+#: widgets/widget-pricing.php:96
+msgid "Feature List"
+msgstr ""
+
+#: widgets/widget-pricing.php:101
+msgid "5GB Storage Space"
+msgstr ""
+
+#: widgets/widget-pricing.php:104
+msgid "20GB Monthly Bandwidth"
+msgstr ""
+
+#: widgets/widget-pricing.php:107
+msgid "My SQL Databases"
+msgstr ""
+
+#: widgets/widget-pricing.php:110
+msgid "100 Email Account"
+msgstr ""
+
+#: widgets/widget-pricing.php:123
+msgid "button text"
+msgstr ""
+
+#: widgets/widget-pricing.php:132
+msgid "button URL"
+msgstr ""
+
+#: widgets/widget-team.php:16
+msgid "Team One"
+msgstr ""
+
+#: widgets/widget-team.php:30
+msgid "Team"
+msgstr ""
+
+#: widgets/widget-team.php:38
+msgid "Choose photo"
+msgstr ""
+
+#: widgets/widget-team.php:49
+msgid "Name"
+msgstr ""
+
+#: widgets/widget-team.php:57
+msgid "Designation"
+msgstr ""
+
+#: widgets/widget-team.php:66
+msgid "Social Icon"
+msgstr ""
+
+#: widgets/widget-team.php:74
+msgid "Socia URL"
+msgstr ""
+
+#: widgets/widget-team.php:82
+msgid "social profile"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Pixer Necessary Addons For Elementor"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"With Pixer Necessary Addons For Elementor Plugin you can add a beautifull "
+"sections of your website.."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "pixertheme"
+msgstr ""

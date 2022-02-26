@@ -1,0 +1,637 @@
+body.no_postdivrich #postdivrich {
+  display: none;
+}
+
+#blahlab_toggle_builder {
+  background: #fff;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.04);
+  padding: 20px;
+  margin-top: 20px;
+  border: 1px solid #e5e5e5;
+}
+
+.blahlab-hide {
+  display: none;
+}
+
+#available-widgets .widget-tpl[id*='blahlab-widget']{
+    display: block;
+    border-right: 4px solid #00A4EC;
+}
+
+.blahlab-radio-wrapper label {
+  display: inline-block;
+}
+
+.blahlab-radio-wrapper {
+  margin-right: 20px;
+}
+
+input[type=text].blahlab-color-selector.wp-color-picker{
+    float: left;
+    padding: 3px;
+}
+
+.blahlab-image-remove {
+    display: none;
+    width: 16px;
+    height: 16px;
+    background: #FF5353 url('../images/cross.png') no-repeat;
+    background-size: 16px 16px;
+    border: 1px solid #BC3F39;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 2;
+    color: #fff;
+    font-size: 11px;
+    border-radius: 3px;
+    transition: all 0.2s ease-in-out;
+    text-indent: -999px;
+    overflow: hidden;
+    box-shadow: 0px 1px 0px rgba(255, 255, 255, 0.4) inset, 0px 1px 0px rgba(0, 0, 0, 0.08);
+}
+.blahlab-image-remove:hover{
+    background-color: #F2413D;
+}
+.blahlab-image-display img{
+    display: block;
+    height: auto;
+    margin: 0 auto 10px;
+    border-radius: 3px;
+    max-width: 100%;
+}
+.blahlab-image-display img + .blahlab-image-remove{
+    display: block;
+}
+
+.blahlab_wp_widget .spacing {
+  height: 10px;
+}
+
+/* hide blahlab sidebars */
+.widgets-holder-wrap div[id^="blahlab-home-"], .widgets-holder-wrap div[id^=blahlab] {
+  display: none;
+}
+
+
+.customize-control select.short {
+  max-width: 50%;
+  min-width: 0%;
+}
+
+.customize-control input.short {
+  width: 59%;
+}
+
+.customize-control input.longer {
+  width: 95%;
+}
+
+/* font awesome icon selector */
+.customize-control ul.fa-icons {
+  height: 99px;
+  overflow: auto;
+  overflow-x: hidden;
+  width: 100%;
+  margin-bottom: 15px;
+}
+.customize-control ul.fa-icons li {
+  font-size: 25px;
+  width: 27px;
+  height: 27px;
+  text-align: center;
+  cursor: pointer;
+}
+.customize-control ul.fa-icons li.active {
+  color: white;
+  background: black;
+}
+.customize-control ul.fa-icons li:hover {
+  color: white;
+  background: black;
+}
+
+#wpadminbar {
+  display: block;
+}
+
+img.mceAction {
+  width: 20px;
+  height: 20px;
+}
+
+.mce-i-wp_code:before {
+  content: "\e017" !important;
+}
+
+.button {
+  width: auto;
+}
+
+.hide {
+  display: none;
+}
+
+a {
+  cursor: pointer;
+}
+
+
+
+#optionsframework a {
+  cursor: pointer;
+}
+#optionsframework #styles ul li {
+  display: inline-block;
+  width: 55px;
+  height: 30px;
+  border: 1px solid #cccccc;
+  float: left;
+  margin-right: 5px;
+  margin-bottom: 10px;
+  text-indent: -9999px;
+}
+#optionsframework #styles ul a {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+#optionsframework #styles ul a.orange {
+  background: #f7921e;
+}
+#optionsframework #styles ul a.dark-blue {
+  background: #262c32;
+}
+#optionsframework #styles ul a.blue {
+  background: #1894eb;
+}
+#optionsframework #styles ul a.coffee {
+  background: #453c2b;
+}
+#optionsframework #styles ul a.cyan {
+  background: #52cebe;
+}
+#optionsframework #styles ul a.grey {
+  background: #494949;
+}
+#optionsframework #styles ul a.khaki {
+  background: #c1bdb0;
+}
+#optionsframework #styles ul a.yellow {
+  background: #fcbf31;
+}
+#optionsframework #styles ul a.pink {
+  background: #de5f5f;
+}
+#optionsframework #styles ul a.purple {
+  background: #4d4771;
+}
+#optionsframework #styles ul a.green {
+  background: #22cb22;
+}
+#optionsframework #styles ul li.selected {
+  border: 1px solid black;
+}
+#optionsframework #styles ul span {
+  display: none;
+}
+#optionsframework #styles h4.heading {
+  clear: both;
+}
+#optionsframework #styles .section p.ng-scope {
+  width: 25%;
+  float: left;
+}
+#optionsframework #styles .section img.ng-scope {
+  vertical-align: bottom;
+  margin: 0 10px;
+}
+#optionsframework #header label {
+  display: block;
+  width: 150px;
+  float: left;
+  padding-top: 3px;
+  font-weight: bold;
+}
+#optionsframework #header select, #optionsframework #header input, #optionsframework #header textarea {
+  width: 260px;
+}
+#optionsframework #header p {
+  position: relative;
+}
+#optionsframework #header a {
+  position: absolute;
+  left: 70px;
+  top: 3px;
+}
+#optionsframework #header .button {
+  width: auto;
+  margin-left: 150px;
+}
+#optionsframework #footer input, #optionsframework #footer select {
+  width: 260px;
+}
+#optionsframework #footer .button {
+  width: auto;
+}
+#optionsframework #footer .copyright {
+  width: 400px;
+}
+#optionsframework #footer .note {
+  font-weight: bold;
+}
+#optionsframework #slider table {
+  border-collapse: collapse;
+  width: 100%;
+}
+#optionsframework #slider table td, #optionsframework #slider table th {
+  border: 1px solid #cccccc;
+  padding: 8px 0;
+  text-align: center;
+}
+#optionsframework #slider table th {
+  background: #eeeeee;
+}
+#optionsframework #slider table tr:hover {
+  background: whitesmoke;
+}
+#optionsframework #slider p {
+  border-bottom: 1px solid #eeeeee;
+}
+#optionsframework #slider p.no-bottom-line {
+  border: none;
+}
+#optionsframework #slider label {
+  width: 260px;
+  float: left;
+  font-weight: bold;
+  line-height: 1.2em;
+}
+#optionsframework #slider label.end-slideshow, #optionsframework #slider label.radio-source {
+  float: none;
+  width: auto;
+  font-weight: normal;
+}
+#optionsframework #slider span.small-text {
+  font-size: 11px;
+  font-weight: normal;
+}
+#optionsframework #slider input, #optionsframework #slider select, #optionsframework #slider textarea {
+  width: 300px;
+}
+#optionsframework #slider input.middle-size {
+  width: 150px;
+}
+#optionsframework #slider input.small-size {
+  width: 100px;
+}
+#optionsframework #slider select.small-size {
+  width: 120px;
+  margin-right: 5px;
+}
+#optionsframework #slider .button {
+  width: auto;
+}
+#optionsframework #slider .checkbox, #optionsframework #slider .radio-button {
+  width: 20px;
+  float: none;
+}
+#optionsframework #slider .beautiful-slider-type {
+  padding: 0;
+}
+#optionsframework #slider .beautiful-slider-type select {
+  margin-left: 260px;
+  margin-top: -60px;
+}
+#optionsframework #slider .media-type-image {
+  padding-left: 260px;
+}
+#optionsframework #slider .media-type-image input {
+  width: 130px;
+}
+#optionsframework #slider .media-type-video {
+  padding: 15px 0;
+}
+#optionsframework #slider .media-type-video .middle-size {
+  margin-left: 260px;
+}
+#optionsframework #slider span.slide {
+  font-size: 24px;
+  padding-top: 5px;
+}
+#optionsframework #slider span.duration {
+  margin-left: 5px;
+}
+#optionsframework #slider .slider_layouts {
+  width: 150px;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+#optionsframework #slider .slider_layouts label {
+  float: none;
+}
+#optionsframework #slider .slider_layouts label img {
+  vertical-align: middle;
+}
+#optionsframework #slider .slider_layouts input {
+  width: 16px;
+}
+#optionsframework #slider .wp-picker-container {
+  display: block;
+}
+#optionsframework #slider .title-area, #optionsframework #slider .content-area, #optionsframework #slider .button-area, #optionsframework #slider .background-area, #optionsframework #slider .layouts-area, #optionsframework #slider .list-item-area {
+  border-bottom: 1px solid #eeeeee;
+  margin-bottom: 10px;
+  padding-bottom: 5px;
+}
+#optionsframework #slider .title-area p, #optionsframework #slider .content-area p, #optionsframework #slider .button-area p, #optionsframework #slider .background-area p, #optionsframework #slider .layouts-area p, #optionsframework #slider .list-item-area p {
+  border: none;
+  padding-bottom: 0;
+}
+#optionsframework #slider .list-items-icon label {
+  float: none;
+}
+#optionsframework #slider .list-items-icon ul {
+  overflow: auto;
+  height: 175px;
+  border: 1px solid #eeeeee;
+}
+#optionsframework #slider .list-items-icon ul li {
+  display: inline;
+  float: left;
+  border-right: 1px solid #cccccc;
+  border-bottom: 1px solid #cccccc;
+  padding: 7px 4px 0;
+  margin: 0;
+  height: 36px;
+  width: 36px;
+}
+#optionsframework #slider .list-items-icon ul li i {
+  font-size: 28px;
+}
+#optionsframework #slider .list-items-icon ul li i:hover {
+  cursor: pointer;
+}
+#optionsframework #slider .list-items-icon ul li i.selected {
+  color: #d54e21;
+}
+#optionsframework #contact label {
+  width: 150px;
+  float: left;
+  display: block;
+}
+#optionsframework #contact input, #optionsframework #contact textarea {
+  width: 260px;
+}
+#optionsframework #contact textarea {
+  height: 100px;
+}
+#optionsframework #contact select {
+  width: 260px;
+  margin-right: 5px;
+}
+#optionsframework #contact input.location-checkbox {
+  width: 20px;
+}
+#optionsframework #portfolio label {
+  width: 200px;
+  float: left;
+  display: block;
+  font-weight: bold;
+}
+#optionsframework #portfolio p {
+  overflow: auto;
+}
+#optionsframework #portfolio input, #optionsframework #portfolio select {
+  width: 260px;
+}
+#optionsframework #portfolio .checkbox {
+  width: 20px;
+  float: none;
+}
+
+/* Styles for shortcodes */
+#TB_ajaxContent {
+  background: white;
+}
+
+#blahlab-shortcode-helper {
+  padding: 0 10px;
+}
+#blahlab-shortcode-helper h2 {
+  border-bottom: 1px solid #cccccc;
+  padding: 0 0 10px;
+}
+#blahlab-shortcode-helper p label {
+  width: 200px;
+  display: block;
+  float: left;
+}
+#blahlab-shortcode-helper p input, #blahlab-shortcode-helper p select, #blahlab-shortcode-helper p textarea {
+  width: 260px;
+}
+#blahlab-shortcode-helper p span.wp-picker-input-wrap input {
+  width: 80px;
+}
+#blahlab-shortcode-helper p textarea {
+  height: 80px;
+}
+#blahlab-shortcode-helper p .button {
+  width: auto;
+}
+#blahlab-shortcode-helper p .checkbox {
+  width: 20px;
+}
+#blahlab-shortcode-helper p .lable-for-checkbox {
+  float: none;
+  width: auto;
+  display: inline;
+}
+#blahlab-shortcode-helper .iconbox label {
+  float: none;
+  width: auto;
+}
+#blahlab-shortcode-helper .iconbox input, #blahlab-shortcode-helper .iconbox select, #blahlab-shortcode-helper .iconbox textarea {
+  width: 360px;
+}
+#blahlab-shortcode-helper .iconbox ul, #blahlab-shortcode-helper .list ul {
+  overflow: auto;
+  height: 175px;
+  margin: 0;
+  border: 1px solid #cccccc;
+}
+#blahlab-shortcode-helper .iconbox li, #blahlab-shortcode-helper .list li {
+  display: inline;
+  float: left;
+  border-right: 1px solid #cccccc;
+  border-bottom: 1px solid #cccccc;
+  padding: 7px 4px 0;
+  margin: 0;
+  height: 36px;
+  width: 36px;
+}
+#blahlab-shortcode-helper .iconbox i, #blahlab-shortcode-helper .list i {
+  font-size: 28px;
+}
+#blahlab-shortcode-helper .iconbox i:hover, #blahlab-shortcode-helper .list i:hover {
+  cursor: pointer;
+}
+#blahlab-shortcode-helper .iconbox i.selected, #blahlab-shortcode-helper .list i.selected {
+  color: #d54e21;
+}
+#blahlab-shortcode-helper .social select, #blahlab-shortcode-helper .social input {
+  width: 150px;
+}
+#blahlab-shortcode-helper .social .no-float {
+  float: none;
+  display: inline;
+  margin-left: 5px;
+}
+#blahlab-shortcode-helper select.unit {
+  width: 100px;
+}
+#blahlab-shortcode-helper h3 {
+  border-bottom: 1px solid #cccccc;
+  padding: 0 0 5px;
+}
+#blahlab-shortcode-helper h3 a {
+  font-weight: normal;
+  font-size: 13px;
+}
+
+/*Styles for meta box */
+input.full-width {
+  width: 100%;
+}
+
+.blahlab_wp_metabox .blahlab-button {
+  display: inline-block;
+  height: 25px;
+  margin: 0px;
+  padding: 0px 6px 1px;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 0px;
+  white-space: nowrap;
+  box-sizing: border-box;
+  box-shadow: 0px 1px 0px rgba(255, 255, 255, 0.4) inset, 0px 1px 0px rgba(0, 0, 0, 0.08);
+  vertical-align: middle;
+  cursor: pointer;
+  color: #333;
+  text-decoration: none;
+  font-size: 11px;
+  line-height: 24px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.blahlab_wp_metabox .wp-picker-container {
+  margin-top: 5px;
+}
+
+.blahlab_wp_metabox .bottom-spacing {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.blahlab_wp_metabox .blahlab-image-container, .blahlab_wp_metabox .blahlab-video-container {
+  position: relative;
+  margin-bottom: 15px;
+  width: 200px;
+}
+
+.blahlab_wp_metabox .blahlab-image-container .blahlab-image-display, .blahlab_wp_metabox .blahlab-video-container .blahlab-image-display {
+  background: #F0F0F0 url(../images/icon-bg-image-small.png) center no-repeat;
+  background-size: 32px 32px;
+  border: 1px dashed #ddd;
+  height: 108px;
+  margin-bottom: 10px;
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.blahlab_wp_metabox ul.images {
+  overflow: hidden;
+}
+
+.blahlab_wp_metabox ul.images li {
+  float: left;
+  position: relative;
+  margin: 5px;
+}
+
+.blahlab_wp_metabox ul.images li a {
+  position: absolute;
+  right: 0;
+  top: 0;
+  color: #000;
+  background: #fff;
+  line-height: 100%;
+  display: block;
+  border: 1px solid #000;
+  font-size: 14px;
+}
+
+.blahlab_wp_metabox ul.images li img.draggable {
+  display: block;
+  cursor: move;
+}
+
+#_portfolio_meta_meta_metabox .blahlab_wp_metabox label {
+  display: block;
+}
+
+#_portfolio_slider_meta_metabox select, #_portfolio_slider_meta_metabox input {
+  width: 260px;
+}
+#_portfolio_slider_meta_metabox input.small-size {
+  width: 100px;
+}
+#_portfolio_slider_meta_metabox label {
+  width: 300px;
+  float: left;
+  display: block;
+  font-weight: bold;
+  line-height: 1.2em;
+}
+#_portfolio_slider_meta_metabox label.end-slideshow {
+  float: none;
+  display: inline;
+  font-weight: normal;
+}
+#_portfolio_slider_meta_metabox .button {
+  width: auto;
+}
+#_portfolio_slider_meta_metabox .checkbox {
+  width: 20px;
+}
+#_portfolio_slider_meta_metabox span.slide {
+  font-size: 24px;
+}
+#_portfolio_slider_meta_metabox span.small-text {
+  font-size: 11px;
+}
+
+.section-title {
+  background: #eeeeee;
+  padding: 1px 10px;
+  margin: 10px 0;
+}
+.section-title a {
+  font-size: 13px;
+}
+.section-title .delete {
+  float: right;
+  font-size: 11px;
+}
+.section-title select {
+  width: 300px;
+}
+.section-title label.display-page-content {
+  margin-right: 15px;
+}
+
+.spacing {
+  height: 10px;
+}

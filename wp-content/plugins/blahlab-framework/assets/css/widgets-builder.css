@@ -1,0 +1,227 @@
+#customize-theme-controls .accordion-section-content {
+  overflow-x: hidden;
+  padding-bottom: 800px; }
+
+.blahlab-row {
+  padding: 0 10px;
+  padding-top: 10px; }
+
+.blahlab-accordion-item .blahlab-accordion-section {
+  display: none; }
+
+.blahlab-accordion-item.open .blahlab-accordion-section {
+  display: block; }
+
+#blahlab_theme_options #one_click_setup_wrapper {
+  padding: 10px 20px 0; }
+
+.customize-control-widget_form div[id*='blahlab-widget'] .widget-inside, #blahlab_theme_options .widget-inside {
+  padding: 0 !important; }
+
+.customize-control-widget_form div[id*='blahlab-widget'] .form, #blahlab_theme_options .form {
+  padding: 20px !important;
+  padding-bottom: 0 !important; }
+  .customize-control-widget_form div[id*='blahlab-widget'] .form .widget-anchor-id, #blahlab_theme_options .form .widget-anchor-id {
+    display: none; }
+  .customize-control-widget_form div[id*='blahlab-widget'] .form .spacing, #blahlab_theme_options .form .spacing {
+    height: 10px; }
+  .customize-control-widget_form div[id*='blahlab-widget'] .form .spacing.half, #blahlab_theme_options .form .spacing.half {
+    height: 5px; }
+  .customize-control-widget_form div[id*='blahlab-widget'] .form input[type="text"], .customize-control-widget_form div[id*='blahlab-widget'] .form input[type="email"], .customize-control-widget_form div[id*='blahlab-widget'] .form input[type="number"], .customize-control-widget_form div[id*='blahlab-widget'] .form textarea, .customize-control-widget_form div[id*='blahlab-widget'] .form select, #blahlab_theme_options .form input[type="text"], #blahlab_theme_options .form input[type="email"], #blahlab_theme_options .form input[type="number"], #blahlab_theme_options .form textarea, #blahlab_theme_options .form select {
+    display: block;
+    width: 100%;
+    padding: 8px;
+    margin: 0;
+    background: #fff;
+    border: 1px solid #ddd;
+    box-shadow: inset 1px 1px 2px rgba(0, 0, 0, 0.1);
+    margin-bottom: 15px;
+    font-size: 14px;
+    color: #32373c; }
+  .customize-control-widget_form div[id*='blahlab-widget'] .form input[type="text"].time, #blahlab_theme_options .form input[type="text"].time {
+    display: inline-block;
+    width: 85%;
+    margin-right: 5px; }
+  .customize-control-widget_form div[id*='blahlab-widget'] .form input[type="text"].degree, #blahlab_theme_options .form input[type="text"].degree {
+    display: inline-block;
+    width: 60%;
+    margin-right: 5px; }
+  .customize-control-widget_form div[id*='blahlab-widget'] .form .wp-picker-container input[type="text"], #blahlab_theme_options .form .wp-picker-container input[type="text"] {
+    border: 1px solid #ddd;
+    -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.07);
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.07);
+    background-color: #fff;
+    color: #32373c;
+    outline: 0;
+    -webkit-transition: 50ms border-color ease-in-out;
+    transition: 50ms border-color ease-in-out;
+    /* overwrite the blahlab style */
+    padding: 3px;
+    width: auto;
+    margin: 0;
+    width: 65px; }
+  .customize-control-widget_form div[id*='blahlab-widget'] .form label, #blahlab_theme_options .form label {
+    vertical-align: top; }
+  .customize-control-widget_form div[id*='blahlab-widget'] .form label.note, #blahlab_theme_options .form label.note {
+    font-size: 15px;
+    display: block;
+    padding-bottom: 3px; }
+  .customize-control-widget_form div[id*='blahlab-widget'] .form p.note, #blahlab_theme_options .form p.note {
+    color: grey;
+    margin-top: -13px; }
+  .customize-control-widget_form div[id*='blahlab-widget'] .form select, #blahlab_theme_options .form select {
+    min-height: 200px; }
+  .customize-control-widget_form div[id*='blahlab-widget'] .form .emails, #blahlab_theme_options .form .emails {
+    margin-bottom: 12px; }
+    .customize-control-widget_form div[id*='blahlab-widget'] .form .emails .email_item input, #blahlab_theme_options .form .emails .email_item input {
+      width: 88%;
+      display: inline-block;
+      margin-bottom: 0; }
+  .customize-control-widget_form div[id*='blahlab-widget'] .form .socials, #blahlab_theme_options .form .socials {
+    margin-bottom: 12px; }
+  .customize-control-widget_form div[id*='blahlab-widget'] .form .social_item select, .customize-control-widget_form div[id*='blahlab-widget'] .form .social_item input, .customize-control-widget_form div[id*='blahlab-widget'] .form .sub_item select, .customize-control-widget_form div[id*='blahlab-widget'] .form .sub_item input, #blahlab_theme_options .form .social_item select, #blahlab_theme_options .form .social_item input, #blahlab_theme_options .form .sub_item select, #blahlab_theme_options .form .sub_item input {
+    padding: 0;
+    height: 24px;
+    margin-bottom: 2px;
+    display: inline-block; }
+  .customize-control-widget_form div[id*='blahlab-widget'] .form .social_item select, .customize-control-widget_form div[id*='blahlab-widget'] .form .sub_item select, #blahlab_theme_options .form .social_item select, #blahlab_theme_options .form .sub_item select {
+    width: 25%; }
+  .customize-control-widget_form div[id*='blahlab-widget'] .form .social_item input, .customize-control-widget_form div[id*='blahlab-widget'] .form .sub_item input, #blahlab_theme_options .form .social_item input, #blahlab_theme_options .form .sub_item input {
+    width: 63%;
+    padding: 3px; }
+  .customize-control-widget_form div[id*='blahlab-widget'] .form a.delete, #blahlab_theme_options .form a.delete {
+    display: inline-block; }
+  .customize-control-widget_form div[id*='blahlab-widget'] .form a.add, #blahlab_theme_options .form a.add {
+    margin-top: 2px;
+    margin-bottom: 6px;
+    display: block; }
+  .customize-control-widget_form div[id*='blahlab-widget'] .form textarea, #blahlab_theme_options .form textarea {
+    min-height: 100px; }
+  .customize-control-widget_form div[id*='blahlab-widget'] .form .widget-content, #blahlab_theme_options .form .widget-content {
+    overflow: hidden; }
+  .customize-control-widget_form div[id*='blahlab-widget'] .form .widget-control-actions, #blahlab_theme_options .form .widget-control-actions {
+    border-top: 1px solid #ddd;
+    margin-top: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    clear: both; }
+  .customize-control-widget_form div[id*='blahlab-widget'] .form .blahlab-button, #blahlab_theme_options .form .blahlab-button {
+    display: inline-block;
+    height: 25px;
+    margin: 0px;
+    padding: 0px 6px 1px;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 0px;
+    white-space: nowrap;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 0px rgba(255, 255, 255, 0.4) inset, 0px 1px 0px rgba(0, 0, 0, 0.08);
+    vertical-align: middle;
+    cursor: pointer;
+    color: #333;
+    text-decoration: none;
+    font-size: 11px;
+    line-height: 24px;
+    text-align: center;
+    font-weight: bold; }
+  .customize-control-widget_form div[id*='blahlab-widget'] .form .blahlab-image-container, .customize-control-widget_form div[id*='blahlab-widget'] .form .blahlab-video-container, #blahlab_theme_options .form .blahlab-image-container, #blahlab_theme_options .form .blahlab-video-container {
+    position: relative;
+    margin-bottom: 15px; }
+    .customize-control-widget_form div[id*='blahlab-widget'] .form .blahlab-image-container .blahlab-image-display, .customize-control-widget_form div[id*='blahlab-widget'] .form .blahlab-video-container .blahlab-image-display, #blahlab_theme_options .form .blahlab-image-container .blahlab-image-display, #blahlab_theme_options .form .blahlab-video-container .blahlab-image-display {
+      background: #F0F0F0 url(../images/icon-bg-image-small.png) center no-repeat;
+      background-size: 32px 32px;
+      border: 1px dashed #ddd;
+      height: 108px;
+      margin-bottom: 10px;
+      border-radius: 3px;
+      overflow: hidden; }
+
+.blahlab-accordions {
+  padding: 0;
+  margin: 0; }
+
+.blahlab-accordion-item {
+  margin-bottom: 0; }
+
+.blahlab-accordion-title {
+  display: block;
+  margin: 0;
+  padding: 15px 20px;
+  position: relative;
+  font-size: 12px;
+  line-height: 14px;
+  font-weight: 600;
+  background: #fff;
+  border-bottom: 1px solid #ddd;
+  color: #555;
+  cursor: pointer; }
+
+.blahlab-accordion-item.open .blahlab-accordion-title {
+  background: #f5f5f5; }
+
+.blahlab-accordion-item.open .blahlab-accordion-title:after {
+  color: #555; }
+
+.blahlab-accordion-title:hover, .blahlab-accordion-title.hover {
+  background: #f5f5f5;
+  color: #555; }
+
+.blahlab-accordion-title:hover:after {
+  color: #555; }
+
+.blahlab-accordion-item:first-child .blahlab-accordion-title {
+  border-top-width: 0; }
+
+.blahlab-accordion-section {
+  background: #fff; }
+
+.blahlab-accordion-item:last-child .blahlab-accordion-section {
+  border-bottom: none; }
+
+.blahlab-accordions-sortable .blahlab-accordion-item {
+  margin-bottom: 5px;
+  border: 1px solid #E8E8E8;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.02); }
+
+.blahlab-accordions-sortable .blahlab-accordion-title {
+  padding: 8px;
+  padding-left: 13px;
+  border-top: none;
+  border-bottom: 1px solid transparent;
+  cursor: move; }
+
+.blahlab-accordion-item.open .blahlab-accordion-title {
+  border-bottom: 1px solid #E7E7E7; }
+
+.blahlab-accordions-sortable .blahlab-accordion-title:after {
+  line-height: 37px;
+  border-color: #eee; }
+
+.blahlab-accordions-sortable .blahlab-accordion-section {
+  border-bottom: none; }
+
+.blahlab-sortable-drop {
+  min-height: 37px;
+  background: #fff;
+  border: 1px dashed #A3C567;
+  text-align: center; }
+
+.blahlab-sortable-drop a {
+  color: #000;
+  display: block;
+  font-weight: bold;
+  padding: 10px 5px;
+  text-align: center; }
+
+.ui-sortable-helper {
+  background-color: #fff;
+  opacity: 0.95; }
+
+.sortable-ghost * {
+  opacity: 0; }
+
+.sortable-ghost {
+  border: 1px dashed #000 !important; }
+
+.is-dragging a {
+  pointer-events: none; }

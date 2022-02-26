@@ -1,0 +1,138 @@
+.infobox {}
+
+/*Style 1*/
+.infobox.style1 {
+    padding: 50px 30px;
+    border-radius: 5px;
+    -webkit-transition: .3s linear;
+    -o-transition: .3s linear;
+    transition: .3s linear;
+}
+
+.infobox.style1:hover,
+.infobox.style1.active {
+    background: #fff;
+    -webkit-box-shadow: 0px 0px 43px 0px rgba(89, 75, 128, 0.11);
+    box-shadow: 0px 0px 43px 0px rgba(89, 75, 128, 0.11);
+}
+
+.infobox.style1 .infobox-icon {
+    margin-bottom: 20px;
+}
+
+.infobox.style1 .infobox-icon i {
+    font-size: 40px;
+    margin-left: 8px;
+    position: relative;
+}
+
+.infobox.style1 .infobox-icon i::after {
+    content: "";
+    position: absolute;
+    left: -15px;
+    top: -24px;
+    background-image: url(../images/polygon.png);
+    width: 90px;
+    height: 80px;
+    background-repeat: no-repeat;
+}
+
+.infobox.style1.right .infobox-icon i::after {
+    left: -33px;
+}
+
+.infobox.style1 .infobox-content h4 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.infobox.style1 .infobox-content a {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+/*Style 2*/
+.infobox.style2 {
+    -webkit-box-shadow: 0px 17px 53.94px 4.06px rgba(1, 51, 184, 0.03);
+    box-shadow: 0px 17px 53.94px 4.06px rgba(1, 51, 184, 0.03);
+    background: #fff;
+    border-radius: 10px;
+    -webkit-transition: .3s linear;
+    -o-transition: .3s linear;
+    transition: .3s linear;
+    padding: 30px;
+}
+
+.infobox.style2 .infobox-icon {
+    margin-bottom: 20px;
+}
+
+.infobox.style2 .infobox-icon i {
+    font-size: 40px;
+    margin-left: 8px;
+}
+
+.infobox.style2 .infobox-content a {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.infobox.style2 .infobox-content a i {
+    height: 35px;
+    width: 35px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 50%;
+    border: 1px solid #ddd;
+    line-height: 33px;
+    margin-left: 15px;
+    -webkit-transition: .3s;
+    -o-transition: .3s;
+    transition: .3s;
+}
+
+
+/*Style 3*/
+.infobox.style3 {
+    background: #fff;
+    padding: 30px 15px;
+    display: flex;
+}
+
+.infobox.style3 .infobox-icon {
+    width: 20%;
+    margin-bottom: 20px;
+}
+
+.infobox.style3 .infobox-icon i {
+    font-size: 40px;
+    margin-left: 8px;
+}
+
+.infobox.style3 .infobox-content {
+    width: 80%;
+    padding: 0 10px;
+}
+
+.infobox.style3 .infobox-content p {
+    margin-bottom: 0;
+}
+
+.infobox.style3 .infobox-content a {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.infobox.style3 .infobox-content a i {
+    height: 35px;
+    width: 35px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 50%;
+    border: 1px solid #ddd;
+    line-height: 33px;
+    margin-left: 15px;
+    -webkit-transition: .3s;
+    -o-transition: .3s;
+    transition: .3s;
+}

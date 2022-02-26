@@ -1,0 +1,970 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: http://wppolyglots.wordpress.com\n"
+"POT-Creation-Date: 2019-06-08 01:32:25+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Andy Lu <honryou@gmail.com>\n"
+
+#: 404.php:7
+msgid "404 error:"
+msgstr ""
+
+#: 404.php:9
+msgid "page not found"
+msgstr ""
+
+#: 404.php:16
+msgid "Sorry, we don't know what you are looking for."
+msgstr ""
+
+#: 404.php:19
+msgid "Go back home"
+msgstr ""
+
+#: comment.php:9
+msgid "Pingback:"
+msgstr ""
+
+#: comment.php:11
+msgid "Edit"
+msgstr ""
+
+#: comment.php:27
+msgid "Reply"
+msgstr ""
+
+#: comment.php:33
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:5
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:17
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:36
+msgid "Blahlab Framework"
+msgstr ""
+
+#: functions.php:208
+msgctxt "Raleway font: on or off"
+msgid "off"
+msgstr ""
+
+#: functions.php:212
+msgctxt "Open Sans font: on or off"
+msgid "off"
+msgstr ""
+
+#: functions.php:216
+msgctxt "Poppinns font: on or off"
+msgid "off"
+msgstr ""
+
+#: functions.php:220
+msgctxt "Montserrat font: on or off"
+msgid "off"
+msgstr ""
+
+#: functions.php:224
+msgctxt "Lora font: on or off"
+msgid "off"
+msgstr ""
+
+#: functions.php:228
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:232
+msgctxt "Damion font: on or off"
+msgid "off"
+msgstr ""
+
+#: functions.php:236
+msgctxt "Leckerli One font: on or off"
+msgid "off"
+msgstr ""
+
+#: functions.php:240
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:244
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:314
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:323
+msgid "Footer"
+msgstr ""
+
+#: functions.php:332
+msgid "Index"
+msgstr ""
+
+#: functions.php:342
+msgid "Portfolio Item Sidebar"
+msgstr ""
+
+#: functions.php:414
+msgid "<span class=\"fa fa-lock\"></span> %s"
+msgstr ""
+
+#: functions.php:489 plugins/blahlab-framework/blahlab-framework.php:423
+msgid "Click the Start link below to set this page up."
+msgstr ""
+
+#: functions.php:489 plugins/blahlab-framework/blahlab-framework.php:423
+msgid "You can drag and drop widgets, edit content and tweak the design. Click the link below to see your page come to life."
+msgstr ""
+
+#: functions.php:493 plugins/blahlab-framework/blahlab-framework.php:427
+msgid "Start"
+msgstr ""
+
+#: functions.php:493
+msgid "Edit Your Page"
+msgstr ""
+
+#: header.php:63
+msgid "Please set your menu in the admin area"
+msgstr ""
+
+#: index.php:43
+msgid "Daily archives:"
+msgstr ""
+
+#: index.php:46
+msgid "Monthly archives:"
+msgstr ""
+
+#: index.php:47
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: index.php:49
+msgid "Yearly archives:"
+msgstr ""
+
+#: index.php:50
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: index.php:52
+msgid "Tag:"
+msgstr ""
+
+#: index.php:55
+msgid "Category:"
+msgstr ""
+
+#: index.php:58
+msgid "Search results:"
+msgstr ""
+
+#: index.php:62
+msgid "Blog Archives"
+msgstr ""
+
+#: index.php:91 index.php:157 index.php:201 single.php:28
+#: widgets/blog-posts/partials/posts.php:15 widgets/blog-posts/view.php:55
+#: widgets/blog-posts/view.php:84
+msgid "Posted by"
+msgstr ""
+
+#: index.php:103 index.php:169 index.php:227 single.php:36
+#: widgets/blog-posts/partials/post.php:44
+#: widgets/blog-posts/partials/posts.php:22 widgets/blog-posts/view.php:62
+#: widgets/blog-posts/view.php:91
+msgid "In"
+msgstr ""
+
+#: index.php:108 index.php:174 index.php:232 page.php:62 single.php:40
+#: single.php:99 widgets/blog-posts/partials/post.php:49
+#: widgets/blog-posts/partials/posts.php:26 widgets/blog-posts/view.php:66
+#: widgets/blog-posts/view.php:95
+msgid "Leave a comment"
+msgstr ""
+
+#: index.php:108 index.php:174 index.php:232 single.php:40
+#: widgets/blog-posts/partials/posts.php:26 widgets/blog-posts/view.php:66
+#: widgets/blog-posts/view.php:95
+msgid "Comment 1"
+msgstr ""
+
+#: index.php:108 index.php:174 index.php:232 single.php:40
+#: widgets/blog-posts/partials/post.php:49
+#: widgets/blog-posts/partials/posts.php:26 widgets/blog-posts/view.php:66
+#: widgets/blog-posts/view.php:95
+msgid "Comments %"
+msgstr ""
+
+#: index.php:214
+msgid "Untitled"
+msgstr ""
+
+#: index.php:254
+msgid "Nothing found."
+msgstr ""
+
+#: index.php:255
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr ""
+
+#: index.php:256
+msgid "Go to "
+msgstr ""
+
+#: index.php:256
+msgid "home page"
+msgstr ""
+
+#: index.php:279
+msgid "Newer Entries "
+msgstr ""
+
+#: index.php:279
+msgid " Older Entries"
+msgstr ""
+
+#: metaboxes/featured-images-view.php:19 metaboxes/slider-images-view.php:9
+#: metaboxes/slider-images-view.php:22
+msgid "Upload Image"
+msgstr ""
+
+#: metaboxes/portfolio-details-view.php:9
+msgid "Client"
+msgstr ""
+
+#: metaboxes/portfolio-details-view.php:15
+msgid "Services"
+msgstr ""
+
+#: metaboxes/portfolio-details-view.php:18
+msgid "service"
+msgstr ""
+
+#: metaboxes/portfolio-details-view.php:22
+msgid "Add a service"
+msgstr ""
+
+#: metaboxes/portfolio-details-view.php:26
+msgid "Link URL"
+msgstr ""
+
+#: metaboxes/portfolio-details-view.php:30
+msgid "Link text"
+msgstr ""
+
+#: metaboxes/portfolio-media-view.php:11
+msgid "Choose media type"
+msgstr ""
+
+#: metaboxes/portfolio-media-view.php:12
+msgid "Image"
+msgstr ""
+
+#: metaboxes/portfolio-media-view.php:13
+msgid "Video"
+msgstr ""
+
+#: metaboxes/portfolio-media-view.php:18
+msgid "Upload image"
+msgstr ""
+
+#: metaboxes/portfolio-media-view.php:19 widgets/home-show/form.php:9
+msgid "Paste MP4 video URL"
+msgstr ""
+
+#: metaboxes/portfolio-media-view.php:19 widgets/home-show/form.php:9
+msgid "Or select video"
+msgstr ""
+
+#: metaboxes/portfolio-media-view.php:24
+msgid "SVG mask code"
+msgstr ""
+
+#: metaboxes/slider-images-view.php:14
+msgid "Slider background"
+msgstr ""
+
+#: page.php:23 single.php:60
+msgid "Pages:"
+msgstr ""
+
+#: page.php:44 single.php:81
+msgid "Comments"
+msgstr ""
+
+#: page.php:73 single.php:110 widgets/team-members/form.php:23
+msgid "Name"
+msgstr ""
+
+#: page.php:74 single.php:111 widgets/contact-boxes.disabled/form.php:12
+msgid "Email"
+msgstr ""
+
+#: page.php:78 single.php:115
+msgid "Comment"
+msgstr ""
+
+#: page.php:79 single.php:116
+msgid "Post Comment"
+msgstr ""
+
+#: plugin-widgets/contact-form/form.php:2
+msgid "Contact Form Recipient"
+msgstr ""
+
+#: plugin-widgets/contact-form/form.php:3 theme-options/view.php:47
+#: widgets/call-to-action/form.php:1 widgets/clients/form.php:1
+#: widgets/contact-boxes.disabled/form.php:9 widgets/contact-info/form.php:1
+#: widgets/contact-infos.disabled/form.php:1
+#: widgets/introduction.disabled/form.php:1 widgets/page-header/form.php:1
+#: widgets/process.disabled/form.php:9 widgets/process.disabled/form.php:31
+#: widgets/project-color-palette/form.php:1 widgets/project-text/form.php:1
+#: widgets/services/form.php:1 widgets/services/form.php:25
+#: widgets/team-culture/form.php:1 widgets/team-members/form.php:1
+#: widgets/testimonials.disabled/form.php:1
+#: widgets/video-introduction.disabled/form.php:3
+msgid "Title"
+msgstr ""
+
+#: plugin-widgets/contact-form/view.php:26
+msgid "NAME"
+msgstr ""
+
+#: plugin-widgets/contact-form/view.php:29
+msgid "EMAIL"
+msgstr ""
+
+#: plugin-widgets/contact-form/view.php:32
+msgid "SUBJECT"
+msgstr ""
+
+#: plugin-widgets/contact-form/view.php:35
+msgid "MESSAGE"
+msgstr ""
+
+#: plugins/blahlab-framework/blahlab-framework.php:62
+msgid " Body"
+msgstr ""
+
+#: plugins/blahlab-framework/blahlab-framework.php:111
+msgid "Page Builder"
+msgstr ""
+
+#: plugins/blahlab-framework/blahlab-framework.php:112
+msgid "Use this area to add widgets to your page, use the widgets for the Body section."
+msgstr ""
+
+#: plugins/blahlab-framework/blahlab-framework.php:121
+msgid "Theme Options"
+msgstr ""
+
+#: plugins/blahlab-framework/blahlab-framework.php:382
+msgid "Saving..."
+msgstr ""
+
+#: plugins/blahlab-framework/blahlab-framework.php:383
+msgid "Done!"
+msgstr ""
+
+#: plugins/blahlab-framework/blahlab-framework.php:427
+msgid "Edit Your Page in theme Customizer"
+msgstr ""
+
+#: plugins/blahlab-framework/blahlab-framework.php:442
+msgid "Edit in the Theme Customizer"
+msgstr ""
+
+#: plugins/blahlab-framework/blahlab-framework.php:560
+msgid "Edit in theme Customizer"
+msgstr ""
+
+#: plugins/blahlab-framework/classes/blahlab_wp_customize_theme_options_control.php:12
+msgid "One click setup"
+msgstr ""
+
+#: plugins/blahlab-framework/post_types.php:83
+#: plugins/blahlab-framework/post_types.php:138
+msgid "Add new %s"
+msgstr ""
+
+#: plugins/blahlab-framework/post_types.php:84
+#: plugins/blahlab-framework/post_types.php:136
+msgid "Edit %s"
+msgstr ""
+
+#: plugins/blahlab-framework/post_types.php:85
+msgid "New %s"
+msgstr ""
+
+#: plugins/blahlab-framework/post_types.php:86
+msgid "View %s"
+msgstr ""
+
+#: plugins/blahlab-framework/post_types.php:87
+#: plugins/blahlab-framework/post_types.php:132
+msgid "Search %s"
+msgstr ""
+
+#: plugins/blahlab-framework/post_types.php:88
+msgid "No %s found."
+msgstr ""
+
+#: plugins/blahlab-framework/post_types.php:89
+msgid "No %s found in Trash"
+msgstr ""
+
+#: plugins/blahlab-framework/post_types.php:133
+msgid "All %s"
+msgstr ""
+
+#: plugins/blahlab-framework/post_types.php:134
+msgid "Parent %s"
+msgstr ""
+
+#: plugins/blahlab-framework/post_types.php:135
+msgid "Parent %s:"
+msgstr ""
+
+#: plugins/blahlab-framework/post_types.php:137
+msgid "Update %s"
+msgstr ""
+
+#: plugins/blahlab-framework/post_types.php:139
+msgid "New %n Name"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/parsers.php:42
+#: plugins/blahlab-framework/vendor/wordpress-importer/parsers.php:72
+#: plugins/blahlab-framework/vendor/wordpress-importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/parsers.php:43
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/parsers.php:84
+#: plugins/blahlab-framework/vendor/wordpress-importer/parsers.php:89
+#: plugins/blahlab-framework/vendor/wordpress-importer/parsers.php:279
+#: plugins/blahlab-framework/vendor/wordpress-importer/parsers.php:468
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:134
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:143
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:194
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:198
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:199
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:215
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:240
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:267
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:269
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:286
+msgid "Submit"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:374
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:425
+msgid "Failed to import category %s"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:465
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:511
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:652
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:537
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:559
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:618
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:790
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:854
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:867
+msgid "Invalid file type"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:912
+msgid "Remote server did not respond"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:918
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:925
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:930
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:936
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:1034
+msgid "Import WordPress"
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:1041
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:1056
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:1057
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: plugins/blahlab-framework/vendor/wordpress-importer/wordpress-importer.php:1131
+msgid "Import <strong>posts, pages, comments, custom fields, categories, and tags</strong> from a WordPress export file."
+msgstr ""
+
+#: plugins/blahlab-framework/widgets/base.php:16
+msgid "This widget is used to display your "
+msgstr ""
+
+#: scripts/wordpress-i18n/pomo/sample/app.php:56
+msgid "Welcome %s!"
+msgstr ""
+
+#: scripts/wordpress-i18n/pomo/sample/app.php:60
+msgid "A string with low priority!"
+msgstr ""
+
+#: scripts/wordpress-i18n/pomo/sample/app.php:62
+msgid "Bye\n"
+msgstr ""
+
+#: single-portfolio.php:155 widgets/home-show/view.php:217
+#: widgets/portfolio-gallery/view.php:124
+#: widgets/portfolio-gallery/view.php:178
+msgid "case image"
+msgstr ""
+
+#: theme-options/view.php:2
+msgid "Address"
+msgstr ""
+
+#: theme-options/view.php:7
+msgid "Phone"
+msgstr ""
+
+#: theme-options/view.php:12
+msgid "Contact Emails"
+msgstr ""
+
+#: theme-options/view.php:15
+msgid "your@email.com"
+msgstr ""
+
+#: theme-options/view.php:19
+msgid "Add an email"
+msgstr ""
+
+#: theme-options/view.php:23
+msgid "Portfolio Page"
+msgstr ""
+
+#: theme-options/view.php:31
+msgid "Social networks"
+msgstr ""
+
+#: theme-options/view.php:35
+msgid "Select social network"
+msgstr ""
+
+#: theme-options/view.php:38
+msgid "url"
+msgstr ""
+
+#: theme-options/view.php:42
+msgid "Add social network"
+msgstr ""
+
+#: theme-options/view.php:48 widgets/introduction.disabled/form.php:4
+msgid "Button Text"
+msgstr ""
+
+#: theme-options/view.php:49 widgets/introduction.disabled/form.php:5
+msgid "Button URL"
+msgstr ""
+
+#: widgets/blog-posts/form.php:2
+msgid "Simply blog posts."
+msgstr ""
+
+#: widgets/blog-posts/partials/post.php:32
+msgid "Featured"
+msgstr ""
+
+#: widgets/blog-posts/partials/post.php:39
+msgid "by"
+msgstr ""
+
+#: widgets/blog-posts/partials/post.php:49
+msgid "1 Comment"
+msgstr ""
+
+#: widgets/blog-posts/partials/post.php:54
+msgid "Read more"
+msgstr ""
+
+#: widgets/blog-posts/view.php:118
+msgid "Load more"
+msgstr ""
+
+#: widgets/call-to-action/form.php:2 widgets/home-show/form.php:11
+msgid "Sub title"
+msgstr ""
+
+#: widgets/call-to-action/form.php:3
+msgid "URL"
+msgstr ""
+
+#: widgets/clients/form.php:2 widgets/contact-info/form.php:2
+#: widgets/page-header/form.php:2 widgets/process.disabled/form.php:32
+#: widgets/services/form.php:2 widgets/team-culture/form.php:2
+#: widgets/team-members/form.php:3
+msgid "Description"
+msgstr ""
+
+#: widgets/clients/form.php:5 widgets/services/form.php:5
+#: widgets/team-members/form.php:6
+msgid "Choose layout"
+msgstr ""
+
+#: widgets/clients/form.php:6 widgets/services/form.php:6
+#: widgets/team-members/form.php:7
+msgid "Introdution text at left"
+msgstr ""
+
+#: widgets/clients/form.php:7 widgets/services/form.php:7
+#: widgets/team-members/form.php:8
+msgid "Introdution text at right"
+msgstr ""
+
+#: widgets/clients/form.php:29
+msgid "Add a Client"
+msgstr ""
+
+#: widgets/contact-boxes.disabled/form.php:10
+#: widgets/introduction.disabled/form.php:2
+#: widgets/process.disabled/form.php:10 widgets/project-text/form.php:9
+#: widgets/video-introduction.disabled/form.php:4
+msgid "Text"
+msgstr ""
+
+#: widgets/contact-boxes.disabled/form.php:11
+msgid "Small Title"
+msgstr ""
+
+#: widgets/contact-boxes.disabled/form.php:14
+msgid "Choose background"
+msgstr ""
+
+#: widgets/contact-boxes.disabled/form.php:15
+msgid "White"
+msgstr ""
+
+#: widgets/contact-boxes.disabled/form.php:16
+msgid "Black"
+msgstr ""
+
+#: widgets/contact-boxes.disabled/form.php:24
+msgid "Add New Box"
+msgstr ""
+
+#: widgets/contact-info/form.php:4
+msgid "Google Map link text"
+msgstr ""
+
+#: widgets/contact-info/form.php:5
+msgid "Google Map link URL"
+msgstr ""
+
+#: widgets/contact-infos.disabled/view.php:42
+msgid "Scroll or drag to explore."
+msgstr ""
+
+#: widgets/contact-infos.disabled/view.php:43
+msgid "Swipe to explore."
+msgstr ""
+
+#: widgets/home-show/form.php:4
+msgid "Catchword"
+msgstr ""
+
+#: widgets/home-show/form.php:12
+msgid "Hint text"
+msgstr ""
+
+#: widgets/home-show/form.php:15
+msgid "Contact link text"
+msgstr ""
+
+#: widgets/home-show/form.php:16
+msgid "Contact link URL"
+msgstr ""
+
+#: widgets/home-show/form.php:18
+msgid "Shape mask SVG code"
+msgstr ""
+
+#: widgets/home-show/form.php:31
+msgid "Choose portfolio item"
+msgstr ""
+
+#: widgets/home-show/form.php:36
+msgid "Nav text"
+msgstr ""
+
+#: widgets/home-show/form.php:37 widgets/project-visual-summary/form.php:3
+msgid "Background text"
+msgstr ""
+
+#: widgets/home-show/form.php:45
+msgid "Add another featured work"
+msgstr ""
+
+#: widgets/introduction.disabled/form.php:7
+#: widgets/process.disabled/form.php:42
+#: widgets/video-introduction.disabled/form.php:7
+msgid "Scroll hint text"
+msgstr ""
+
+#: widgets/introduction.disabled/form.php:8
+#: widgets/process.disabled/form.php:43
+msgid "Swipe hint text for touch devices"
+msgstr ""
+
+#: widgets/process.disabled/form.php:11
+#: widgets/video-introduction.disabled/form.php:5
+msgid "Small Text"
+msgstr ""
+
+#: widgets/process.disabled/form.php:18
+msgid "Add New Introduction"
+msgstr ""
+
+#: widgets/process.disabled/form.php:39
+msgid "Add New Step"
+msgstr ""
+
+#: widgets/project-image/form.php:1 widgets/slides.disabled/form.php:9
+msgid "Choose image"
+msgstr ""
+
+#: widgets/project-image/form.php:2
+msgid "Choose background color"
+msgstr ""
+
+#: widgets/project-image/view.php:43
+msgid "project image"
+msgstr ""
+
+#: widgets/project-text/form.php:4
+msgid "Choose title style"
+msgstr ""
+
+#: widgets/project-text/form.php:5
+msgid "Big"
+msgstr ""
+
+#: widgets/project-text/form.php:6
+msgid "Small"
+msgstr ""
+
+#: widgets/project-text/form.php:12
+msgid "Choose position"
+msgstr ""
+
+#: widgets/project-text/form.php:13
+msgid "Left"
+msgstr ""
+
+#: widgets/project-text/form.php:14
+msgid "Right"
+msgstr ""
+
+#: widgets/project-text/form.php:15
+msgid "Title left text right"
+msgstr ""
+
+#: widgets/project-text/form.php:18
+msgid "Select Background Color"
+msgstr ""
+
+#: widgets/project-visual-summary/view.php:17
+msgid "big image"
+msgstr ""
+
+#: widgets/project-visual-summary/view.php:21
+msgid "small image"
+msgstr ""
+
+#: widgets/services/form.php:30
+msgid "service item"
+msgstr ""
+
+#: widgets/slides.disabled/form.php:16
+msgid "Add New Slide"
+msgstr ""
+
+#: widgets/slides.disabled/view.php:15 widgets/team-culture/view.php:69
+#: widgets/team-culture/view.php:74 widgets/team-culture/view.php:77
+#: widgets/team-culture/view.php:82 widgets/team-culture/view.php:85
+#: widgets/team-culture/view.php:88 widgets/team-culture/view.php:96
+#: widgets/team-culture/view.php:99 widgets/team-culture/view.php:102
+#: widgets/team-culture/view.php:107 widgets/team-members/view.php:71
+msgid "image"
+msgstr ""
+
+#: widgets/team-culture/form.php:3
+msgid "Sub description"
+msgstr ""
+
+#: widgets/team-members/form.php:24 widgets/testimonials.disabled/form.php:13
+msgid "Position"
+msgstr ""
+
+#: widgets/team-members/form.php:25
+msgid "Choose avatar"
+msgstr ""
+
+#: widgets/team-members/form.php:32
+msgid "Add a Member"
+msgstr ""
+
+#: widgets/testimonials.disabled/form.php:11
+msgid "Quote"
+msgstr ""
+
+#: widgets/testimonials.disabled/form.php:12
+msgid "Author Name"
+msgstr ""
+
+#: widgets/testimonials.disabled/form.php:20
+msgid "Add New Testimonial"
+msgstr ""
+
+#: widgets/video-introduction.disabled/form.php:1
+msgid "Background mp4 video url"
+msgstr ""
