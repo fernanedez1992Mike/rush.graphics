@@ -1,0 +1,35 @@
+version: '3.4'
+
+services:
+  db:
+    image: mysql:5.7
+    environment:
+      MYSQL_RANDOM_ROOT_PASSWORD: 'yes'
+      MYSQL_DATABASE: wordpress
+      MYSQL_USER: wordpress
+      MYSQL_PASSWORD: P4SSVV0RD
+    volumes:
+      - ./mysql:/var/lib/mysql
+    expose:
+      - 3306
+  web:
+    image: wordpress:latest
+    depends_on:
+      - db
+    volumes:
+      - './wp-content/plugins:/var/www/html/wp-content/plugins'
+      - './wp-content/themes:/var/www/html/wp-content/themes'
+      - './wp-content/languages:/var/www/html/wp-content/languages'
+    environment:
+      VIRTUAL_HOST: rush.dev.chrismargroff.com
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_NAME: wordpress
+      WORDPRESS_DB_USER: wordpress
+      WORDPRESS_DB_PASSWORD: P4SSVV0RD
+      WORDPRESS_TABLE_PREFIX: "_8RG_"
+      WORDPRESS_DEBUG: 1
+
+networks:
+  default:
+    external:
+      name: proxy

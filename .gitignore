@@ -17,6 +17,7 @@ error_log
 /*.txt
 /*.html
 /*.yml
+!docker-compose.yml
 *.zip
 
 mysql/
