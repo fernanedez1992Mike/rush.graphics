@@ -1,0 +1,1 @@
+<input type="text" v-model="options.title" placeholder="<?php esc_attr_e('Title', 'haud-by-honryou') ?>" />

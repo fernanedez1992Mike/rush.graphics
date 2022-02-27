@@ -32,7 +32,7 @@
 .bdp-post-list{margin-bottom:30px; }
 .bdp-post-title a{text-decoration:none !important; border-bottom:0px !important;}
 .bdp-post-tags { clear:both;}
-.bdp-post-tags a { font-style: italic; text-decoration: none; font-size: 14px;  color: #666;}
+.bdp-post-tags a {font-style: italic; text-decoration: none; font-size: 14px;  color: #666; cursor: pointer;}
 .category-title-main{clear:both;}
 .bdp-post-link {position: absolute;top: 0;right: 0;z-index: 1;bottom: 0;left: 0;}
 .bdp-flotRight{float:right !important; clear:right;}
@@ -155,7 +155,7 @@ box-shadow: none;text-shadow: none;font-size: 14px;text-transform: uppercase;bor
 /**************************************************************
 						Read more link bdp-design
 ******************************************************************/
-.bdp-readmorebtn{ -moz-transition:all 0.5s ease-out 0s;-ms-transition:all 0.5s ease-out 0s;-o-transition:all 0.5s ease-out 0s; transition: all 0.5s ease-out 0s;text-decoration: none !important; color: #888;border: 2px solid #888;padding: 8px 15px;font-size: 13px;display: inline-block;box-sizing: border-box;line-height: normal !important;}
+.bdp-readmorebtn{ -moz-transition:all 0.5s ease-out 0s;-ms-transition:all 0.5s ease-out 0s;-o-transition:all 0.5s ease-out 0s; transition: all 0.5s ease-out 0s;text-decoration: none !important; color: #888;border: 2px solid #888;padding: 8px 15px;font-size: 13px;display: inline-block;box-sizing: border-box;line-height: normal !important; cursor: pointer;}
 .bdp-readmorebtn:hover, .bdp-readmorebtn:focus{background:#888; color:#fff; }
 
 /**************************************************************

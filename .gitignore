@@ -13,9 +13,9 @@ equipment/
 house/
 photos/
 error_log
-*.php
-*.txt
-*.html
-*.yml
+/*.php
+/*.txt
+/*.html
+/*.yml
 *.zip
 
